@@ -1,4 +1,9 @@
 site_name: My Docs
 
+nav:
+    - Inicio: 'index.md'
+    - Panejamento:
+        - 'Ferramentas': './planejamento/ferramentas.md'
+
 theme:
   name: material
