@@ -2,10 +2,14 @@
 
 ## 1. Introdução
 
+<div style="text-align: justify">
 &emsp;&emsp;Para que o projeto seja concluído, será necessário o uso das ferramentas presentes na tabela 1:
+</div>
+<br>  
 
+<p style="font-size: 18px; text-align: center">Tabela 1 - Ferramentas</p>
 
-| | Ferramenta | Finalidade |
+| Logo | Ferramenta | Finalidade |
 | :------: | :----------: | :---------------------------------------------------: |
 | ![drawing](../assets/ferramentas/Canva.png)    | Canva     | Utilizado para a elaboração das apresentações |
 | ![drawing](../assets/ferramentas/discord.png)  | Discord   | Reuniões da equipe para a elaboração das atividades |
@@ -26,4 +30,5 @@ Tabela 1: Ferramentas
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  |                    -                   |    Lucas   | Levi | 23/06 |
+|   1.0  |                    -                   |    Lucas   | Levi | 06/07/2022 |
+|   1.1  | Arquivo Revisado |    Lucas   | Levi | 09/07/2022 |
