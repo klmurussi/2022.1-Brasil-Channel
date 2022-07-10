@@ -3,7 +3,9 @@ Brasil Channel
 </h1>
 
 
-![drawing](..\2022.1-Grupo-05\docs\assets\Pagina_ini\brasil.jpg)
+<center>
+<img src="./assets/channel.png" width="500">
+</center>
 
 
 O [Brasil channel](https://www.brasilchannel.com.br/) é um site voltado para informações gerais sobre o Brasil e suas regiões.
