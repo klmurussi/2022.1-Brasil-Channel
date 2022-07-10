@@ -28,4 +28,4 @@ Este repositório está destinado a disciplina de Interação Humano-Computador 
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    Pedro Henrique    | Lucas | 06/07/2022 |
-|   2.0  |   Adiciona versionamento, fotos e corrige erros de código                 |        |  | 10/07/2022 |
+|   2.0  |   Adiciona versionamento, fotos e corrige erros de código                 |  Lucas      |  | 10/07/2022 |
