@@ -19,12 +19,12 @@ Este repositório está destinado a disciplina de Interação Humano-Computador 
 
 ## Equipe
 
-| Integrantes                       | Github                                                  |
-| --------------------------------- | ------------------------------------------------------- |
-| Kathlyn Lara Murussi              | [klmurussi](https://github.com/klmurussi)               |
-| Levi de Oliveira Queiroz          | [LeviQ27](https://github.com/LeviQ27)                   |
-| Lucas Pimentel Quintão            | [LucasPimentel123](https://github.com/LucasPimentel123) |
-| Pedro Henrique Caldeira de Moraes | [PedroMoraes39](https://github.com/PedroMoraes39)       |
-| Samuel Victor Castro Macêdo       | [SamuelCastro7](https://github.com/SamuelCastro7)       |
+|                                                           | Membro             | Github            |
+| --------------------------------------------------------- | ------------------ | ----------------- |
+| <img src="docs/assets/membros/Kathlyn.png" width="100">        | Kathlyn Lara Murussi      | [klmurussi](https://github.com/klmurussi)      |
+| <img src="docs/assets/membros/Levi.png" width="100">    | Levi de Oliveira Queiroz       | [LeviQ27](https://github.com/LeviQ27)        |
+| <img src="docs/assets/membros/Lucas.png" width="100"> | Lucas Pimentel Quintão     | [LucasPimentel123](https://github.com/LucasPimentel123)  |
+| <img src="docs/assets/membros/PedroHenrique.png" width="100">| Pedro Henrique Caldeira de Moraes| [PedroMoraes39](https://github.com/PedroMoraes39)       |
+| <img src="docs/assets/membros/Samuel.png" width="100">       | Samuel Victor Castro Macêdo | [SamuelCastro7](https://github.com/SamuelCastro7) |
 
 
