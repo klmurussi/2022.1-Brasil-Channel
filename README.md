@@ -4,7 +4,7 @@ Brasil Channel
 
 
 <center>
-<img src="./assets/channel.png" width="500">
+<img src="docs/assets/channel.png" width="500">
 </center>
 
 
