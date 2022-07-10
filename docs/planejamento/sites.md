@@ -2,7 +2,7 @@
 
 &emsp;&emsp;Como parte das atividades listadas no Plano de Ensino do curso IHC, os alunos teriam que, individualmente, aplicarem uma avaliação de IHC em um site escolhido pelo aluno. Para posteriormente o grupo escolher um dos sites avaliados para aplicar os conhecimentos adquiridos durante a aplicação do curso.
 
-### 1.1 Sites Avaliados Individualmente
+## 2. Sites Avaliados Individualmente
 
 
 - [**Prefeitura de Araguaína**](https://www.araguaina.to.gov.br/index/php) - Realizado por: [Kathlyn Lara](https://github.com/klmurussi)
@@ -21,7 +21,7 @@
 > Segue o arquivo produzido: [ProjetoParteIndividualMetodoeAvaliçãoSamuelVictorCMacedo](../assets/sitesAvaliados/PlojetoParteIndividualMetodoeAvaliçãoSamuelVictorCMacedo.pdf)
 
 
-### 1.2  Site Escolhido
+## 3.  Site Escolhido
 
 &emsp;&emsp;Através de uma reunião em sala e em reunião virtual pelo Discord no dia 04/07/2022, após análise das avaliações dos sites realizados, foi escolhido o site [Brasil Channel](https://www.brasilchannel.com.br/) para o curso. O objetivo principal do site é mostrar o Brasil, seus climas, regiões etc. Assim como apresentado no documento em referência à avaliação do site Brasil Channel, foram identificados alguns problemas como uma má distribuição de objetos na interface e uma má liberdade de usabilidade do usuário.
 

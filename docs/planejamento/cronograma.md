@@ -84,7 +84,7 @@ O cronograma tem como objetivo mostrar visualmente as tarefas a serem entregas e
 
 ## 3. Heatmap
 
-O heatmap (conferir Figura 2) tem como objetivo mostrar visualmente a disponibilidade dos integrantes do grupo para realização de reuniões.
+O heatmap (conferir Figura 1) tem como objetivo mostrar visualmente a disponibilidade dos integrantes do grupo para realização de reuniões.
 
 ![heatmap](../assets/cronograma/heatmap.jpg)
 <figcaption align='center'>
