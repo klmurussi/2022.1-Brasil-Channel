@@ -10,12 +10,12 @@ Brasil Channel
 
 O [Brasil channel](https://www.brasilchannel.com.br/) é um site voltado para informações gerais sobre o Brasil e suas regiões.
 
-Dentro do site podemos encontrar diversas informações como o clima, folclore, fauna e também uma área coma discrição de cada região do país. 
+Dentro do site podemos encontrar diversas informações como o clima, folclore, fauna e também uma área com a descrição de cada região do país. 
 
 
 ## Sobre o Projeto
 
-Este repositório está destinado a disciplina de Interação Humano-Computador da Universidade de Brasília. Seu objetivo e a analise do site Brasil channel, aplicando os conceitos estudados na disciplina para assim se obter uma melhor usabilidade do site. 
+Este repositório está destinado à disciplina de Interação Humano-Computador da Universidade de Brasília. Seu objetivo é a analise do site Brasil channel, aplicando os conceitos estudados na disciplina para assim se obter uma melhor usabilidade do site. 
 
 ## Equipe
 
