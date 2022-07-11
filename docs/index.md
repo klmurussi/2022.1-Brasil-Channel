@@ -11,7 +11,7 @@
 
 ## 2. Sobre o Projeto
 
-Este repositório está destinado a disciplina de Interação Humano-Computador da Universidade de Brasília. Seu objetivo e a analise do site Brasil channel, aplicando os conceitos estudados na disciplina para assim se obter uma melhor usabilidade do site. 
+Este repositório está destinado à disciplina de Interação Humano-Computador da Universidade de Brasília. Seu objetivo é a analise do site Brasil channel, aplicando os conceitos estudados na disciplina para assim se obter uma melhor usabilidade do site. 
 
 ## 3. Equipe
 
@@ -28,4 +28,4 @@ Este repositório está destinado a disciplina de Interação Humano-Computador 
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    Pedro Henrique    | Lucas | 06/07/2022 |
-|   2.0  |   Adiciona versionamento, fotos e corrige erros de código                 |  Lucas      |  | 10/07/2022 |
+|   2.0  |   Adiciona versionamento, fotos e corrige erros de código                 |  Lucas      | Kathlyn Lara | 10/07/2022 |
