@@ -7,6 +7,8 @@ nav:
         - 'Cronograma': './planejamento/cronograma.md'
         - 'Sites avaliados': './planejamento/sites.md'
         - 'Processo de Design': './planejamento/processo.md'
+    - Apresentações:
+        - 'Apresentação 1': './apresentacoes/apresentacao1.md'
 
 theme:
   name: material
