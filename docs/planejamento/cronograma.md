@@ -42,20 +42,18 @@ O cronograma tem como objetivo mostrar visualmente as tarefas a serem entregas e
 
 |           Atividade          |    Data    |
 |:----------------------------:|:----------:|
-| Planejamendo da avaliação do storyboard    |        05/ago    |
-|        Planejamendo da avaliação da análise de tarefas        |   05/ago     |
-|   Resultados do storyboard    |   08/ago  |
-|     Resultado da análise de tarefas  |    08/ago |
+| Planejamento da Avaliação do Storyboard e Análise de tarefas    |        05/ago    |
+|       Planejamento do relato dos resultados da avaliação do Storyboard        |   05/ago     |
+|    Planejamento do relato dos resultados da avaliação do Análise de tarefas    |   08/ago  |
 |      Gravar apresentação     |  09/ago |
 
 ### 2.5 Entrega 5
 
 |           Atividade          |    Data    |
 |:----------------------------:|:----------:|
-| Resultados do Storyboard    |        12/ago    |
-|        Resultado da análise de tarefas       |   13/ago     |
+| Relato dos resultados do Story Board e da Análise de tarefas    |        12/ago    |
 |    Planejamento da avaliação do protótipo em papel    |   14/ago  |
-|     Resultados da avaliação do protótipo em papel  |    14/ago|
+|     planejamento do relato dos resultados da avaliação do Protótipo de Papel  |    14/ago|
 |      Gravar apresentação     |  16/ago|
 
 ### 2.6 Entrega 6
@@ -69,9 +67,9 @@ O cronograma tem como objetivo mostrar visualmente as tarefas a serem entregas e
 
 |           Atividade          |    Data    |
 |:----------------------------:|:----------:|
-| Resultados da avaliação do protótipo em papel     |        01/set    |
-|       Avaliação do protótipo de alta fidelidade       |   01/set     |
-|    Resultados da avaliação do protótipo de alta fidelidade   |   02/set  |
+|  Relato dos resultados do Protótipo de Papel     |        01/set    |
+|      Planejamento da Avaliação do protótipo de alta fidelidade       |   01/set     |
+|     Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade   |   02/set  |
 |     Gravar apresentação  |    03/set|
 
 ### 2.8 Entrega Final
