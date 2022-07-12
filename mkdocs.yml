@@ -3,10 +3,17 @@ site_name: Brasil Channel
 nav:
     - Inicio: 'index.md'
     - Panejamento:
-        - 'Ferramentas': './planejamento/ferramentas.md'
-        - 'Cronograma': './planejamento/cronograma.md'
+        - Planejamento da equipe:
+          - 'Ferramentas': './planejamento/ferramentas.md'
+          # 'Heatmap' : './planejamento/heatmap.md'
+          # 'Metodologias' : './planejamento/metodologias.md'
+          
+        - Planejamento do projeto:
+          - 'Cronograma': './planejamento/cronograma.md'
+          - 'Processo de Design': './planejamento/processo.md'
+
+        
         - 'Sites avaliados': './planejamento/sites.md'
-        - 'Processo de Design': './planejamento/processo.md'
 
 theme:
   name: material
