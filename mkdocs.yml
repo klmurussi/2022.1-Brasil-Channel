@@ -11,9 +11,7 @@ nav:
         - Planejamento do projeto:
           - 'Cronograma': './planejamento/cronograma.md'
           - 'Processo de Design': './planejamento/processo.md'
-
-        
-        - 'Sites avaliados': './planejamento/sites.md'
+          - 'Sites avaliados': './planejamento/sites.md'
 
 theme:
   name: material
