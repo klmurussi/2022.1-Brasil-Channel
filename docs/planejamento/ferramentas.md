@@ -3,11 +3,9 @@
 ## 1. Introdução
 
 <div style="text-align: justify">
-&emsp;&emsp;Para que o projeto seja concluído, será necessário o uso das ferramentas presentes na tabela 1:
+&emsp;&emsp;Para que o projeto seja concluído, será necessário o uso das ferramentas presentes na Tabela 1:
 </div>
 <br>  
-
-<p style="font-size: 18px; text-align: center">Tabela 1 - Ferramentas</p>
 
 | Logo | Ferramenta | Finalidade |
 | :------: | :----------: | :---------------------------------------------------: |
@@ -22,13 +20,25 @@
 | ![drawing](../assets/ferramentas/forms.PNG) | Google forms | Aplicativo para questionários |
 | ![drawing](../assets/ferramentas/diagram.PNG) | Diagram IO  | Aplicativo para desenvolvimento de diagramas e desenhos |
 
-<center>
-Tabela 1: Ferramentas 
-</center>
+<figcaption align='center'>
+    <b>Tabela 1: Ferramentas.</b>
+    <br><small>Fonte: Elaboração própria.</small>
+</figcaption>
 
+
+## 2. Heatmap
+
+O heatmap (conferir Figura 1) tem como objetivo mostrar visualmente a disponibilidade dos integrantes do grupo para realização de reuniões presenciais ou nas ferramentas ditas anteriormente.
+
+![heatmap](../assets/cronograma/heatmap.jpg)
+<figcaption align='center'>
+    <b>Figura 1: Heatmap</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
 ## Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    Lucas   | Levi | 06/07/2022 |
 |   1.1  | Arquivo Revisado |    Lucas   | Levi | 09/07/2022 |
+|   1.2  | Adição do Heatmap e correção da legenda da tabela 1 | Lara | | 12/07/2022| 
