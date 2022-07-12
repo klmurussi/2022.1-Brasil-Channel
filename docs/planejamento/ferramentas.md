@@ -35,6 +35,8 @@ O heatmap (conferir Figura 1) tem como objetivo mostrar visualmente a disponibil
     <b>Figura 1: Heatmap</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
+
+
 ## Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
