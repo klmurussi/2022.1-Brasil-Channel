@@ -2,94 +2,124 @@
 
 ## 1. Introdução
 
-O cronograma tem como objetivo mostrar visualmente as tarefas a serem entregas em cada ponto de controle da disciplina e suas datas. As datas e tarefas foram montadas baseadas no  plano de ensino.
+&emsp;&emsp;O cronograma tem como objetivo mostrar visualmente as tarefas a serem entregas em cada ponto de controle da disciplina e suas datas. As datas e tarefas foram montadas baseadas no  plano de ensino.
 
 ## 2. Cronograma de Atividades
 
+&emsp;&emsp;As Tabelas de 1 a 8 são para organizar as tarefas para cada ponto de controle.
+
 ### 2.1 Entrega 1
 
-|           Atividade          |    Data    |
-|:----------------------------:|:----------:|
-| Lista de sites avaliados     |        26/jun    |
-|        Site escolhido        |   30/jun     |
-|    Ferramentas do projeto    |   08/jul  |
-|     Planejamento do projeto  |    08/jul|
-|     Cronograma de atividades |    08/jul|
-|    Adicionar equipe/sobre    |    08/jul|
-|         Processo de design   |  08/jul|
-|      Gravar apresentação     |  09/jul|
+|           Atividade          |    Data    |  Autor(es) | Revisor(es) |
+|:----------------------------:|:----------:| :--------: | :---------: |
+| Lista de sites avaliados     |        26/jun    | Levi | Samuel |
+|        Site escolhido        |   30/jun     | Levi | Samuel |
+|    Ferramentas do projeto    |   08/jul  | Lucas | Levi |
+|     Planejamento do projeto  |    08/jul| Lara | Lucas |
+|     Cronograma de atividades |    08/jul| Lara | Lucas |
+|    Adicionar equipe/sobre    |    08/jul| Pedro | Lara |
+|         Processo de design   |  08/jul| Samuel | Pedro |
+|      Gravar apresentação     |  09/jul| Todos | Todos |
+
+<figcaption align='center'>
+    <b>Tabela 1: Planejamento para o primeiro ponto de controle.</b>
+    <br><small>Fonte: Elaboração própria.</small>
+</figcaption>
 
 ### 2.2 Entrega 2
 
-|           Atividade          |    Data    |
-|:----------------------------:|:----------:|
-| Perfil do usuário    |        15/jul    |
-|        Aspectos Éticos de pesquisa       |   16/jul     |
-|    Personas    |   17/jul  |
-|     Análise de Tarefa  |    18/jul|
-|      Gravar apresentação     |  19/jul|
+|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|:----------------------------:|:----------:| :-------: | :---------: |
+| Perfil do usuário    |        15/jul    | Lucas | - |
+|        Aspectos Éticos de pesquisa       |   16/jul     | Lara | - |
+|    Personas    |   17/jul  | Lucas | - |
+|     Análise de Tarefa  |    18/jul| Samuel e Pedro | - |
+|      Gravar apresentação     |  19/jul| Todos | Todos |
+
+<figcaption align='center'>
+    <b>Tabela 2: Planejamento para o segundo ponto de controle.</b>
+    <br><small>Fonte: Elaboração própria.</small>
+</figcaption>
 
 ### 2.3 Entrega 3
 
-|           Atividade          |    Data    |
-|:----------------------------:|:----------:|
-| Princípios gerais do projeto    |        24/jul    |
-|        Metas de usabilidade       |   36/jul     |
-|    Guia de estilo   |   28/jul  |
-|      Gravar apresentação     |  30/jul|
+|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|:----------------------------:|:----------:| :-------: | :---------: |
+| Princípios gerais do projeto    |        24/jul    | - | - |
+|        Metas de usabilidade       |   36/jul     |- | - |
+|    Guia de estilo   |   28/jul  |- | - |
+|      Gravar apresentação     |  30/jul|- | - |
+
+<figcaption align='center'>
+    <b>Tabela 3: Planejamento para o terceiro ponto de controle.</b>
+    <br><small>Fonte: Elaboração própria.</small>
+</figcaption>
 
 ### 2.4 Entrega 4
 
-|           Atividade          |    Data    |
-|:----------------------------:|:----------:|
-| Planejamento da Avaliação do Storyboard e Análise de tarefas    |        05/ago    |
-|       Planejamento do relato dos resultados da avaliação do Storyboard        |   05/ago     |
-|    Planejamento do relato dos resultados da avaliação do Análise de tarefas    |   08/ago  |
-|      Gravar apresentação     |  09/ago |
+|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|:----------------------------:|:----------:|  :-------: | :---------: |
+| Planejamento da Avaliação do Storyboard e Análise de tarefas    |        05/ago    |- | - |
+|       Planejamento do relato dos resultados da avaliação do Storyboard        |   05/ago     |- | - |
+|    Planejamento do relato dos resultados da avaliação do Análise de tarefas    |   08/ago  |- | - |
+|      Gravar apresentação     |  09/ago |- | - |
+
+<figcaption align='center'>
+    <b>Tabela 4: Planejamento para o quarto ponto de controle.</b>
+    <br><small>Fonte: Elaboração própria.</small>
+</figcaption>
 
 ### 2.5 Entrega 5
 
-|           Atividade          |    Data    |
-|:----------------------------:|:----------:|
-| Relato dos resultados do Story Board e da Análise de tarefas    |        12/ago    |
-|    Planejamento da avaliação do protótipo em papel    |   14/ago  |
-|     planejamento do relato dos resultados da avaliação do Protótipo de Papel  |    14/ago|
-|      Gravar apresentação     |  16/ago|
+|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|:----------------------------:|:----------:|  :-------: | :---------: |
+| Relato dos resultados do Story Board e da Análise de tarefas    |        12/ago    |- | - |
+|    Planejamento da avaliação do protótipo em papel    |   14/ago  |- | - |
+|     planejamento do relato dos resultados da avaliação do Protótipo de Papel  |    14/ago|- | - |
+|      Gravar apresentação     |  16/ago|- | - |
+
+<figcaption align='center'>
+    <b>Tabela 5: Planejamento para o quinto ponto de controle.</b>
+    <br><small>Fonte: Elaboração própria.</small>
+</figcaption>
 
 ### 2.6 Entrega 6
 
-|           Atividade          |    Data    |
-|:----------------------------:|:----------:|
-| Verificação dos artefatos     |        19/ago    |
-|      Gravar apresentação     |  20/ago |
+|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|:----------------------------:|:----------:|  :-------: | :---------: |
+| Verificação dos artefatos     |        19/ago    |- | - |
+|      Gravar apresentação     |  20/ago |- | - |
+
+<figcaption align='center'>
+    <b>Tabela 6: Planejamento para o sexto ponto de controle.</b>
+    <br><small>Fonte: Elaboração própria.</small>
+</figcaption>
 
 ### 2.7 Entrega 7
 
-|           Atividade          |    Data    |
-|:----------------------------:|:----------:|
-|  Relato dos resultados do Protótipo de Papel     |        01/set    |
-|      Planejamento da Avaliação do protótipo de alta fidelidade       |   01/set     |
-|     Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade   |   02/set  |
-|     Gravar apresentação  |    03/set|
+|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|:----------------------------:|:----------:|  :-------: | :---------: |
+|  Relato dos resultados do Protótipo de Papel     |        01/set    | - | - |
+|      Planejamento da Avaliação do protótipo de alta fidelidade       |   01/set     | - | - |
+|     Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade   |   02/set  | - | - |
+|     Gravar apresentação  |    03/set| - | - |
+
+<figcaption align='center'>
+    <b>Tabela 7: Planejamento para o sétimo ponto de controle.</b>
+    <br><small>Fonte: Elaboração própria.</small>
+</figcaption>
 
 ### 2.8 Entrega Final
 
-|           Atividade          |    Data    |
-|:----------------------------:|:----------:|
-| Corrigir e completar todos os artefatos     |        09/set    |
-|      Gravar apresentação     |  10/set|
+|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|:----------------------------:|:----------:|  :-------: | :---------: |
+| Corrigir e completar todos os artefatos     |        09/set    | - | - |
+|      Gravar apresentação     |  10/set| - | - |
 
-
-## 3. Heatmap
-
-O heatmap (conferir Figura 1) tem como objetivo mostrar visualmente a disponibilidade dos integrantes do grupo para realização de reuniões.
-
-![heatmap](../assets/cronograma/heatmap.jpg)
 <figcaption align='center'>
-    <b>Figura 1: Heatmap</b>
-    <br><small>Fonte: Elaboração Própria</small>
+    <b>Tabela 8: Planejamento para as correções para a entrega final.</b>
+    <br><small>Fonte: Elaboração própria.</small>
 </figcaption>
-
 
 ---
 
@@ -98,7 +128,8 @@ O heatmap (conferir Figura 1) tem como objetivo mostrar visualmente a disponibil
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    Kathlyn    | Lucas | 06/07/2022 |
-|   1.1  |   Correções no código                  |    Lucas    |  | 10/07/2022 |
+|   1.1  |   Correções no código                  |    Lucas    | Lara  | 10/07/2022 |
+|   1.2  |   Adicionando legenda nas tabelas      | Lara | | 12/07/2022 |
 
 ## Referências
 

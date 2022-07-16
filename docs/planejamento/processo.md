@@ -10,9 +10,12 @@
 
 ![drawing](../assets/mayhew.png)
 
-<h6> Figura1: Ciclo de Mayhew. Fonte: BARBOSA, Simone et al. "Interação Humano-Computador". Capítulo 4, página 110.</h6> 
+<figcaption align='center'>
+    <b>Figura 1: Ciclo de Mayhew.</b>
+    <br><small>BARBOSA, Simone et al. "Interação Humano-Computador". Capítulo 4, página 110.</small>
+</figcaption>
 
-### 2.1 Analise de requisitos 
+### 2.1 Análise de requisitos 
 
 &emsp;&emsp;São definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. 
 
