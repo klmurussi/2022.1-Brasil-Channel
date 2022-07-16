@@ -129,7 +129,7 @@
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    Kathlyn    | Lucas | 06/07/2022 |
 |   1.1  |   Correções no código                  |    Lucas    | Lara  | 10/07/2022 |
-|   1.2  |   Adicionando legenda nas tabelas      | Lara | | 12/07/2022 |
+|   1.2  |   Adicionando legenda nas tabelas      | Lara | Lucas | 12/07/2022 |
 
 ## Referências
 

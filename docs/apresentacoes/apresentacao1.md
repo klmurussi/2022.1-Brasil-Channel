@@ -15,4 +15,4 @@
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  | Criação do documento |    Lara   | - | 12/07/2022 |
+|   1.0  | Criação do documento |    Lara   | Lucas | 12/07/2022 |

@@ -59,7 +59,7 @@
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                   Criado pagina e Adicionando os tópicos e arquivos	                  |    Levi Queiroz    | Lucas | 06/07/2022 |
 |   1.1  |   Corrige erros no código                |    Lucas    | Kathlyn Lara | 10/07/2022 |
-|   1.2  |   Adicionar descrição dos sites | Kathlyn Lara | | 12/07/2022 |
+|   1.2  |   Adicionar descrição dos sites | Kathlyn Lara | Lucas | 12/07/2022 |
 
 
 ## Referências
