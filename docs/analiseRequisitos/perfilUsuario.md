@@ -8,7 +8,7 @@
 
 - Qual a sua idade?
 - Qual o seu grau de instrução?
-- Qual a sua familiaridade com tecnologias e a internet?
+- Com qual frequência você acessa sites na internet?
 - Quando você deseja fazer uma pesquisa, qual ferramenta você utiliza?
 - Com qual frequência você pesquisa informações geográficas, históricas e demográficas do Brasil?
 - Com qual frequência você utiliza sites governamentais?
