@@ -32,7 +32,7 @@
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                  Criação do documento de Processos de Design	                  |    Samuel Macedo    | Lucas | 06/07/2022 |
-|   1.1  |   Corrige erros no código                |    Lucas    |  | 10/07/2022 |
+|   1.1  |   Corrige erros no código                |    Lucas    | Lara | 10/07/2022 |
 
 ## Referências
 

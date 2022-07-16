@@ -1,6 +1,6 @@
 ## Introdução
 
-&emsp;&emsp;Devido aos métodos de ensino da disciplina, o grupo gravou uma apresentação para mostrar os artefatos feitos durante esse ponto de controle. O vídeo foi gravado com a presença de todos os integrantes, em que cada falou sobre o artefato que fez, mostrando diretamente o github pages. 
+&emsp;&emsp;Seguindo os métodos de ensino da disciplina, o grupo gravou uma apresentação para mostrar os artefatos feitos durante esse ponto de controle. O vídeo foi gravado com a presença de todos os integrantes, em que cada falou sobre o artefato que fez, mostrando diretamente o github pages. 
 
 &emsp;&emsp;O vídeo é um resumo do que a equipe fez e para melhor compreensão, é requisitado que o leitor leia todos os documentos.
 
