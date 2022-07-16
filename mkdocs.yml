@@ -3,14 +3,6 @@ site_name: Brasil Channel
 nav:
     - Inicio: 'index.md'
     - Panejamento:
-<<<<<<< HEAD
-        - 'Ferramentas': './planejamento/ferramentas.md'
-        - 'Cronograma': './planejamento/cronograma.md'
-        - 'Sites avaliados': './planejamento/sites.md'
-        - 'Processo de Design': './planejamento/processo.md'
-    - Apresentações:
-        - 'Apresentação 1': './apresentacoes/apresentacao1.md'
-=======
         - Planejamento da equipe:
           - 'Ferramentas': './planejamento/ferramentas.md'
           
@@ -20,8 +12,7 @@ nav:
           - 'Sites avaliados': './planejamento/sites.md'
 
     - Apresentações:
-        - 'Ponto de controle 1': './apresentações/pontoDeControle_1.md'
->>>>>>> 8e786acceac5550d7860a1bcac8d0dcff1603586
+        - 'Ponto de controle 1': './apresentacoes/apresentacao1.md'
 
 theme:
   name: material
