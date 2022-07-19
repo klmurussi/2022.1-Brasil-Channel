@@ -43,4 +43,4 @@ O heatmap (conferir Figura 1) tem como objetivo mostrar visualmente a disponibil
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    Lucas   | Levi | 06/07/2022 |
 |   1.1  | Arquivo Revisado |    Lucas   | Levi | 09/07/2022 |
-|   1.2  | Adição do Heatmap e correção da legenda da tabela 1 | Lara | | 12/07/2022| 
+|   1.2  | Adição do Heatmap e correção da legenda da tabela 1 | Lara | Lucas | 12/07/2022| 
