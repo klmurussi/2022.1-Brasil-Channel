@@ -14,7 +14,7 @@
   - Danos a propriedades;
   - Impactos ambientais indesejados.
 - Respeitar a privacidade dos outros;
-- Horar a confidencialidade de informações a que tivermos acesso.
+- Honrar a confidencialidade de informações a que tivermos acesso.
 
 ### IEEE
 
