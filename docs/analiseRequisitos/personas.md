@@ -13,7 +13,7 @@
 ## 2. Metodologia
 &emsp;&emsp;Para podermos especificar nossos grupos de usuários em forma de persona, primeiro tivemos que definir quantas personas seriam criadas. E após conversas entre o grupo baseadas nas aulas ministradas e nas referências bibliográficas utilizadas, foi decidido que seriam estabelecidas três personas primárias e uma antipersona.
 
-&emsp;&emsp;Diante disso, a criação de nossas personas foram baseadas nossos elementos característicos especificados por Courage e Baxter(2005), que são:
+&emsp;&emsp;Diante disso, a criação de nossas personas foram baseadas nos elementos característicos especificados por Courage e Baxter(2005), que são:
 
 - Identidade: nome, sobrenome, idade e outros dados demográficos.
 - Status: define se é persona primária, secundária, ou então, outro stakeholder ou antipersona.
