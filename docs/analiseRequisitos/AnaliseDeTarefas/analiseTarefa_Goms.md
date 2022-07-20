@@ -1,9 +1,13 @@
 ## 1 - GOMS (Goals, Operators, Methods, and Selection Rules)
 &emsp;&emsp;Card et al. (1983) sugeriram um conjunto de modelos chamado de família GOMS (Objetivos, Operadores, Métodos e Regras de Seleção) com o objetivo de analisar o desempenho dos usuários competentes de sistemas computacionais, realizando tarefas dentro da sua competência e sem cometer erros.  
-&emsp;&emsp;Esses modelos seguem a seguinte linha:  
+&emsp;&emsp;Esses modelos seguem a seguinte linha: 
+
 - **Objetivos**: Representam o que o usuário quer realizar utilizando o software.
+
 - **Operadores**: São primitivas internas (cognitivas) ou externas (as ações concretas que o software permite que os usuário façam, tal como um comando e seus parâmetros digitados num teclado, seleção de menus ou um clique de um botão).
+
 - **Métodos**: São sequências bem conhecidas de subobjetivos e operadores que permitem atingir um objetivo maior.
+
 - **Regras de Seleção**: Representam tomadas de decisão dos usuários sobre qual método utilizar numa determinada situação.  
 
 &emsp;&emsp;Uma observação é que a análise se aplica principalmente a situações em que os usuários realizam tarefas que já dominam. Esses usuários não estão resolvendo problemas ou tentando identificar o que precisam fazer em seguida. Essa análise pressupôe que eles sabem o que fazer, e só precisam fazê-lo.  
@@ -229,9 +233,9 @@ Aplicando o modelo GOMS, temos:
 
 &emsp;&emsp;A figura 1 apresenta um modelo de CPM-GOMS:
 
-<center>Figura 1 - Exemplo de modelo CPM-GOMS
+<center>
 
-![Exemplo de modelo CPM-GOMS](../assets/analiseTarefas_goms_ctt/exemplo_cpm_goms.PNG "Exemplo de modelo CPM-GOMS")
+![Exemplo de modelo CPM-GOMS](../../assets/analiseTarefas_goms_ctt/exemplo_cpm_goms.PNG)
 
 </center>
 
@@ -241,20 +245,20 @@ Aplicando o modelo GOMS, temos:
 
 &emsp;&emsp;Foi feita a análise utilizando o modelo CPM-GOMS (com algumas modificações no design) da figura 1 em referência a análise da Tarefa 2 (apenas) apresentada no tópico CMN-GOMS, a seguir é apresentado a figura 2 do resultado da análise:
 
-<center>Figura 2 - Aplicação da análise usando o modelo CPM-GOMS
+<center>
 
-![Aplicação da análise usando o modelo CPM-GOMS](../assets/analiseTarefas_goms_ctt/tarefa2_cnm_cpm_goms_analise.jpg "Aplicação da análise usando o modelo CPM-GOMS")
+![Aplicação da análise usando o modelo CPM-GOMS](../../assets/analiseTarefas_goms_ctt/tarefa2_cnm_cpm_goms_analise.jpg)
 
 </center>
 
 <small><center>Figura 2 - Aplicação da análise usando o modelo CPM-GOMS modificado com referência ao modelo do livro da Simone cap. 8</center></small>
 
-### 2 - Histórico de Versão
+## Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  | Criação do documento |    Levi Queiroz   |   | 20/07/2022 |
-|   1.1  | Adição do KLM, CMN e CPM |   Levi Queiroz   |  | 20/07/2022 |
+|   1.0  | Criação do documento |    Levi Queiroz   |  - | 20/07/2022 |
+|   1.1  | Adição do KLM, CMN e CPM |   Levi Queiroz   | Lucas | 20/07/2022 |
 
 ## Referências
 

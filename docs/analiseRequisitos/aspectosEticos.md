@@ -51,7 +51,7 @@
 
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  |  Criação do documento e adição dos componentes 1, 2 e 3 |    Kathlyn    |  | 19/07/2022 |
+|   1.0  |  Criação do documento e adição dos componentes 1, 2 e 3 |    Kathlyn    | Lucas | 19/07/2022 |
 
 ---
 

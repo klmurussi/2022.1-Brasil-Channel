@@ -1,4 +1,4 @@
-# Análise de Tarefas 
+# Análise Hierárquica de Tarefas 
 
 ## 1. Introdução
 A análise de tarefas tem como objetivo entender sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Ela pode ser utilizada em diferentes etapas do desenvolvimento, podendo ser realizada em um produto já existente ou um novo produto, utilizando ou não uma ferramenta computacional. O método utilizado na realização da análise deste projeto será a Análise Hierárquica de Tarefas (AHT).
