@@ -1,12 +1,13 @@
 ## 1 - Árvores de Tarefas Concorrentes (ConcurTaskTrees - CTT)
 
-&emsp;&emsp; Esse modelo foi criado para ajudar a avaliação do design e a avaliação de IHC (Paterno, 1999). Existem quatro tipos de tarefa para esse modelo, que são elas:
+&emsp;&emsp; Esse modelo foi criado para ajudar a avaliação do design e a avaliação de IHC (Paterno, 1999). Existem quatro tipos de tarefa para esse modelo, que são elas:  
+
 - Tarefas do usuário: Realizadas fora do sistema
 - Tarefas do sistema: O sistema realiza um processamento sem interagir com o usuário
 - Tarefas interativas: Ocorre os diálogos usuário com o sistema
 - Tarefas abstratas: Uma representação de uma composição de tarefas que auxilie a decomposição
 
-Parecido com a análise hierárquica de tarefas, os diferentes níveis hierárquicos devem ser lidos como "para considerar T1 como tendo sido realizada, as tarefas T2 e T3 devem tersidos realizadas". Tanto as tarefas como a frase em aspas estão sendo representadas na figura 1.
+&emsp;&emsp;Parecido com a análise hierárquica de tarefas, os diferentes níveis hierárquicos devem ser lidos como "para considerar T1 como tendo sido realizada, as tarefas T2 e T3 devem tersidos realizadas". Tanto as tarefas como a frase em aspas estão sendo representadas na figura 1.
 
 <center>
 
@@ -68,8 +69,9 @@ Uma das vantagens do CTT é com relação a outros modelos de tarefas, é destac
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  | Criação do documento |    Levi Queiroz   |   | 20/07/2022 |
+|   1.0  | Criação do documento |    Levi Queiroz   | - | 20/07/2022 |
 |   1.1  | Adição do CTT |   Levi Queiroz   | Lucas | 20/07/2022 |
+|   1.1  | Correções no artefato |   Levi Queiroz   | - | 20/07/2022 |
 
 ## Referências
 

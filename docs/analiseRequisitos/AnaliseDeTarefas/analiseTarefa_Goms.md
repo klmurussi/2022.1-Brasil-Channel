@@ -166,7 +166,8 @@
 
 ### 1.4 Análise de tarefas do web site Brasil Channel com o CMN-GOMS
 
-&emsp;&emsp;Utilizando o modelo de exemplo apresentado no tópico anterior, foi feita a análise de três tarefas, sendo elas:
+&emsp;&emsp;Utilizando o modelo de exemplo apresentado no tópico anterior, foi feita a análise de três tarefas, sendo elas:  
+
 - Encontrar o site do Ministério da Educação
 - Acessar a lista de parques Nacionais
 - Acessar os dados da economia do estado de Goiás
@@ -244,12 +245,13 @@ Aplicando o modelo GOMS, temos:
 - Representar operadores *cognitivos*, *perceptivos* e *motores*
 - Seguir a abordagem de *Critical Path Method* (técnica de análise de caminho crítico).
 
-&emsp;&emsp; É uma versão do GOMS baseada diretamente no pressador humando de insformações e. portanto, no modelo de estágios paralelos de processamento do processamento humano de informações. Isso significa que o CPM-GOMS não supõe uma sequencia de execução dos operadores e sim que operadores cognitivos, perceptivos e motores podem se tornar paralelos conforme a tarefa realizada.
-&emsp;&emsp; Utiliza um diagrama do tipo PERT para representar os operadores e as dependências entre eles. Nessa análise, o caminho crítico fornece uma previsão simples do tempo total da tarefa. A construção é feita a partir da análise CMN-GOMS, em que os operadores criados são classificados em cognitivos, perceptivos e motores do MHP. Assim, é atribuido então uma duração estimada a cada operador e calculamos o tempo de execusão previsto para a tarefa. è possível efetuar uma análise qualitativa da relação entre aspectos do design e o tempo de execução, bem como fazer simulações de designs alternativos e ajudar a identificar por que um terá desempenho melhor que o outro. E, assim como o KLM e CMN, o CPM-GOMS assume que o usuário é experiente e executa as tarefas de maneira rápida e eficiente, ou seja, sabe exatamente onde procurar visualmente um determinado item de informação e que não tem atividades cognitivas substanciais associadas à decisões complexas ou seleção de métodos.
+&emsp;&emsp; É uma versão do GOMS baseada diretamente no processador humando de informações e, portanto, no modelo de estágios paralelos de processamento do processamento humano de informações. Isso significa que o CPM-GOMS não supõe uma sequencia de execução dos operadores e sim que operadores cognitivos, perceptivos e motores podem se tornar paralelos conforme a tarefa realizada.  
+
+&emsp;&emsp; Utiliza um diagrama do tipo PERT para representar os operadores e as dependências entre eles. Nessa análise, o caminho crítico fornece uma previsão simples do tempo total da tarefa. A construção é feita a partir da análise CMN-GOMS, em que os operadores criados são classificados em cognitivos, perceptivos e motores do MHP. Assim, é atribuido então uma duração estimada a cada operador e calculamos o tempo de execusão previsto para a tarefa. è possível efetuar uma análise qualitativa da relação entre aspectos do design e o tempo de execução, bem como fazer simulações de designs alternativos e ajudar a identificar por que um terá desempenho melhor que o outro. E, assim como o KLM e CMN, o CPM-GOMS assume que o usuário é experiente e executa as tarefas de maneira rápida e eficiente, ou seja, sabe exatamente onde procurar visualmente um determinado item de informação e que não tem atividades cognitivas substanciais associadas à decisões complexas ou seleção de métodos.  
 
 &emsp;&emsp;A figura 1 apresenta um modelo de CPM-GOMS:
 
-<center>
+<center> Figura 1 - Exemplo de modelo CPM-GOMS
 
 ![Exemplo de modelo CPM-GOMS](../../assets/analiseTarefas_goms_ctt/exemplo_cpm_goms.PNG)
 
@@ -261,7 +263,7 @@ Aplicando o modelo GOMS, temos:
 
 &emsp;&emsp;Foi feita a análise utilizando o modelo CPM-GOMS (com algumas modificações no design) da figura 1 em referência a análise da Tarefa 2 (apenas) apresentada no tópico CMN-GOMS, a seguir é apresentado a figura 2 do resultado da análise:
 
-<center>
+<center> Figura 2 - Análise de Tarefa CPM-GOMS
 
 ![Aplicação da análise usando o modelo CPM-GOMS](../../assets/analiseTarefas_goms_ctt/tarefa2_cnm_cpm_goms_analise.jpg)
 
@@ -276,6 +278,7 @@ Aplicando o modelo GOMS, temos:
 |   1.0  | Criação do documento |    Levi Queiroz   |  - | 20/07/2022 |
 |   1.1  | Adição do KLM, CMN e CPM |   Levi Queiroz   | Lucas | 20/07/2022 |
 |   1.2  | Consertando Tarefas CMN |   Levi Queiroz   | - | 20/07/2022 |
+|   1.3 | Consertando Tarefas CPM |   Levi Queiroz   | - | 20/07/2022 |
 
 ## Referências
 
