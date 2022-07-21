@@ -251,7 +251,7 @@ Aplicando o modelo GOMS, temos:
 
 &emsp;&emsp;A figura 1 apresenta um modelo de CPM-GOMS:
 
-<center> Figura 1 - Exemplo de modelo CPM-GOMS
+<center>
 
 ![Exemplo de modelo CPM-GOMS](../../assets/analiseTarefas_goms_ctt/exemplo_cpm_goms.PNG)
 
@@ -263,7 +263,7 @@ Aplicando o modelo GOMS, temos:
 
 &emsp;&emsp;Foi feita a análise utilizando o modelo CPM-GOMS (com algumas modificações no design) da figura 1 em referência a análise da Tarefa 2 (apenas) apresentada no tópico CMN-GOMS, a seguir é apresentado a figura 2 do resultado da análise:
 
-<center> Figura 2 - Análise de Tarefa CPM-GOMS
+<center>
 
 ![Aplicação da análise usando o modelo CPM-GOMS](../../assets/analiseTarefas_goms_ctt/tarefa2_cnm_cpm_goms_analise.jpg)
 
