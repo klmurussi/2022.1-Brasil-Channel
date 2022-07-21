@@ -8,13 +8,13 @@
 
 Parecido com a análise hierárquica de tarefas, os diferentes níveis hierárquicos devem ser lidos como "para considerar T1 como tendo sido realizada, as tarefas T2 e T3 devem tersidos realizadas". Tanto as tarefas como a frase em aspas estão sendo representadas na figura 1.
 
-<center>Figura 2 - Exemplos de figuras representando as tarefas e suas comunicações entre si no modelo CTT
+<center>
 
-![Exemplos de figuras representando as tarefas e suas comunicações entre si no modelo CTT](../assets/analiseTarefas_goms_ctt/exemplo_de_fiduras_ctt.PNG "Exemplos de figuras representando as tarefas e suas comunicações entre si no modelo CTT")
+![Exemplos de figuras representando as tarefas e suas comunicações entre si no modelo CTT](../../assets/analiseTarefas_goms_ctt/exemplo_de_fiduras_ctt.PNG "Exemplos de figuras representando as tarefas e suas comunicações entre si no modelo CTT")
 
 </center>
 
-<small><center>Figura 2 - Exemplos de figuras representando as tarefas e suas comunicações entre si no modelo CTT retirado do livro da Simone cap. 8</center></small>
+<small><center>Figura 1 - Exemplos de figuras representando as tarefas e suas comunicações entre si no modelo CTT retirado do livro da Simone cap. 8</center></small>
 
 &emsp;&emsp;Além disso, o CTT permite representar diversas relações entre as tarefas e os significados dessas relações são:
 
@@ -30,9 +30,9 @@ Parecido com a análise hierárquica de tarefas, os diferentes níveis hierárqu
   
 A figura 2 apresenta um exemplo de cada uma das relações:
 
-<center>Figura 2 - Exemplos de figuras representando as relações entre as tarefas no modelo CTT
+<center>
 
-![Exemplos de figuras representando as relações entre as tarefas no modelo CTT](../assets/analiseTarefas_goms_ctt/exemplo_de_relacoes_ctt.PNG "Exemplos de figuras representando as relações entre as tarefas no modelo CTT")
+![Exemplos de figuras representando as relações entre as tarefas no modelo CTT](../../assets/analiseTarefas_goms_ctt/exemplo_de_relacoes_ctt.PNG "Exemplos de figuras representando as relações entre as tarefas no modelo CTT")
 
 </center>
 
@@ -40,9 +40,9 @@ A figura 2 apresenta um exemplo de cada uma das relações:
 
 Uma das vantagens do CTT é com relação a outros modelos de tarefas, é destacado a possibilidade do registro explícito das relações entre tarefas, entretanto com relação a modelos especificamentes projetados para a interação é a ausência de elementos destinados à representação de mecanismos de prevenção e tratamentos de erros na interação do usuário com o sistema. Na figura 3 está representada um exemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda, retirados do livro da Simone no cap.8 página 189.
 
-<center>Figura 3 - Exemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda
+<center>
 
-![EExemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda](../assets/analiseTarefas_goms_ctt/exemplo_ctt_completo.PNG "EExemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda")
+![EExemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda](../../assets/analiseTarefas_goms_ctt/exemplo_ctt_completo.PNG "Exemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda")
 
 </center>
 
@@ -56,9 +56,9 @@ Uma das vantagens do CTT é com relação a outros modelos de tarefas, é destac
 
 &emsp;&emsp;Na figura 4 está o modelo CTT representando o objetivo de acessar o Litoral:
 
-<center>Figura 4 - Análise de tarefa CTT
+<center>
 
-![Modelo CTT representando o objetivo de acessar o Litoral](../../assets/analiseTarefas_goms_ctt/aplicacao_ctt_site.drawio.png "Modelo CTT representando o objetivo de acessar o Litoral")
+![Modelo CTT representando o objetivo de acessar o Litoral](../../assets/analiseTarefas_goms_ctt/aplicacao_ctt_site.drawio.png)
 
 </center>
 
@@ -69,7 +69,7 @@ Uma das vantagens do CTT é com relação a outros modelos de tarefas, é destac
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  | Criação do documento |    Levi Queiroz   |   | 20/07/2022 |
-|   1.1  | Adição do CTT |   Levi Queiroz   |  | 20/07/2022 |
+|   1.1  | Adição do CTT |   Levi Queiroz   | Lucas | 20/07/2022 |
 
 ## Referências
 
