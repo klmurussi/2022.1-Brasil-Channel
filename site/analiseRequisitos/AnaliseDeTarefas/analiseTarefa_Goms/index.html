@@ -557,6 +557,20 @@
 
             
           
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../analiseTarefa_CTT/" class="md-nav__link">
+        Análise CTT
+      </a>
+    </li>
+  
+
+            
+          
         </ul>
       </nav>
     </li>
@@ -1172,78 +1186,104 @@
 <h3 id="13-cmn-goms">1.3 - CMN-GOMS</h3>
 <p>&emsp;&emsp;Se refere à proposta original de GOMS (Card et al., 1983), em que há uma hierarquia estrita de objetivos, onde os operadores são executadps estritamente em ordem sequencial e os métodos são representados numa notação semelhante a um pseudocódigo, que inclui submétodos e condicionais. Ao desenvolver um modelo GOMS, devemos definir cuidadosamente o que representar, o que não representar, o nivel de detalhamento em referência ao que se quer analizar e tarefas mentais que estejam relacionadas ao design do sistema devem ser incluídas no modelo (Kieras, 2001). O exemplo 1 demonstra, em lista, um modelo GOMS que será utilizado para fazer a análise neste artefato, retirado do livro da Simone. Lembrando que existe mais modelos GOMS para fazer análise de tarefas.  </p>
 <hr />
-<p><strong>Exemplo 1</strong> - Modelo GOMS
-- GOAL 0: objetivo principal <br />
-  - GOAL 1: subobjetivo obtido da principal
-    - METHOD 1.A: opção de método a ser seguido
-    - (SEL. RULE: a regra de seleção que deve ser satisfeita para se utilizar o método 1.A)
-    - METHOD 1.B: opção de método a ser seguido
-    - (SEL. RULE: a regra de seleção que deve ser satisfeita para se utilizar o método 1.B)
-  - GOAL 2: subojetivo obtido da principal</p>
+<p><strong>Exemplo 1</strong> - Modelo GOMS</p>
+<ul>
+<li>GOAL 0: objetivo principal   </li>
+<li>GOAL 1: subobjetivo obtido da principal<ul>
+<li>METHOD 1.A: opção de método a ser seguido</li>
+<li>(SEL. RULE: a regra de seleção que deve ser satisfeita para se utilizar o método 1.A)</li>
+<li>METHOD 1.B: opção de método a ser seguido</li>
+<li>(SEL. RULE: a regra de seleção que deve ser satisfeita para se utilizar o método 1.B)</li>
+</ul>
+</li>
+<li>GOAL 2: subojetivo obtido da principal</li>
+</ul>
 <hr />
 <p>&emsp;&emsp;Para exemplificar, no GOAL 0 é apresentado a tarefa que está sendo analisada, essa tarefa é o objetivo principal, desse objetivo principal é divido em vários outros subobjetivos, para poder separar o objetivo principal e assim adicionando os pedaços até chegar ao objetivo principal, concluindo a análise.  </p>
 <h3 id="14-analise-de-tarefas-do-web-site-brasil-channel-com-o-cmn-goms">1.4 Análise de tarefas do web site Brasil Channel com o CMN-GOMS</h3>
-<p>&emsp;&emsp;Utilizando o modelo de exemplo apresentado no tópico anterior, foi feita a análise de três tarefas, sendo elas:
-- Encontrar o site do Ministério da Educação
-- Acessar a lista de parques Nacionais
-- Acessar os dados da economia do estado de Goiás
-<br></p>
+<p>&emsp;&emsp;Utilizando o modelo de exemplo apresentado no tópico anterior, foi feita a análise de três tarefas, sendo elas:  </p>
+<ul>
+<li>Encontrar o site do Ministério da Educação</li>
+<li>Acessar a lista de parques Nacionais</li>
+<li>Acessar os dados da economia do estado de Goiás
+<br></li>
+</ul>
 <p>Aplicando o modelo GOMS, temos:</p>
 <hr />
-<p><strong>Tarefa 1</strong>
-- GOAL 0: Encontrar o site do Ministério da Educação <br />
-  - GOAL 1: Acessar o link Brasil - redescobrindo o gigante
-    - METHOD 1.A: clicar com o botão do mouse a palavra Brasil
-    - (SEL. RULE: O usuário conhece que tem um link na palavra Brasil)
-    - METHOD 1.B: clicar com o botão do mouse a figura representando o mapa do Brasil
-    - (SEL. RULE: O usuário conhece que tem um link na figura)
-  - GOAL 2: Acessar o link Sites Governamentais
-    - METHOD 2.A: clicar com o botão do mouse a palavra Sites Governamentais
-    - (SEL. RULE: O usuário conhece que tem um link na palavra Sites Governamentais)
-  - GOAL 3: Encontrar o link da segunda página Sites Governamentais
-    - METHOD 3.A: clicar a seta para baixo no teclado
-    - (SEL. RULE: O usuário conhece a posição da tecla)
-    - METHOD 3.B: usar a barra de rolagem do site
-    - (SEL. RULE: O usuário sabe onde localiza a barra de rolagem)
-    - METHOD 3.C: usar o botão scroll do mouse
-    - (SEL. RULE: O usuário sabe o que é e como usar o botão)
-  - GOAL 4: Acessar o link para segunda página Sites Governamentais
-    - METHOD 4.A: clicar com o botão do mouse o link "2"
-    - (SEL. RULE: O usuário conhece que o 2 é um link)
-  - GOAL 5: Encontrar o site do Ministério da Educação</p>
+<p><strong>Tarefa 1</strong></p>
+<ul>
+<li>GOAL 0: Encontrar o site do Ministério da Educação   </li>
+<li>GOAL 1: Acessar o link Brasil - redescobrindo o gigante<ul>
+<li>METHOD 1.A: clicar com o botão do mouse a palavra Brasil</li>
+<li>(SEL. RULE: O usuário conhece que tem um link na palavra Brasil)</li>
+<li>METHOD 1.B: clicar com o botão do mouse a figura representando o mapa do Brasil</li>
+<li>(SEL. RULE: O usuário conhece que tem um link na figura)</li>
+</ul>
+</li>
+<li>GOAL 2: Acessar o link Sites Governamentais<ul>
+<li>METHOD 2.A: clicar com o botão do mouse a palavra Sites Governamentais</li>
+<li>(SEL. RULE: O usuário conhece que tem um link na palavra Sites Governamentais)</li>
+</ul>
+</li>
+<li>GOAL 3: Encontrar o link da segunda página Sites Governamentais<ul>
+<li>METHOD 3.A: clicar a seta para baixo no teclado</li>
+<li>(SEL. RULE: O usuário conhece a posição da tecla)</li>
+<li>METHOD 3.B: usar a barra de rolagem do site</li>
+<li>(SEL. RULE: O usuário sabe onde localiza a barra de rolagem)</li>
+<li>METHOD 3.C: usar o botão scroll do mouse</li>
+<li>(SEL. RULE: O usuário sabe o que é e como usar o botão)</li>
+</ul>
+</li>
+<li>GOAL 4: Acessar o link para segunda página Sites Governamentais<ul>
+<li>METHOD 4.A: clicar com o botão do mouse o link "2"</li>
+<li>(SEL. RULE: O usuário conhece que o 2 é um link)</li>
+</ul>
+</li>
+<li>GOAL 5: Encontrar o site do Ministério da Educação</li>
+</ul>
 <hr />
 <p><br></p>
 <hr />
-<p><strong>Tarefa 2</strong>
-- GOAL 0: Acessar a lista de parques Nacionais <br />
-  - GOAL 1: Acessar o link Brasil - redescobrindo o gigante
-    - METHOD 1.A: clicar com o botão do mouse a palavra Brasil
-    - (SEL. RULE: O usuário conhece que tem um link na palavra Brasil)
-    - METHOD 1.B: clicar com o botão do mouse a figura representando o mapa do Brasil
-    - (SEL. RULE: O usuário conhece que tem um link na figura)
-  - GOAL 2: Acessar a lista de parques Nacionais</p>
+<p><strong>Tarefa 2</strong></p>
+<ul>
+<li>GOAL 0: Acessar a lista de parques Nacionais   </li>
+<li>GOAL 1: Acessar o link Brasil - redescobrindo o gigante<ul>
+<li>METHOD 1.A: clicar com o botão do mouse a palavra Brasil</li>
+<li>(SEL. RULE: O usuário conhece que tem um link na palavra Brasil)</li>
+<li>METHOD 1.B: clicar com o botão do mouse a figura representando o mapa do Brasil</li>
+<li>(SEL. RULE: O usuário conhece que tem um link na figura)</li>
+</ul>
+</li>
+<li>GOAL 2: Acessar a lista de parques Nacionais</li>
+</ul>
 <hr />
 <p><br></p>
 <hr />
-<p><strong>Tarefa 3</strong>
-- GOAL 0: Acessar os dados da economia do estado de Goiás <br />
-  - GOAL 1: Acessar o link Estados - desmembrando o conhecimento
-    - METHOD 1.A: clicar com o botão do mouse a palavra Estados
-    - (SEL. RULE: O usuário conhece que tem um link na palavra Estados)
-  - GOAL 2: Acessar o link Goiás
-    - METHOD 2.A: clicar com o botão do mouse a palavra Goiás
-    - (SEL. RULE: O usuário conhece que tem um link na palavra Goiás)
-    - METHOS 2.B: clicar com o botão do mouse a palavra "GO" na figura do mapa do Brasil
-    - (SEL. RULE: O usuário conhece que tem um link na palavra GO no mapa)
-  - GOAL 3: Acessar os dados da economia do estado de Goiás </p>
+<p><strong>Tarefa 3</strong></p>
+<ul>
+<li>GOAL 0: Acessar os dados da economia do estado de Goiás   </li>
+<li>GOAL 1: Acessar o link Estados - desmembrando o conhecimento<ul>
+<li>METHOD 1.A: clicar com o botão do mouse a palavra Estados</li>
+<li>(SEL. RULE: O usuário conhece que tem um link na palavra Estados)</li>
+</ul>
+</li>
+<li>GOAL 2: Acessar o link Goiás<ul>
+<li>METHOD 2.A: clicar com o botão do mouse a palavra Goiás</li>
+<li>(SEL. RULE: O usuário conhece que tem um link na palavra Goiás)</li>
+<li>METHOS 2.B: clicar com o botão do mouse a palavra "GO" na figura do mapa do Brasil</li>
+<li>(SEL. RULE: O usuário conhece que tem um link na palavra GO no mapa)</li>
+</ul>
+</li>
+<li>GOAL 3: Acessar os dados da economia do estado de Goiás </li>
+</ul>
 <hr />
 <p><br></p>
 <h3 id="15-cpm-goms">1.5 - CPM-GOMS</h3>
 <p>&emsp;&emsp;Foi assim designado por dois motivos:
 - Representar operadores <em>cognitivos</em>, <em>perceptivos</em> e <em>motores</em>
 - Seguir a abordagem de <em>Critical Path Method</em> (técnica de análise de caminho crítico).</p>
-<p>&emsp;&emsp; É uma versão do GOMS baseada diretamente no pressador humando de insformações e. portanto, no modelo de estágios paralelos de processamento do processamento humano de informações. Isso significa que o CPM-GOMS não supõe uma sequencia de execução dos operadores e sim que operadores cognitivos, perceptivos e motores podem se tornar paralelos conforme a tarefa realizada.
-&emsp;&emsp; Utiliza um diagrama do tipo PERT para representar os operadores e as dependências entre eles. Nessa análise, o caminho crítico fornece uma previsão simples do tempo total da tarefa. A construção é feita a partir da análise CMN-GOMS, em que os operadores criados são classificados em cognitivos, perceptivos e motores do MHP. Assim, é atribuido então uma duração estimada a cada operador e calculamos o tempo de execusão previsto para a tarefa. è possível efetuar uma análise qualitativa da relação entre aspectos do design e o tempo de execução, bem como fazer simulações de designs alternativos e ajudar a identificar por que um terá desempenho melhor que o outro. E, assim como o KLM e CMN, o CPM-GOMS assume que o usuário é experiente e executa as tarefas de maneira rápida e eficiente, ou seja, sabe exatamente onde procurar visualmente um determinado item de informação e que não tem atividades cognitivas substanciais associadas à decisões complexas ou seleção de métodos.</p>
+<p>&emsp;&emsp; É uma versão do GOMS baseada diretamente no processador humando de informações e, portanto, no modelo de estágios paralelos de processamento do processamento humano de informações. Isso significa que o CPM-GOMS não supõe uma sequencia de execução dos operadores e sim que operadores cognitivos, perceptivos e motores podem se tornar paralelos conforme a tarefa realizada.  </p>
+<p>&emsp;&emsp; Utiliza um diagrama do tipo PERT para representar os operadores e as dependências entre eles. Nessa análise, o caminho crítico fornece uma previsão simples do tempo total da tarefa. A construção é feita a partir da análise CMN-GOMS, em que os operadores criados são classificados em cognitivos, perceptivos e motores do MHP. Assim, é atribuido então uma duração estimada a cada operador e calculamos o tempo de execusão previsto para a tarefa. è possível efetuar uma análise qualitativa da relação entre aspectos do design e o tempo de execução, bem como fazer simulações de designs alternativos e ajudar a identificar por que um terá desempenho melhor que o outro. E, assim como o KLM e CMN, o CPM-GOMS assume que o usuário é experiente e executa as tarefas de maneira rápida e eficiente, ou seja, sabe exatamente onde procurar visualmente um determinado item de informação e que não tem atividades cognitivas substanciais associadas à decisões complexas ou seleção de métodos.  </p>
 <p>&emsp;&emsp;A figura 1 apresenta um modelo de CPM-GOMS:</p>
 <p><center></p>
 <p><img alt="Exemplo de modelo CPM-GOMS" src="../../../assets/analiseTarefas_goms_ctt/exemplo_cpm_goms.PNG" /></p>
@@ -1279,6 +1319,20 @@
 <td align="center">Adição do KLM, CMN e CPM</td>
 <td align="center">Levi Queiroz</td>
 <td align="center">Lucas</td>
+<td align="center">20/07/2022</td>
+</tr>
+<tr>
+<td align="center">1.2</td>
+<td align="center">Consertando Tarefas CMN</td>
+<td align="center">Levi Queiroz</td>
+<td align="center">-</td>
+<td align="center">20/07/2022</td>
+</tr>
+<tr>
+<td align="center">1.3</td>
+<td align="center">Consertando Tarefas CPM</td>
+<td align="center">Levi Queiroz</td>
+<td align="center">-</td>
 <td align="center">20/07/2022</td>
 </tr>
 </tbody>
@@ -1318,13 +1372,13 @@
       
       
         
-        <a href="../../aspectosEticos/" class="md-footer__link md-footer__link--next" aria-label="Next: Aspectos Éticos" rel="next">
+        <a href="../analiseTarefa_CTT/" class="md-footer__link md-footer__link--next" aria-label="Next: Análise CTT" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Aspectos Éticos
+              Análise CTT
             </div>
           </div>
           <div class="md-footer__button md-icon">
