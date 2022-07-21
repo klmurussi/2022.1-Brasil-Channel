@@ -150,6 +150,8 @@
 
 ---
 **Exemplo 1** - Modelo GOMS
+
+
 - GOAL 0: objetivo principal   
   - GOAL 1: subobjetivo obtido da principal
     - METHOD 1.A: opção de método a ser seguido
@@ -157,6 +159,8 @@
     - METHOD 1.B: opção de método a ser seguido
     - (SEL. RULE: a regra de seleção que deve ser satisfeita para se utilizar o método 1.B)
   - GOAL 2: subojetivo obtido da principal
+
+
 ---  
 &emsp;&emsp;Para exemplificar, no GOAL 0 é apresentado a tarefa que está sendo analisada, essa tarefa é o objetivo principal, desse objetivo principal é divido em vários outros subobjetivos, para poder separar o objetivo principal e assim adicionando os pedaços até chegar ao objetivo principal, concluindo a análise.  
 
@@ -172,6 +176,8 @@ Aplicando o modelo GOMS, temos:
 
 ---
 **Tarefa 1**
+
+
 - GOAL 0: Encontrar o site do Ministério da Educação   
   - GOAL 1: Acessar o link Brasil - redescobrindo o gigante
     - METHOD 1.A: clicar com o botão do mouse a palavra Brasil
@@ -192,11 +198,15 @@ Aplicando o modelo GOMS, temos:
     - METHOD 4.A: clicar com o botão do mouse o link "2"
     - (SEL. RULE: O usuário conhece que o 2 é um link)
   - GOAL 5: Encontrar o site do Ministério da Educação
+
+
 ---  
 <br>
 
 ---
 **Tarefa 2**
+
+
 - GOAL 0: Acessar a lista de parques Nacionais   
   - GOAL 1: Acessar o link Brasil - redescobrindo o gigante
     - METHOD 1.A: clicar com o botão do mouse a palavra Brasil
@@ -204,11 +214,15 @@ Aplicando o modelo GOMS, temos:
     - METHOD 1.B: clicar com o botão do mouse a figura representando o mapa do Brasil
     - (SEL. RULE: O usuário conhece que tem um link na figura)
   - GOAL 2: Acessar a lista de parques Nacionais
+
+
 ---  
 <br>
 
 ---
 **Tarefa 3**
+
+
 - GOAL 0: Acessar os dados da economia do estado de Goiás   
   - GOAL 1: Acessar o link Estados - desmembrando o conhecimento
     - METHOD 1.A: clicar com o botão do mouse a palavra Estados
@@ -219,6 +233,8 @@ Aplicando o modelo GOMS, temos:
     - METHOS 2.B: clicar com o botão do mouse a palavra "GO" na figura do mapa do Brasil
     - (SEL. RULE: O usuário conhece que tem um link na palavra GO no mapa)
   - GOAL 3: Acessar os dados da economia do estado de Goiás 
+
+
 ---  
 <br>
 
@@ -259,6 +275,7 @@ Aplicando o modelo GOMS, temos:
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  | Criação do documento |    Levi Queiroz   |  - | 20/07/2022 |
 |   1.1  | Adição do KLM, CMN e CPM |   Levi Queiroz   | Lucas | 20/07/2022 |
+|   1.2  | Consertando Tarefas CMN |   Levi Queiroz   | - | 20/07/2022 |
 
 ## Referências
 
