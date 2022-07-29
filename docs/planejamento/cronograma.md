@@ -45,10 +45,11 @@
 
 |           Atividade          |    Data    | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:| :-------: | :---------: |
-| Princípios gerais do projeto    |        24/jul    | - | - |
-|        Metas de usabilidade       |   36/jul     |- | - |
-|    Guia de estilo   |   28/jul  |- | - |
-|      Gravar apresentação     |  30/jul|- | - |
+| Princípios gerais do projeto    |        30/jul    | Lucas | - |
+|        Metas de usabilidade       |   30/jul     |- | - |
+|    Guia de estilo   |   30/jul  |- | - |
+|      Gravar apresentação     |  30/jul| Todos | - |
+|      Editar vídeo     |  31/jul| Pedro | - |
 
 <figcaption align='center'>
     <b>Tabela 3: Planejamento para o terceiro ponto de controle.</b>
