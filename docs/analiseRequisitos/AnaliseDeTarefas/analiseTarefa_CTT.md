@@ -15,7 +15,7 @@
 
 </center>
 
-<small><center>Figura 1 - Exemplos de figuras representando as tarefas e suas comunicações entre si no modelo CTT retirado do livro da Simone cap. 8</center></small>
+<small><center>Figura 1 - Exemplos de figuras representando as tarefas e suas comunicações entre si no modelo CTT obtido do livro da Simone cap. 8</center></small>
 
 &emsp;&emsp;Além disso, o CTT permite representar diversas relações entre as tarefas e os significados dessas relações são:
 
@@ -37,9 +37,9 @@ A figura 2 apresenta um exemplo de cada uma das relações:
 
 </center>
 
-<small><center>Figura 2 - Exemplos de figuras representando as relações entre as tarefas no modelo CTT retirado do livro da Simone cap. 8</center></small>
+<small><center>Figura 2 - Exemplos de figuras representando as relações entre as tarefas no modelo CTT obtido do livro da Simone cap. 8</center></small>
 
-Uma das vantagens do CTT é com relação a outros modelos de tarefas, é destacado a possibilidade do registro explícito das relações entre tarefas, entretanto com relação a modelos especificamentes projetados para a interação é a ausência de elementos destinados à representação de mecanismos de prevenção e tratamentos de erros na interação do usuário com o sistema. Na figura 3 está representada um exemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda, retirados do livro da Simone no cap.8 página 189.
+Uma das vantagens do CTT é com relação a outros modelos de tarefas, é destacado a possibilidade do registro explícito das relações entre tarefas, entretanto com relação a modelos especificamentes projetados para a interação é a ausência de elementos destinados à representação de mecanismos de prevenção e tratamentos de erros na interação do usuário com o sistema. Na figura 3 está representada um exemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda, obtidos do livro da Simone no cap.8 página 189.
 
 <center>
 
@@ -47,7 +47,7 @@ Uma das vantagens do CTT é com relação a outros modelos de tarefas, é destac
 
 </center>
 
-<small><center>Figura 3 - Exemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda retirado do livro da Simone cap. 8</center></small>
+<small><center>Figura 3 - Exemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda obtido do livro da Simone cap. 8</center></small>
 
 ## 2 - Análise de desempenho do web site Brasil Channel com o CTT
 
@@ -71,7 +71,8 @@ Uma das vantagens do CTT é com relação a outros modelos de tarefas, é destac
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  | Criação do documento |    Levi Queiroz   | - | 20/07/2022 |
 |   1.1  | Adição do CTT |   Levi Queiroz   | Lucas | 20/07/2022 |
-|   1.1  | Correções no artefato |   Levi Queiroz   | - | 20/07/2022 |
+|   1.2  | Correções no artefato |   Levi Queiroz   | - | 20/07/2022 |
+|   1.3  | Correções no artefato |   Levi Queiroz   | - | 31/07/2022 |
 
 ## Referências
 

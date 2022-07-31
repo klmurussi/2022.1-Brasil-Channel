@@ -279,7 +279,7 @@ Aplicando o modelo GOMS, temos:
 |   1.1  | Adição do KLM, CMN e CPM |   Levi Queiroz   | Lucas | 20/07/2022 |
 |   1.2  | Consertando Tarefas CMN |   Levi Queiroz   | - | 20/07/2022 |
 |   1.3 | Consertando Tarefas CPM |   Levi Queiroz   | - | 20/07/2022 |
-|   1.4 | Alteração da palavra retirado por obtido |   Levi Queiroz   | - | 20/07/2022 |
+|   1.4 | Correções no artefato |   Levi Queiroz   | - | 31/07/2022 |
 
 ## Referências
 
