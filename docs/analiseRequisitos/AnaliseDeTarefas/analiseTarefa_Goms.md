@@ -146,7 +146,7 @@
 
 ### 1.3 - CMN-GOMS
 
-&emsp;&emsp;Se refere à proposta original de GOMS (Card et al., 1983), em que há uma hierarquia estrita de objetivos, onde os operadores são executadps estritamente em ordem sequencial e os métodos são representados numa notação semelhante a um pseudocódigo, que inclui submétodos e condicionais. Ao desenvolver um modelo GOMS, devemos definir cuidadosamente o que representar, o que não representar, o nivel de detalhamento em referência ao que se quer analizar e tarefas mentais que estejam relacionadas ao design do sistema devem ser incluídas no modelo (Kieras, 2001). O exemplo 1 demonstra, em lista, um modelo GOMS que será utilizado para fazer a análise neste artefato, retirado do livro da Simone. Lembrando que existe mais modelos GOMS para fazer análise de tarefas.  
+&emsp;&emsp;Se refere à proposta original de GOMS (Card et al., 1983), em que há uma hierarquia estrita de objetivos, onde os operadores são executadps estritamente em ordem sequencial e os métodos são representados numa notação semelhante a um pseudocódigo, que inclui submétodos e condicionais. Ao desenvolver um modelo GOMS, devemos definir cuidadosamente o que representar, o que não representar, o nivel de detalhamento em referência ao que se quer analizar e tarefas mentais que estejam relacionadas ao design do sistema devem ser incluídas no modelo (Kieras, 2001). O exemplo 1 demonstra, em lista, um modelo GOMS que será utilizado para fazer a análise neste artefato, obtido do livro da Simone. Lembrando que existe mais modelos GOMS para fazer análise de tarefas.  
 
 ---
 **Exemplo 1** - Modelo GOMS
@@ -257,7 +257,7 @@ Aplicando o modelo GOMS, temos:
 
 </center>
 
-<small><center>Figura 1 - Exemplo de modelo CPM-GOMS retirado do livro da Simone cap. 8</center></small>
+<small><center>Figura 1 - Exemplo de modelo CPM-GOMS obtido do livro da Simone cap. 8</center></small>
 
 ### 1.6 - Análise de tarefas do web site Brasil Channel com o CPM-GOMS
 
@@ -279,6 +279,7 @@ Aplicando o modelo GOMS, temos:
 |   1.1  | Adição do KLM, CMN e CPM |   Levi Queiroz   | Lucas | 20/07/2022 |
 |   1.2  | Consertando Tarefas CMN |   Levi Queiroz   | - | 20/07/2022 |
 |   1.3 | Consertando Tarefas CPM |   Levi Queiroz   | - | 20/07/2022 |
+|   1.4 | Alteração da palavra retirado por obtido |   Levi Queiroz   | - | 20/07/2022 |
 
 ## Referências
 
