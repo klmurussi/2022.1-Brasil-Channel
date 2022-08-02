@@ -10,7 +10,7 @@
 
 ### 2.1 Entrega 1
 
-|           Atividade          |    Data    |  Autor(es) | Revisor(es) |
+|           Atividade          |    Data  Prevista  |  Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:| :--------: | :---------: |
 | Lista de sites avaliados     |        26/jun    | Levi | Samuel |
 |        Site escolhido        |   30/jun     | Levi | Samuel |
@@ -28,7 +28,7 @@
 
 ### 2.2 Entrega 2
 
-|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|           Atividade          |    Data  Prevista  | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:| :-------: | :---------: |
 | Perfil do usuário    |        15/jul    | Lucas | - |
 |        Aspectos Éticos de pesquisa       |   16/jul     | Lara | - |
@@ -43,13 +43,15 @@
 
 ### 2.3 Entrega 3
 
-|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|           Atividade          |    Data Prevista    | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:| :-------: | :---------: |
 | Princípios gerais do projeto    |        30/jul    | Lucas | - |
-|        Metas de usabilidade       |   30/jul     |- | - |
-|    Guia de estilo   |   30/jul  |- | - |
+|        Metas de usabilidade       |   30/jul     | Samuel | Lucas |
+|    Guia de estilo tópicos 1, 2  e  3  |   30/jul  | Levi | - |
+|    Guia de estilo tópicos 4 e 5  |   30/jul  | Pedro Henrique | - |
+|    Guia de estilo tópico 6  |   30/jul  | Kathlyn | - |
 |      Gravar apresentação     |  30/jul| Todos | - |
-|      Editar vídeo     |  31/jul| Pedro | - |
+|      Editar vídeo     |  31/jul| Pedro Henrique | - |
 
 <figcaption align='center'>
     <b>Tabela 3: Planejamento para o terceiro ponto de controle.</b>
@@ -58,7 +60,7 @@
 
 ### 2.4 Entrega 4
 
-|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
 | Planejamento da Avaliação do Storyboard e Análise de tarefas    |        05/ago    |- | - |
 |       Planejamento do relato dos resultados da avaliação do Storyboard        |   05/ago     |- | - |
@@ -72,7 +74,7 @@
 
 ### 2.5 Entrega 5
 
-|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
 | Relato dos resultados do Story Board e da Análise de tarefas    |        12/ago    |- | - |
 |    Planejamento da avaliação do protótipo em papel    |   14/ago  |- | - |
@@ -86,7 +88,7 @@
 
 ### 2.6 Entrega 6
 
-|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
 | Verificação dos artefatos     |        19/ago    |- | - |
 |      Gravar apresentação     |  20/ago |- | - |
@@ -98,7 +100,7 @@
 
 ### 2.7 Entrega 7
 
-|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
 |  Relato dos resultados do Protótipo de Papel     |        01/set    | - | - |
 |      Planejamento da Avaliação do protótipo de alta fidelidade       |   01/set     | - | - |
@@ -112,7 +114,7 @@
 
 ### 2.8 Entrega Final
 
-|           Atividade          |    Data    | Autor(es) | Revisor(es) |
+|           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
 | Corrigir e completar todos os artefatos     |        09/set    | - | - |
 |      Gravar apresentação     |  10/set| - | - |
