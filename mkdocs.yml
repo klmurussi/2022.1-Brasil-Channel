@@ -20,11 +20,12 @@ nav:
         - 'Aspectos Éticos': './analiseRequisitos/aspectosEticos.md'
         - 'Principios Gerais do Projeto': './analiseRequisitos/principiosGerais.md'
         - 'Metas de Usabilidade': './analiseRequisitos/metas_Usabilidade.md'
-        - 'Guia de Estilo': './analiseRequisitos/guiaDeEstilo_Levi.md'
+        - 'Guia de Estilo': './analiseRequisitos/guiaDeEstilo.md'
 
     - Apresentações:
         - 'Ponto de controle 1': './apresentacoes/apresentacao1.md'
         - 'Ponto de controle 2': './apresentacoes/apresentacao2.md'
+        - 'Ponto de controle 3': './apresentacoes/apresentacao3.md'
 
 theme:
   name: material
