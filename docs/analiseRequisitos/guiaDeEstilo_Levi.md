@@ -28,6 +28,73 @@
 
 &emsp;&emsp;Na tela inicial, o usuário encontra a imagem da logo no canto superior direito, no cabeçalho vai encontrar uma mensagem "Uma Viagem pelo Brasil" e embaixo dessa mensagem um menu com com cinco caixas de seleção, que ao passar por cima delas, aciona uma lista de palavras selecionáveis para cada menu. No corpo da página vai estar uma mapa da localização do Brasil no globo e no continente sul-americano, um texto contando uma breve história do Brasil, como foi sua formação, suas capitais durante sua formação etc. E chegando próximo ao rodapé, uma lista de ícones acessáveis, que são as mesmas páginas contidas no menu "Brasil".  
 
+## 3 - Elementos da interface
+
+### 3.1 - Disposição espacial e grid  
+
+&emsp;&emsp;A página deve utilizar um grid intuitivo, onde o usuário poderá ver com clareza as opçẽs de acesso e o conteúdo presente na página, com a logo estabelecida no canto superior esquerdo como inferior esquerdo, logo ao lado a mensagem do site "Uma viagem pelo Brasil", assim como a barra de menu e outros ponto apresentados na figura 3.1.1.
+
+<center>
+<img src="./assets/../../assets/guiaDeEstilo/disposicao_espacial_grid.png" width="700">
+</center>
+
+<small><center>Figura 3.1.1 - Figura elaborada pelo autor do artefato</center></small>  
+
+### 3.2 - Janelas  
+
+&emsp;&emsp;O principal meio de navegação do site é por meio de hiperlinks, tendo também ícones selecionáveis e barra de pesquisa. Sendo asssim, as páginas seguirão um padrão de cabeçalho, menu lateral e rodapé, alterando a disposição do conteúdo, layout e figuras no corpo da página.
+
+### 3.3 - Tipografia
+
+&emsp;&emsp;A fonte que deve ser utilizada é a [Open Sans](https://fonts.google.com/specimen/Open+Sans#standard-styles), em que as fontes podem varia entre bold, regular e italic, de tamanho diferentes. Segue a figura 3.3.1 apresentando a fonte.  
+
+<center>
+<img src="./assets/../../assets/guiaDeEstilo/openSans.png" width="700">
+</center>
+
+<small><center>Figura 3.3.1 - Fonte: https://www.dafontfree.io/open-sans-font-family/</center></small>  
+
+### 3.4 Símbolos não tipográficos
+
+&emsp;&emsp;Em algumas páginas, terão icones de acesso no corpo da página em que serão represenados como a figura 3.4.1 com uma identificação na parte inferior do ícone, serão selecionaveis e também serão colocados no rodapé.
+
+
+<center>
+<img src="./assets/../../assets/guiaDeEstilo/iconeBrasil.png" width="100">
+</center>
+
+<small><center>Figura 3.4.1 - Fonte: https://www.canstockphoto.com.br/states-brasileiro-bandeiras-vetorial-86086034.html</center></small>  
+
+### 3.5 - Cores  
+
+&emsp;&emsp;A figura 3.5.1 apresenta as cores que devem ser utilizadas no site, as cores podem ser adicionados ou retiradas conforme a necessidade da produção do site.  
+
+<center>
+<img src="./assets/../../assets/guiaDeEstilo/paleta_de_cores.png" width="500">
+</center>
+
+<small><center>Figura 3.5.1 - Figura elaborada pelo autor do artefato</center></small>  
+
+### 3.6 - Animações  
+
+&emsp;&emsp;Algumas animações nos mapas inseridos em alguma páginas funcionaram com o objetivo de guiar o usuário na hora de clicar no hiperlink, assim a parte que o mouse passar por cima vai dar um efeito de elevação.  
+
+### 3.7 - Logo  
+
+&emsp;&emsp; Foi debatido entre os integrantes do grupo uma forma de alterar a logo, em que a logo atual, que é demonstrada na figura 3.7.1, apresenta informações sofisticadas e difere da meta de usabilidade de simplicidade, sendo assim a figura 3.7.2 apresenta a logo sugerida pelos integrantes do grupo.  
+
+<center>
+<img src="./assets/../../assets/channel.png" width="500">
+</center>
+
+<small><center>Figura 3.7.1 - Fonte: https://www.brasilchannel.com.br/</center></small> 
+
+<center>
+<img src="./assets/../../assets/guiaDeEstilo/logo_brasil_channel.png" width="500">
+</center>
+
+<small><center>Figura 3.7.2 - Figura elaborada pelo grupo</center></small> 
+
 ## 4 - Elementos de interação
 
 ### 4.1 - Estilo de interação
@@ -43,6 +110,7 @@
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  | Criação do documento e adição dos tópicos 1 e 2 |    Levi Queiroz   |  - | 01/08/2022 |
 |   1.1  | Criação do documento e adição do tópico 4 |    Pedro Henrique   |  - | 01/08/2022 |
+|   1.2  | Adição do tópico 3 e figuras |    Levi Queiroz   |  - | 01/08/2022 |
 
 ## Referências
 
