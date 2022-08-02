@@ -46,7 +46,7 @@
 
 ### 3.3 - Tipografia
 
-&emsp;&emsp;A fonte que deve ser utilizada é a [Open Sans](https://fonts.google.com/specimen/Open+Sans#standard-styles), em que as fontes podem varia entre bold, regular e italic, de tamanho diferentes. Segue a figura 3.3.1 apresentando a fonte.  
+&emsp;&emsp;A fonte que deve ser utilizada é a [Open Sans](https://fonts.google.com/specimen/Open+Sans#standard-styles), em que as fontes podem variar entre bold, regular e italic, de tamanho diferentes. Segue a figura 3.3.1 apresentando a fonte.  
 
 <center>
 <img src="./assets/../../assets/guiaDeEstilo/openSans.png" width="700">
@@ -77,7 +77,7 @@
 
 ### 3.6 - Animações  
 
-&emsp;&emsp;Algumas animações nos mapas inseridos em alguma páginas funcionaram com o objetivo de guiar o usuário na hora de clicar no hiperlink, assim a parte que o mouse passar por cima vai dar um efeito de elevação.  
+&emsp;&emsp;Algumas animações nos mapas inseridos em alguma páginas funcionam com o objetivo de guiar o usuário no momento de clicar no hiperlink, assim a parte que o mouse passar por cima vai mostrar um efeito de elevação.  
 
 ### 3.7 - Logo  
 
@@ -104,13 +104,52 @@
 ### 4.2 - Seleção de um estilo 
 
 &emsp;&emsp;Para o nosso protótipo vamos melhorar a seleção das opções, assim organizando melhor cada tópico para evitar a quantidade desnecessária de links em cada uma das opções, juntamente com novas imagens melhorando assim a visualização para o usuário. 
+
+### 4.3 Aceleradores (teclas de atalho)  
+
+&emsp;&emsp;Não se tem a necessidade de usar aceleradores no site.
+
+## 5 - Elementos de ação  
+
+### 5.1 - Preenchimentos de campos  
+
+&emsp;&emsp;No cabeçalho da págine tem um campo de preenchimento no canto superior direito, em que ao selecioná-lo, ele apresenta um menu suspendo com sugestões ao inserir as letras.
+
+### 5.2 - Seleção
+
+&emsp;&emsp;No presente site não se tem necessidade de elementos de seleção, claro, podendo ser modificado a partir de uma verificação que aponte a necessidade de um elemento de seleção.
+
+### 5.3 - Ativação  
+
+&emsp;&emsp;No presente site não se tem necessidade de elementos de ativação, claro, podendo ser modificado a partir de uma verificação que aponte a necessidade de um elemento de ativação.
+
+## 6 - Vocabulário e padrões  
+
+### 6.1 - Terminologia  
+  
+&emsp;&emsp;Como o site é destinado para pessoas interessadas em obter o conhecimento sobre o Brasil, então a liguagem a ser utilizada é simples contento alguns termos técnico, por exemplo, os dados demográficos, população etc.
+
+### 6.2 - Tipos de tela(para tarfefas comuns)
+  
+  &emsp;&emsp;Os tipos de tela que deve ser feitas são:  
+
+  - Tela de início: Possui um título, a história do Brasil e um imagem
+  - Tela de Regiões: Possui um mapa selecionavel da região e hiperlinks próximo ao rodapé
+  - Tela de Estado: Possui um mapa selecionável do estado e hiperlinks próximo ao rodape
+  - Tela de informações: após entrar nessas tela principais, as tela apresentadas sofrem pouca mudança durante seu cicl0 de vida;
+
+### 6.3 - Sequências de diálogos (Feedback ou confirmação de uma operaao)
+
+&emsp;&emsp;Como o site é destinado à pesquisas, então não se vê necessidade em montar uma sequência de dialogos.
+
 ## Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  | Criação do documento e adição dos tópicos 1 e 2 |    Levi Queiroz   |  - | 01/08/2022 |
-|   1.1  | Criação do documento e adição do tópico 4 |    Pedro Henrique   |  - | 01/08/2022 |
+|   1.1  | Criação do documento e adição do tópico 4 |    Pedro Henrique   |  Levi Queiroz | 01/08/2022 |
 |   1.2  | Adição do tópico 3 e figuras |    Levi Queiroz   |  - | 01/08/2022 |
+|   1.3  | Adição do tópico 5, 6 e figuras |    Levi Queiroz   |  - | 02/08/2022 |
 
 ## Referências
 
