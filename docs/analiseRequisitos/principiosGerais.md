@@ -73,7 +73,8 @@
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  | Criação do documento |    Lucas   | - | 29/07/2022 |
+|   1.0  | Criação do documento |    Lucas   | Pedro Henrique | 29/07/2022 |
+|   1.1  | Documento revisado |    Pedro Henrique   | - | 01/08/2022 |
 
 ## Referências
 

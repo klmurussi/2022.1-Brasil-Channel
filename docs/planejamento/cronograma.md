@@ -45,7 +45,7 @@
 
 |           Atividade          |    Data Prevista    | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:| :-------: | :---------: |
-| Princípios gerais do projeto    |        30/jul    | Lucas | - |
+| Princípios gerais do projeto    |        30/jul    | Lucas | Pedro Henrique |
 |        Metas de usabilidade       |   30/jul     | Samuel | Lucas |
 |    Guia de estilo tópicos 1, 2  e  3  |   30/jul  | Levi | - |
 |    Guia de estilo tópicos 4 e 5  |   30/jul  | Pedro Henrique | - |
