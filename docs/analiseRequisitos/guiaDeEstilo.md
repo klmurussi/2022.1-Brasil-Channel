@@ -93,6 +93,7 @@
 <img src="./assets/../../assets/guiaDeEstilo/logo_brasil_channel.png" width="500">
 </center>
 
+
 <small><center>Figura 3.7.2 - Figura elaborada pelo grupo</center></small> 
 
 ## 4 - Elementos de interação

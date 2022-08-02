@@ -62,7 +62,10 @@
 
 |           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
-| Planejamento da Avaliação do Storyboard e Análise de tarefas    |        05/ago    |- | - |
+| Adicionar como serao utilizados principios projeto    |        05/ago    | Lucas | Levi |
+| Como devem ser alcancadas e razao metas de usabilidade    |        05/ago    | Samuel | Lucas |
+| Revisao Guia de Estilo    |        05/ago    | Levi, Pedro, Lara | Lucas |
+| Planejamento da Avaliação do Storyboard e Análise de tarefas    |        05/ago    | - | - |
 |       Planejamento do relato dos resultados da avaliação do Storyboard        |   05/ago     |- | - |
 |    Planejamento do relato dos resultados da avaliação do Análise de tarefas    |   08/ago  |- | - |
 |      Gravar apresentação     |  09/ago |- | - |
