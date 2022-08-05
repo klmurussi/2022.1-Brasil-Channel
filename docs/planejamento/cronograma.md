@@ -65,10 +65,12 @@
 | Adicionar como serao utilizados principios projeto    |        05/ago    | Lucas | Levi |
 | Como devem ser alcancadas e razao metas de usabilidade    |        05/ago    | Samuel | Lucas |
 | Revisao Guia de Estilo    |        05/ago    | Levi, Pedro, Lara | Lucas |
-| Planejamento da Avaliação do Storyboard e Análise de tarefas    |        05/ago    | - | - |
-|       Planejamento do relato dos resultados da avaliação do Storyboard        |   05/ago     |- | - |
-|    Planejamento do relato dos resultados da avaliação do Análise de tarefas    |   08/ago  |- | - |
-|      Gravar apresentação     |  09/ago |- | - |
+| Planejamento dos StoryBoards    |        06/ago    | Lucas | - |
+| Planejamento da Análise de Tarefas    |        06/ago    | - | - |
+| StoryBoards    |        06/ago    | - | - |
+| Analise de Tarefas    |        06/ago    | - | - |
+|      Gravar apresentação     |  07/ago |- | - |
+|      Editar apresentação     |  07/ago |- | - |
 
 <figcaption align='center'>
     <b>Tabela 4: Planejamento para o quarto ponto de controle.</b>
