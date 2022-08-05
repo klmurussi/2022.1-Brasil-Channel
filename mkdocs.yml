@@ -2,7 +2,7 @@ site_name: Brasil Channel
 
 nav:
     - Inicio: 'index.md'
-    - Panejamento:
+    - Planejamento:
         - Planejamento da equipe:
           - 'Ferramentas': './planejamento/ferramentas.md'
           

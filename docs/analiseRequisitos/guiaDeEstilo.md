@@ -34,11 +34,14 @@
 
 &emsp;&emsp;A página deve utilizar um grid intuitivo, onde o usuário poderá ver com clareza as opçẽs de acesso e o conteúdo presente na página, com a logo estabelecida no canto superior esquerdo como inferior esquerdo, logo ao lado a mensagem do site "Uma viagem pelo Brasil", assim como a barra de menu e outros ponto apresentados na figura 3.1.1.
 
+
 <center>
-<img src="./assets/../../assets/guiaDeEstilo/disposicao_espacial_grid.png" width="700">
+
+![Disposição espacial e grid](../assets/guiaDeEstilo/disposicao_espacial_grid.png "Disposição espacial e grid")
+
 </center>
 
-<small><center>Figura 3.1.1 - Figura elaborada pelo autor do artefato</center></small>  
+<small><center>Figura 3.1.1 - Figura elaborada pelo autor do artefato, mostrando a disposição e o grid proposto pelos integrantes do grupo</center></small>  
 
 ### 3.2 - Janelas  
 
@@ -49,10 +52,12 @@
 &emsp;&emsp;A fonte que deve ser utilizada é a [Open Sans](https://fonts.google.com/specimen/Open+Sans#standard-styles), em que as fontes podem variar entre bold, regular e italic, de tamanho diferentes. Segue a figura 3.3.1 apresentando a fonte.  
 
 <center>
-<img src="./assets/../../assets/guiaDeEstilo/openSans.png" width="700">
+
+![Tipografia](../assets/guiaDeEstilo/openSans.png "Tipografia")
+
 </center>
 
-<small><center>Figura 3.3.1 - Fonte: https://www.dafontfree.io/open-sans-font-family/</center></small>  
+<small><center>Figura 3.3.1 - Tipografia proposta para o desenvolvimento das etapas seguintes de design. Fonte: https://www.dafontfree.io/open-sans-font-family/</center></small>  
 
 ### 3.4 Símbolos não tipográficos
 
@@ -60,20 +65,24 @@
 
 
 <center>
-<img src="./assets/../../assets/guiaDeEstilo/iconeBrasil.png" width="100">
+
+![Símbolos não tipográficos](../assets/guiaDeEstilo/iconeBrasil.png "Símbolos não tipográficos")
+
 </center>
 
-<small><center>Figura 3.4.1 - Fonte: https://www.canstockphoto.com.br/states-brasileiro-bandeiras-vetorial-86086034.html</center></small>  
+<small><center>Figura 3.4.1 - Forma do ícone proposto pelos integrantes do grupo. Fonte: https://www.canstockphoto.com.br/states-brasileiro-bandeiras-vetorial-86086034.html</center></small>  
 
 ### 3.5 - Cores  
 
 &emsp;&emsp;A figura 3.5.1 apresenta as cores que devem ser utilizadas no site, as cores podem ser adicionados ou retiradas conforme a necessidade da produção do site.  
 
 <center>
-<img src="./assets/../../assets/guiaDeEstilo/paleta_de_cores.png" width="500">
+
+![Cores](../assets/guiaDeEstilo/paleta_de_cores.png "Cores")
+
 </center>
 
-<small><center>Figura 3.5.1 - Figura elaborada pelo autor do artefato</center></small>  
+<small><center>Figura 3.5.1 - Figura elaborada pelo autor do artefato, mostrando as cores de paleta propóstas para o protótipo</center></small>  
 
 ### 3.6 - Animações  
 
@@ -84,17 +93,21 @@
 &emsp;&emsp; Foi debatido entre os integrantes do grupo uma forma de alterar a logo, em que a logo atual, que é demonstrada na figura 3.7.1, apresenta informações sofisticadas e difere da meta de usabilidade de simplicidade, sendo assim a figura 3.7.2 apresenta a logo sugerida pelos integrantes do grupo.  
 
 <center>
-<img src="./assets/../../assets/channel.png" width="500">
+
+![Logo Original](../assets/channel.png "Logo Original")
+
 </center>
 
 <small><center>Figura 3.7.1 - Fonte: https://www.brasilchannel.com.br/</center></small> 
 
 <center>
-<img src="./assets/../../assets/guiaDeEstilo/logo_brasil_channel.png" width="500">
+
+![Logo proposta](../assets/guiaDeEstilo/logo_brasil_channel.png "Logo proposta")
+
 </center>
 
 
-<small><center>Figura 3.7.2 - Figura elaborada pelo grupo</center></small> 
+<small><center>Figura 3.7.2 - Figura elaborada pelo grupo, mostrando a proposta de atualização da logo do web site</center></small> 
 
 ## 4 - Elementos de interação
 
@@ -151,6 +164,7 @@
 |   1.1  | Criação do documento e adição do tópico 4 |    Pedro Henrique   |  Levi Queiroz | 01/08/2022 |
 |   1.2  | Adição do tópico 3 e figuras |    Levi Queiroz   |  - | 01/08/2022 |
 |   1.3  | Adição do tópico 5, 6 e figuras |    Levi Queiroz   |  - | 02/08/2022 |
+|   1.4  | Consertado as figuras quebradas |    Levi Queiroz   |  - | 05/08/2022 |
 
 ## Referências
 
