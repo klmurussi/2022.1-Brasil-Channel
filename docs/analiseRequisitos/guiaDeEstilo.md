@@ -4,7 +4,7 @@
 
 ### 1.1 - Objetivo do guia de estilo  
 
-&emsp;&emsp;O objetivo do guia de estilo é registrar as principais decisões de design tomadas, sendo que não se percam, ou seja, que sejam efetivamente incorporadas no produto final. Serve como uma ferramenta de dialogo entre os integrantes da equipe de design e também com a equipe de desenvolvimento. É importante que as decisões de design possam ser facilmente consultadas e reutilizadas nos debates sobre extensões ou versões futuras do produto.  
+&emsp;&emsp;O objetivo do guia de estilo é registrar as princípais decisões de design tomadas, sendo que não se percam, ou seja, que sejam efetivamente incorporadas no produto final. Serve como uma ferramenta de diálogo entre os integrantes da equipe de design e também com a equipe de desenvolvimento. É importante que as decisões de design possam ser facilmente consultadas e reutilizadas nos debates sobre extensões ou versões futuras do produto.  
 
 ### 1.2 - Organização e conteúdo do guia de estilo  
 
@@ -16,7 +16,7 @@
 
 ### 1.4 - Como utilizar o guia  
 
-&emsp;&emsp;Deve ser utilizado como ferramenta de guia para produção dos artefatos em relação ao design, interface e interações, como em verificação e análise após os artefatos produzidos. Também caso haja alguma forma de problema em que o guia de estilo não satisfaz, alterações e atualizações serão feitas no guia.
+&emsp;&emsp;Deve ser utilizado como ferramenta de guia para produção dos artefatos em relação ao design, interface e interações, como em verificação e análise após os artefatos produzidos. Caso haja de alguma forma problema em que o guia de estilo não satisfaz, alterações e atualizações serão feitas no guia.
 
 ### 1.5 - Como manter o guia  
 
@@ -117,7 +117,7 @@
 
 ### 4.2 - Seleção de um estilo 
 
-&emsp;&emsp;Para o nosso protótipo vamos melhorar a seleção das opções, assim organizando melhor cada tópico para evitar a quantidade desnecessária de links em cada uma das opções, juntamente com novas imagens melhorando assim a visualização para o usuário. 
+&emsp;&emsp;Para o nosso protótipo, vamos melhorar a seleção das opções, assim organizando melhor cada tópico para evitar a quantidade desnecessária de links em cada uma das opções, juntamente com novas imagens, melhorando, assim, a visualização para o usuário. 
 
 ### 4.3 Aceleradores (teclas de atalho)  
 
@@ -127,7 +127,7 @@
 
 ### 5.1 - Preenchimentos de campos  
 
-&emsp;&emsp;No cabeçalho da págine tem um campo de preenchimento no canto superior direito, em que ao selecioná-lo, ele apresenta um menu suspendo com sugestões ao inserir as letras.
+&emsp;&emsp;No cabeçalho da página tem um campo de preenchimento no canto superior direito, em que ao selecioná-lo, ele apresenta um menu suspenso com sugestões ao inserir as letras.
 
 ### 5.2 - Seleção
 
@@ -141,30 +141,30 @@
 
 ### 6.1 - Terminologia  
   
-&emsp;&emsp;Como o site é destinado para pessoas interessadas em obter o conhecimento sobre o Brasil, então a liguagem a ser utilizada é simples contento alguns termos técnico, por exemplo, os dados demográficos, população etc.
+&emsp;&emsp;Como o site é destinado para pessoas interessadas em obter o conhecimento sobre o Brasil, então a liguagem a ser utilizada é simples, contento alguns termos técnico, por exemplo, os dados demográficos, população etc.
 
-### 6.2 - Tipos de tela(para tarfefas comuns)
+### 6.2 - Tipos de tela (para tarefas comuns)
   
-  &emsp;&emsp;Os tipos de tela que deve ser feitas são:  
+  &emsp;&emsp;Os tipos de tela que devem ser feitas são:  
 
   - Tela de início: Possui um título, a história do Brasil e um imagem
-  - Tela de Regiões: Possui um mapa selecionavel da região e hiperlinks próximo ao rodapé
+  - Tela de Regiões: Possui um mapa selecionável da região e hiperlinks próximo ao rodapé
   - Tela de Estado: Possui um mapa selecionável do estado e hiperlinks próximo ao rodape
-  - Tela de informações: após entrar nessas tela principais, as tela apresentadas sofrem pouca mudança durante seu cicl0 de vida;
+  - Tela de informações: após entrar nessas tela principais, as tela apresentadas sofrem pouca mudança durante seu ciclo de vida
 
-### 6.3 - Sequências de diálogos (Feedback ou confirmação de uma operaao)
+### 6.3 - Sequências de diálogos (Feedback ou confirmação de uma operação)
 
-&emsp;&emsp;Como o site é destinado à pesquisas, então não se vê necessidade em montar uma sequência de dialogos.
+&emsp;&emsp;Como o site é destinado às pesquisas, então não se vê necessidade em montar uma sequência de diálogos.
 
 ## Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  | Criação do documento e adição dos tópicos 1 e 2 |    Levi Queiroz   |  - | 01/08/2022 |
+|   1.0  | Criação do documento e adição dos tópicos 1 e 2 |    Levi Queiroz   |  Kathlyn Lara | 01/08/2022 |
 |   1.1  | Criação do documento e adição do tópico 4 |    Pedro Henrique   |  Levi Queiroz | 01/08/2022 |
-|   1.2  | Adição do tópico 3 e figuras |    Levi Queiroz   |  - | 01/08/2022 |
-|   1.3  | Adição do tópico 5, 6 e figuras |    Levi Queiroz   |  - | 02/08/2022 |
-|   1.4  | Consertado as figuras quebradas |    Levi Queiroz   |  - | 05/08/2022 |
+|   1.2  | Adição do tópico 3 e figuras |    Levi Queiroz   |  Kathlyn Lara | 01/08/2022 |
+|   1.3  | Adição do tópico 5, 6 e figuras |    Levi Queiroz   |  Kathlyn Lara | 02/08/2022 |
+|   1.4  | Consertado as figuras quebradas |    Levi Queiroz   |  Kathlyn Lara | 05/08/2022 |
 
 ## Referências
 
