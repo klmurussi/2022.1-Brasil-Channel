@@ -26,13 +26,15 @@
 
 ### 2.1 - Descrição do ambiente de trabalho do usuário  
 
-&emsp;&emsp;Na tela inicial, o usuário encontra a imagem da logo no canto superior direito, no cabeçalho vai encontrar uma mensagem "Uma Viagem pelo Brasil" e embaixo dessa mensagem um menu com com cinco caixas de seleção, que ao passar por cima delas, aciona uma lista de palavras selecionáveis para cada menu. No corpo da página vai estar uma mapa da localização do Brasil no globo e no continente sul-americano, um texto contando uma breve história do Brasil, como foi sua formação, suas capitais durante sua formação etc. E chegando próximo ao rodapé, uma lista de ícones acessáveis, que são as mesmas páginas contidas no menu "Brasil".  
+&emsp;&emsp;Na tela inicial, o usuário encontra a imagem da logo no canto superior direito, no cabeçalho vai encontrar uma mensagem "Uma Viagem pelo Brasil" e embaixo dessa mensagem um menu com cinco caixas de seleção, que ao passar por cima delas, aciona uma lista de palavras selecionáveis para cada menu. No corpo da página vai estar uma mapa da localização do Brasil no globo e no continente sul-americano, um texto contando uma breve história do Brasil, como foi sua formação, suas capitais durante sua formação etc. E chegando próximo ao rodapé, uma lista de ícones acessáveis, que são as mesmas páginas contidas no menu "Brasil". 
+
+&emsp;&emsp;Notou-se, assim, o uso de muitas distrações e informações no site, o que para o usuário, pode dificultar realizar a tarefa desejada. Dessa forma, propomos diversas mudanças para se adequar as metas de usabilidade e melhorar a experiência do usuário.
 
 ## 3 - Elementos da interface
 
 ### 3.1 - Disposição espacial e grid  
 
-&emsp;&emsp;A página deve utilizar um grid intuitivo, onde o usuário poderá ver com clareza as opçẽs de acesso e o conteúdo presente na página, com a logo estabelecida no canto superior esquerdo como inferior esquerdo, logo ao lado a mensagem do site "Uma viagem pelo Brasil", assim como a barra de menu e outros ponto apresentados na figura 3.1.1.
+&emsp;&emsp;A página deve utilizar um grid intuitivo, onde o usuário poderá ver com clareza as opções de acesso e o conteúdo presente na página, com a logo estabelecida no canto superior esquerdo como inferior esquerdo, logo ao lado a mensagem do site "Uma viagem pelo Brasil", assim como a barra de menu e outros pontos apresentados na figura 3.1.1.
 
 
 <center>
@@ -45,11 +47,11 @@
 
 ### 3.2 - Janelas  
 
-&emsp;&emsp;O principal meio de navegação do site é por meio de hiperlinks, tendo também ícones selecionáveis e barra de pesquisa. Sendo asssim, as páginas seguirão um padrão de cabeçalho, menu lateral e rodapé, alterando a disposição do conteúdo, layout e figuras no corpo da página.
+&emsp;&emsp;O principal meio de navegação do site será por meio de hiperlinks, tendo também ícones selecionáveis e barra de pesquisa. Sendo asssim, as páginas seguirão um padrão de cabeçalho, menu lateral e rodapé, alterando a disposição do conteúdo, layout e figuras no corpo da página.
 
 ### 3.3 - Tipografia
 
-&emsp;&emsp;A fonte que deve ser utilizada é a [Open Sans](https://fonts.google.com/specimen/Open+Sans#standard-styles), em que as fontes podem variar entre bold, regular e italic, de tamanho diferentes. Segue a figura 3.3.1 apresentando a fonte.  
+&emsp;&emsp;A fonte que deve ser utilizada é a [Open Sans](https://fonts.google.com/specimen/Open+Sans#standard-styles), projetada por Steve Matteson, em que as fontes podem variar entre bold, regular e italic, de tamanho diferentes. Segue a figura 3.3.1 apresentando a fonte.  
 
 <center>
 
@@ -61,7 +63,7 @@
 
 ### 3.4 Símbolos não tipográficos
 
-&emsp;&emsp;Em algumas páginas, terão icones de acesso no corpo da página em que serão represenados como a figura 3.4.1 com uma identificação na parte inferior do ícone, serão selecionaveis e também serão colocados no rodapé.
+&emsp;&emsp;Em algumas páginas, terão ícones de acesso no corpo da página em que serão representados como a figura 3.4.1 com uma identificação na parte inferior do ícone, serão selecionaveis e também serão colocados no rodapé.
 
 
 <center>
@@ -70,7 +72,7 @@
 
 </center>
 
-<small><center>Figura 3.4.1 - Forma do ícone proposto pelos integrantes do grupo. Fonte: https://www.canstockphoto.com.br/states-brasileiro-bandeiras-vetorial-86086034.html</center></small>  
+<small><center>Figura 3.4.1 - Forma do ícone proposto pelos integrantes do grupo. Fonte: <a href="https://br.freepik.com/fotos-vetores-gratis/estados-do-brasil">Estados do brasil vetor criado por luis_molinero - br.freepik.com</a></center></small>  
 
 ### 3.5 - Cores  
 
@@ -113,7 +115,7 @@
 
 ### 4.1 - Estilo de interação
 
-&emsp;&emsp;O estilo de iteração remete a forma como o usuário vai interagir com o site, dentro do Brasil Channel ele consegue interagir apenas por hiperlinks, onde cada tópico abre uma lista de opções por onde pode ser orientado com os titulos do link para onde pode ele leva.
+&emsp;&emsp;O estilo de interação remete a forma como o usuário vai interagir com o site. Dentro do Brasil Channel ele consegue interagir apenas por hiperlinks contendo elementos tipográficos, onde cada tópico abre uma lista de opções por onde pode ser orientado com os títulos do link para onde pode ele leva.
 
 ### 4.2 - Seleção de um estilo 
 
@@ -121,13 +123,14 @@
 
 ### 4.3 Aceleradores (teclas de atalho)  
 
-&emsp;&emsp;Não se tem a necessidade de usar aceleradores no site.
+&emsp;&emsp;No presente site não se tem necessidade de aceleradores, claro, podendo ser modificado a partir de uma verificação que aponte a necessidade de um acelerador.
+
 
 ## 5 - Elementos de ação  
 
 ### 5.1 - Preenchimentos de campos  
 
-&emsp;&emsp;No cabeçalho da página tem um campo de preenchimento no canto superior direito, em que ao selecioná-lo, ele apresenta um menu suspenso com sugestões ao inserir as letras.
+&emsp;&emsp;No cabeçalho da página deverá ter um campo de preenchimento no canto superior direito, em que ao selecioná-lo, ele apresenta um menu suspenso com sugestões ao inserir as letras.
 
 ### 5.2 - Seleção
 
@@ -141,7 +144,7 @@
 
 ### 6.1 - Terminologia  
   
-&emsp;&emsp;Como o site é destinado para pessoas interessadas em obter o conhecimento sobre o Brasil, então a liguagem a ser utilizada é simples, contento alguns termos técnico, por exemplo, os dados demográficos, população etc.
+&emsp;&emsp;Como o site é destinado para todas as pessoas interessadas em obter o conhecimento sobre o Brasil, manteremos uma liguagem simples que todos entendam e alguns termos técnicos, como por exemplo, os dados demográficos, população etc.
 
 ### 6.2 - Tipos de tela (para tarefas comuns)
   
@@ -154,7 +157,7 @@
 
 ### 6.3 - Sequências de diálogos (Feedback ou confirmação de uma operação)
 
-&emsp;&emsp;Como o site é destinado às pesquisas, então não se vê necessidade em montar uma sequência de diálogos.
+&emsp;&emsp;Como o site é destinado a pesquisas, então não se vê necessidade em montar uma sequência de diálogos.
 
 ## Histórico de Versão
 
@@ -165,6 +168,7 @@
 |   1.2  | Adição do tópico 3 e figuras |    Levi Queiroz   |  Kathlyn Lara | 01/08/2022 |
 |   1.3  | Adição do tópico 5, 6 e figuras |    Levi Queiroz   |  Kathlyn Lara | 02/08/2022 |
 |   1.4  | Consertado as figuras quebradas |    Levi Queiroz   |  Kathlyn Lara | 05/08/2022 |
+|   1.5  | Alteração de elementos não tipográficos | Kathlyn Lara | - | 05/08/2022 |
 
 ## Referências
 
