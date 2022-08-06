@@ -50,15 +50,31 @@
 
 <small><center>Figura 2.1.1 - Tela inicial do web site Brasil Channel. Fonte: https://www.brasilchannel.com.br/</center></small>
 
+&emsp;&emsp;As páginas seguintes seguem um outro formato, em que no cabeçalho é apresentado a logo original e embaixo dela uma mensagem, no canto superior direito é apresentado a data. No corpo do site é apresentado um menu lateral com uma figura da bandeira do Brasil, assim as informações junto com algumas figuras ficam ao lado direito desse menu, em algumas páginas essas figuras apresentam hiperlinks para outras páginas, no rodapé aparece apenas a mensagem de CopyRight. Na figura 2.1.2 é apresentado a página seguinte:
+
+<center>
+
+![]()
+
+</center>
+
+<small><center>Figura 2.1.2 - Tela "Brasil", acessada ao clicar no hiperlink "Brasil - Redescobrindo o Gigante". Fonte: https://www.brasilchannel.com.br/</center></small>
+
 &emsp;&emsp;Notou-se, assim, o uso de muitas distrações e informações no site, o que para o usuário, pode dificultar realizar a tarefa desejada. Dessa forma, propomos diversas mudanças para se adequar as metas de usabilidade e melhorar a experiência do usuário.
 
-2. **Atualização**  
+1. **Atualização**  
    
-&emsp;&emsp;Na tela inicial, o usuário encontra a imagem da logo no canto superior direito, no cabeçalho vai encontrar uma mensagem "Uma Viagem pelo Brasil" e embaixo dessa mensagem um menu com cinco caixas de seleção, que ao passar por cima delas, aciona uma lista de palavras selecionáveis para cada menu. No corpo da página vai estar uma mapa da localização do Brasil no globo e no continente sul-americano, um texto contando uma breve história do Brasil, como foi sua formação, suas capitais durante sua formação etc. E chegando próximo ao rodapé, uma lista de ícones acessáveis, que são as mesmas páginas contidas no menu "Brasil" e também a mensagem de CopyRight.  
+&emsp;&emsp;Na tela inicial, o usuário encontra a imagem da logo no canto superior direito, no cabeçalho vai encontrar uma mensagem "Uma Viagem pelo Brasil" e embaixo dessa mensagem um menu com cinco caixas de seleção, que ao passar por cima delas, aciona uma lista de palavras selecionáveis para cada menu. No corpo da página vai estar uma mapa da localização do Brasil no globo e no continente sul-americano, um texto contando uma breve história do Brasil, como foi sua formação, suas capitais durante sua formação etc. E chegando próximo ao rodapé, uma lista de ícones acessáveis, que são as mesmas páginas contidas no menu "Brasil" e também a mensagem de CopyRight. As páginas seguintes, em sua maioria, seguirão esta mesma descrição.
 
 ## 3 - Elementos da interface
 
 ### 3.1 - Disposição espacial e grid  
+
+1. **Atual**  
+
+&emsp;
+
+2. **Atualização**  
 
 &emsp;&emsp;A página deve utilizar um grid intuitivo, onde o usuário poderá ver com clareza as opções de acesso e o conteúdo presente na página, com a logo estabelecida no canto superior esquerdo como inferior esquerdo, logo ao lado a mensagem do site "Uma viagem pelo Brasil", assim como a barra de menu e outros pontos apresentados na figura 3.1.1.
 
