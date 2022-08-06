@@ -52,7 +52,7 @@
 
 &emsp;&emsp;Notou-se, assim, o uso de muitas distrações e informações no site, o que para o usuário, pode dificultar realizar a tarefa desejada. Dessa forma, propomos diversas mudanças para se adequar as metas de usabilidade e melhorar a experiência do usuário.
 
-1. **Atualização**  
+2. **Atualização**  
    
 &emsp;&emsp;Na tela inicial, o usuário encontra a imagem da logo no canto superior direito, no cabeçalho vai encontrar uma mensagem "Uma Viagem pelo Brasil" e embaixo dessa mensagem um menu com cinco caixas de seleção, que ao passar por cima delas, aciona uma lista de palavras selecionáveis para cada menu. No corpo da página vai estar uma mapa da localização do Brasil no globo e no continente sul-americano, um texto contando uma breve história do Brasil, como foi sua formação, suas capitais durante sua formação etc. E chegando próximo ao rodapé, uma lista de ícones acessáveis, que são as mesmas páginas contidas no menu "Brasil" e também a mensagem de CopyRight.  
 
