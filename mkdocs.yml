@@ -21,7 +21,10 @@ nav:
         - 'Principios Gerais do Projeto': './analiseRequisitos/principiosGerais.md'
         - 'Metas de Usabilidade': './analiseRequisitos/metas_Usabilidade.md'
         - 'Guia de Estilo': './analiseRequisitos/guiaDeEstilo.md'
-
+    - Design, Avaliação e Desenvolvimento:
+        - Nível 1:
+          - Storyboards:
+            - 'Planejamento da Avaliação': './storyboard/planejamentoAvaliacao.md'
     - Apresentações:
         - 'Ponto de controle 1': './apresentacoes/apresentacao1.md'
         - 'Ponto de controle 2': './apresentacoes/apresentacao2.md'
