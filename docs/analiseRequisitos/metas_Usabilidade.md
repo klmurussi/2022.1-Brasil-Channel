@@ -67,5 +67,6 @@ Todo o sistema deve ser intuítivo ajudando o usuário na memorização.
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |  Criação de documento |    Samuel Victor Macêdo    | Lucas | 1/08/2022 |
-|   1.1  |  Documento Revisado |    Lucas   | Samuel | 1/08/2022 
-|   2.0  |  Adição de conteúdo  |    Samuel   | - | 6/08/2022
+|   1.1  |  Documento Revisado |    Lucas   | Samuel | 1/08/2022 | 
+|   2.0  |  Adição de conteúdo  |    Samuel   | Lucas | 6/08/2022|
+|   2.1  |  Arquivo Revisado  |    Lucas   | - | 7/08/2022|
