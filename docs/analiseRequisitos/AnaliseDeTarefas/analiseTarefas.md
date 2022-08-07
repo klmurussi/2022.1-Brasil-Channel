@@ -131,7 +131,7 @@ A seguir na figura(1) será demonstrado a representação por meio de um diagram
 
 ### 2.2.1 Representação por meio do diagrama da tarefa de buscar informações desejadas:
 
-![Diagrama Analise Tarefas](../assets/analiseTarefas/diagramaTarefas.jpg)
+![Diagrama Analise Tarefas](../../assets/analiseTarefas/diagramaTarefas.jpg "Diagrama Analise Tarefas")
 
 <figcaption align='center'>
     <b>Figura 4: Diagrama.</b>
@@ -144,6 +144,7 @@ A seguir na figura(1) será demonstrado a representação por meio de um diagram
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  | Criação do documento |    Pedro Henrique Caldeira   |  Samuel | 19/07/2022 |
 |   1.1  | Analíse de tarefas por meio do diagrama |   Samuel Victor Macedo   | Lucas | 20/07/2022 |
+|   1.2  | Correção de imagem |   Levi Queiroz  | - | 06/08/2022 |
 
 ## Referências
 
