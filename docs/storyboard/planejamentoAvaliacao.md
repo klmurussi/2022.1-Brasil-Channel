@@ -7,7 +7,7 @@
 &emsp;&emsp; Para esta avaliação, temos como objetivo identificar se os fluxos de tarefas representados pelos storyboards condizem com fluxos de usuários do sistema. E também, buscamos sugestões de onde e como podemos melhorar neste aspecto.
 
 ## 3. Metodologia
-&emsp;&emsp; Para fazer a avaliação, optamos por usar o Framework DECIDE, proposto por Sharp, Rogers e Preece (2007), para que possamos planejar, executar e analisar esta avaliação.
+&emsp;&emsp; Para fazer a avaliação, optamos por usar o Framework DECIDE, proposto por Sharp, Rogers e Preece (2007) e citado por Simone Barbosa (2010), para que possamos planejar, executar e analisar esta avaliação.
 
 &emsp;&emsp; Este Framework busca descrever atividades interligadas e executadas iterativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis. Sendo assim, as atividades do Framework são:
 
