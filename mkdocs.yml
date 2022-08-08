@@ -24,6 +24,7 @@ nav:
     - Design, Avaliação e Desenvolvimento:
         - Nível 1:
           - Storyboards:
+            - 'Storyboards': './storyboard/storyboard.md'
             - 'Planejamento da Avaliação': './storyboard/planejamentoAvaliacao.md'
           - Análise de tarefas:
             - 'Planejamento da Avaliação': './analiseDeTarefas/planejamentoAvaliacao.md'

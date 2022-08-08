@@ -64,11 +64,11 @@
 |:----------------------------:|:----------:|  :-------: | :---------: |
 | Adicionar como serao utilizados principios projeto    |        05/ago    | Lucas | Levi |
 | Como devem ser alcancadas e razao metas de usabilidade    |        05/ago    | Samuel | Lucas |
-| Revisao Guia de Estilo    |        05/ago    | Levi, Pedro, Lara | Lucas |
-| Planejamento dos StoryBoards    |        07/ago    | Lucas | - |
-| Planejamento da Análise de Tarefas    |        07/ago    | - | - |
+| Revisao Guia de Estilo    |        05/ago    | Levi | Lara |
+| Planejamento dos StoryBoards    |        07/ago    | Lucas | Lara |
+| Planejamento da Análise de Tarefas    |        07/ago    | Lara | - |
 | StoryBoards    |        07/ago    | Levi | - |
-| Detalhamento Storyboards    |        07/ago    | - | - |
+| Detalhamento Storyboards    |        07/ago    | Samuel | - |
 | Analise de Tarefas    |        07/ago    | - | - |
 |      Gravar apresentação     |  07/ago |- | - |
 |      Editar apresentação     |  07/ago |- | - |

@@ -10,7 +10,7 @@
 
 ## 3 - Metodologia
   
-&emsp;&emsp;Os storyboards foram produzidos com base nos documentos de anális de tarefas e personas. Montando assim os possíveis cenários, ambientes e os atores da história, em volta da realização das tarefas propóstas.
+&emsp;&emsp;Os storyboards foram produzidos com base nos documentos de análise de tarefas e personas. Montando assim os possíveis cenários, ambientes e os atores da história, em volta da realização das tarefas propóstas.
 
 Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboardthat.com/pt) foi utilizada.
 
@@ -103,30 +103,15 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 2. Visualizar o menu lateral
 3. Acessar o hiperlink "Litoral"
   
-&emsp;&emsp;Assim, a figura 4.3.1 apresenta o storyboard da tarefa no site atual:
+&emsp;&emsp;Assim, a figura 4.3.1 apresenta o storyboard da tarefa no site atual, onde um aluno do ensino fundamental precisa fazer um trabalho de geografia e deseja encontrar algum site onde tenha as informações para ele responder as perguntas necessárias:
   
 <center>
 
-![]()
+![Storyboard 3](../assets/storyboards/storyboard3.png)
 
 </center>
 
 <small><center>Figura 4.3.1 - Figura ilustrando a realização da tarefa no site atual. Fonte: Elaboração da equipe</center></small>
-  
-- **Atualizado**
-  
-1. Visualizar o menu "Brasil" do cabeçalho
-2. Acessar o hiperlink "Litoral"
-  
-&emsp;&emsp;Assim, a figura 4.3.2 apresenta o storyboard da tarefa no site atualizado:
-  
-<center>
-
-![]()
-
-</center>
-
-<small><center>Figura 4.3.2 - Figura ilustrando a realização da tarefa no site atualizado. Fonte: Elaboração da equipe</center></small>
   
 ## 5 - Conclusão
   
@@ -136,8 +121,9 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  | Criação do documento |    Levi Queiroz   |  - | 08/08/2022 |
-|   1.1  | Adição dos tópicos de 1 a 5 |    Levi Queiroz   |  - | 08/08/2022 |
+|   1.0  | Criação do documento |    Levi Queiroz   |  Lucas | 08/08/2022 |
+|   1.1  | Adição dos tópicos de 1 a 5 |    Levi Queiroz   |  Lucas | 08/08/2022 |
+|   1.2  | Adição dos storyboard 3 |    Lucas   |  Samuel | 08/08/2022 |
 
 
 ## Referências
