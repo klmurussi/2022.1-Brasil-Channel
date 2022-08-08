@@ -7,7 +7,7 @@
 &emsp;&emsp;A avaliação tem como objetivo principal verificar se o sistema apoia adequadamente os usuários a realizarem as tarefas identicadas na ánalise em um contexto de uso real (Barbosa e Diniz, 2010). Com os resultados poderemos validar quais funcionalidades devem ser incluídas no produto, quais devem ser retiradas, aprimoradas, quais fatores são prioridades, etc.
 
 ## 3. Metodologia
-&emsp;&emsp;Para fazer a avaliação, optamos por usar o Framework **DECIDE**, proposto por Sharp, Rogers e Preece (2007), para que possamos planejar, executar e analisar esta avaliação.
+&emsp;&emsp;Para fazer a avaliação, optamos por usar o Framework **DECIDE**, proposto por Sharp, Rogers e Preece (2007) e citado por Simone Barbosa (2010), para que possamos planejar, executar e analisar esta avaliação.
 
 &emsp;&emsp;Este Framework busca descrever atividades interligadas e executadas iterativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis. Sendo assim, as atividades do Framework são:
 
@@ -43,6 +43,17 @@
 |:--:|:--:|:---|
 | 1 | Qual seu nome? | - |
 | 2 | Qual sua idade?  | - |
+| 3 | Qual seu nível de formação? | ( )Ensino Fundamental Incompleto <br> ( )Ensino Fundamental Completo <br> ( )Ensino Médio Incompleto <br> ( )Ensino Médio Completo <br> ( )Ensino Superior Incompleto <br> ( )Ensino Superior Completo <br> ( )Pós Graduado <br> ( )Mestrado <br>( )Doutorado |
+| 4 | Você já havia acessado o site do Brasil Channel? | ( )Sim <br> ( )Não <br> ⚠️ Caso a resposta seja não, pule para a pergunta 6 |
+| 5 | Como você faz para procurar o que está interessado? | ( )Olha o menu lateral e decide qual tópico se aproxima mais do que procura <br> ( )Outra maneira? Como? |
+| 6 | Qual sua maior dificuldade ao utilizar o site do Brasil Channel? | ⚠️ Caso a resposta seja haja dificuldades, pule para a pergunta 8 |
+| 7 | O que você acredita que poderia ser feito para resolver essas dificuldades? | - |
+| 8 | Qual funcionalidade você gostaria que existisse no site? | - |
+| 9 | Para você, como um site sobre assuntos gerais do Brasil deveria ser? | - |
+
+## 6. Resultados
+
+&emsp;&emsp; As entrevistas realizadas serão documentadas e os dados coletados servirão para uma nova análise de tarefas, de acordo com a visão do usuário final.
 
 ---
 
