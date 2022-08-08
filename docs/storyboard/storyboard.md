@@ -22,7 +22,6 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
   
 &emsp;&emsp;A tarefa em questão foi realizada na análise de tarefa utilizando a ferramenta KLM-GOMS, assim o processo da realização da tarefa é:  
 
-- **Atual**
 
 1. Acessar o hiperlink "Brasil - redescobrindo o gigante"
 2. Visualizar o menu lateral
@@ -32,26 +31,11 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 
 <center>
 
-![]()
+![Datas Comemorativas](../assets/storyboards/storyboard_Tarefa_1.png "Datas Comemorativas")
 
 </center>
 
 <small><center>Figura 4.1.1 - Figura ilustrando a realização da tarefa no site atual. Fonte: Elaboração da equipe</center></small>
-  
-- **Atualizado**
-  
-1. Visualizar o menu "Brasil" do cabeçalho
-2. Acessar o hiperlink "Datas Comemorativas"
-  
-&emsp;&emsp;Assim, a figura 4.1.2 apresenta o storyboard da tarefa no site atualizado:
-  
-<center>
-
-![]()
-
-</center>
-
-<small><center>Figura 4.1.2 - Figura ilustrando a realização da tarefa no site atualizado. Fonte: Elaboração da equipe</center></small>
   
 ### 4.2 - Tarefa: Encontrar o site do Ministério da Educação
   
@@ -105,6 +89,7 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 |   1.0  | Criação do documento |    Levi Queiroz   |  Lucas | 08/08/2022 |
 |   1.1  | Adição dos tópicos de 1 a 5 |    Levi Queiroz   |  Lucas | 08/08/2022 |
 |   1.2  | Adição dos storyboard 3 |    Lucas   |  Samuel | 08/08/2022 |
+|   1.2  | Adição dos storyboard 1 e 2 |    Levi Queiroz   |  - | 08/08/2022 |
 
 
 ## Referências
