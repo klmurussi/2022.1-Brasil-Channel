@@ -57,7 +57,6 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
   
 &emsp;&emsp;A tarefa em questão foi realizada na análise de tarefas utilizando a ferramenta CMN-GOMS, sendo assim o processo de realização da tarefa é:
   
-- **Atual**
 
 1. Acessar o hiperlink "Brasil - redescobrindo o gigante"
 2. Visualizar o menu lateral
@@ -70,35 +69,17 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
   
 <center>
 
-![]()
+![Encontrar Ministério da Educação](../assets/storyboards/storyboard_Tarefa_2.png "Encontrar Ministério da Educação")
 
 </center>
 
 <small><center>Figura 4.2.1 - Figura ilustrando a realização da tarefa no site atual. Fonte: Elaboração da equipe</center></small>
   
-- **Atualizado**
-  
-1. Visualizar o menu "Brasil" do cabeçalho
-2. Acessar o hiperlink "Sites Governamentas"
-3. Visualizar os hiperlinks de Referência a primeira letra do site
-4. Acessar o hiperlink "Ministério da Educação"
-  
-&emsp;&emsp;Assim, a figura 4.2.1 apresenta o storyboard da tarefa no site atualizado:
-  
-<center>
-
-![]()
-
-</center>
-
-<small><center>Figura 4.2.2 - Figura ilustrando a realização da tarefa no site atualizado. Fonte: Elaboração da equipe</center></small>
-  
 ### 4.3 - Tarefa: Acessar Litoral
   
 &emsp;&emsp;A tarefa em questão foi realizada na análise de tarefas utilizando a ferramenta CTT, sendo assim o processo de realização de tarefa é:
   
-- **Atual**
-  
+
 1. Acessar o hiperlink "Brasil - redescobrindo o gigante"
 2. Visualizar o menu lateral
 3. Acessar o hiperlink "Litoral"
