@@ -42,23 +42,7 @@
    
 &emsp;&emsp;Na tela inicial, identifica-se a tela em dois retângulos um dentro do outro, sendo um verdo como fundo e o da frente em coloração um pouco mais escuro que o branco, elevado para o canto superior. Dentro desse retângulo branco, tem-se no canto superior direito a logo original do site, no centro uma figura com quadrados formando um painel e dentro desse painel o mapa do brasil em azul com uma mensagem em amarelo, ao lado do mapa tem-se os hiperlinks e logo abaixo do mapa e dos hiperlinks tem-se a mensagem de CopyRight, a figura 2.1.1 apresenta a tela inicial do web site Brasil Channel.  
 
-<center>
-
-![Ambiente de trabalho do usuário](../assets/guiaDeEstilo/telaInicialBrasil.png "Ambiente de trabalho do usuário")
-
-</center>
-
-<small><center>Figura 2.1.1 - Tela inicial do web site Brasil Channel. Fonte: https://www.brasilchannel.com.br/</center></small>
-
-&emsp;&emsp;As páginas seguintes seguem um outro formato, em que no cabeçalho é apresentado a logo original e embaixo dela uma mensagem, no canto superior direito é apresentado a data. No corpo do site é apresentado um menu lateral com uma figura da bandeira do Brasil, assim as informações junto com algumas figuras ficam ao lado direito desse menu, em algumas páginas essas figuras apresentam hiperlinks para outras páginas, no rodapé aparece apenas a mensagem de CopyRight. Na figura 2.1.2 é apresentado a página seguinte:
-
-<center>
-
-![]()
-
-</center>
-
-<small><center>Figura 2.1.2 - Tela "Brasil", acessada ao clicar no hiperlink "Brasil - Redescobrindo o Gigante". Fonte: https://www.brasilchannel.com.br/</center></small>
+&emsp;&emsp;As páginas seguintes seguem um outro formato, em que no cabeçalho é apresentado a logo original e embaixo dela uma mensagem, no canto superior direito é apresentado a data. No corpo do site é apresentado um menu lateral com uma figura da bandeira do Brasil, assim as informações junto com algumas figuras ficam ao lado direito desse menu, em algumas páginas essas figuras apresentam hiperlinks para outras páginas, no rodapé aparece apenas a mensagem de CopyRight.
 
 &emsp;&emsp;Notou-se, assim, o uso de muitas distrações e informações no site, o que para o usuário, pode dificultar realizar a tarefa desejada. Dessa forma, propomos diversas mudanças para se adequar as metas de usabilidade e melhorar a experiência do usuário.
 
@@ -89,7 +73,30 @@
 
 ### 3.2 - Janelas  
 
-&emsp;&emsp;O principal meio de navegação do site será por meio de hiperlinks, tendo também ícones selecionáveis e barra de pesquisa. Sendo asssim, as páginas seguirão um padrão de cabeçalho, menu lateral e rodapé, alterando a disposição do conteúdo, layout e figuras no corpo da página.
+1. **Atual**
+
+&emsp;&emsp;O principal meio de navegação do site é por meio de hiperlinks, apenas, em que esses hiperlinks estão vinculados a palavras e figuras. Na tela inicial temos o layout da logo, o mapa e alguns hiperlinks do lado do mapa, para as janelas seguintes, o formato é alterado e é apresentado a logo no canto supeioro direito, o menu lateral do lado direito e no corpo a disposição da informações. A figura 3.2.1 apresenta a tela inicial da página e a figura 3.2.2 apresenta a janela "Brasil - redescobrindo o gigante".
+
+<center>
+
+![Janela inicial](../assets/guiaDeEstilo/telaInicialBrasil.png "Janela inicial")
+
+</center>
+
+<small><center>Figura 3.2.1 - Figura apresentando a tela inicial do site Brasil Channel. Fonte: https://www.brasilchannel.com.br/</center></small>
+
+<center>
+
+![Janela Brasil](../assets/guiaDeEstilo/Tela_site_Brasil.png "Janela Brasil")
+
+</center>
+
+<small><center>Figura 3.2.2 - Tela "Brasil", acessada ao clicar no hiperlink "Brasil - Redescobrindo o Gigante". Fonte: https://www.brasilchannel.com.br/brasil/</center></small>
+
+
+2. **Atualização**  
+
+&emsp;&emsp;Assim como no atual, o principal meio de navegação do site será por meio de hiperlinks, e para a proposta de alteração deve ser adicionados ícones selecionáveis e barra de pesquisa. Sendo asssim, as páginas seguirão um padrão de cabeçalho, menu lateral e rodapé, alterando a disposição do conteúdo, layout e figuras no corpo da página.
 
 ### 3.3 - Tipografia
 
