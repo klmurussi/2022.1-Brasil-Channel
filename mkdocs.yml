@@ -25,6 +25,8 @@ nav:
         - Nível 1:
           - Storyboards:
             - 'Planejamento da Avaliação': './storyboard/planejamentoAvaliacao.md'
+          - Análise de tarefas:
+            - 'Planejamento da Avaliação': './analiseDeTarefas/planejamentoAvaliacao.md'
     - Apresentações:
         - 'Ponto de controle 1': './apresentacoes/apresentacao1.md'
         - 'Ponto de controle 2': './apresentacoes/apresentacao2.md'

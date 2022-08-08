@@ -3,7 +3,10 @@
 ## 1. Introdução
 &emsp;&emsp; De acordo com Barbosa (2010), a avaliação é uma atividade fundamental para qualquer processo de desenvolvimento que busque um sistema interativo com alta qualidade de uso. Dessa forma, conhecer os critérios de qualidade e seguir com o desenvolvimento nem sempre é o suficiente para o desenvolvimento de um produto de qualidade, também é necessário avaliar se o produto atende os critérios de qualidade necessários, cecrtificando-se que não ocorreram problemas na coleta e na interpretação das informações.
 
-## 2. Metodologia
+## 2. Objetivo da Avaliação
+&emsp;&emsp; Para esta avaliação, temos como objetivo identificar se os fluxos de tarefas representados pelos storyboards condizem com fluxos de usuários do sistema. E também, buscamos sugestões de onde e como podemos melhorar neste aspecto.
+
+## 3. Metodologia
 &emsp;&emsp; Para fazer a avaliação, optamos por usar o Framework DECIDE, proposto por Sharp, Rogers e Preece (2007), para que possamos planejar, executar e analisar esta avaliação.
 
 &emsp;&emsp; Este Framework busca descrever atividades interligadas e executadas iterativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis. Sendo assim, as atividades do Framework são:
@@ -14,9 +17,6 @@
 - **I**: Identificar e administrar questões práticas da avaliação.
 - **D**: Decidir como lidar com questões éticas.
 - **E**: Avaliar (Evaluate), interpretar e apresentar os dados.
-
-## 3. Objetivo da Avaliação
-&emsp;&emsp; Para esta avaliação, temos como objetivo identificar se os fluxos de tarefas representados pelos storyboards condizem com fluxos de usuários do sistema. E também, buscamos sugestões de onde e como podemos melhorar neste aspecto.
 
 ## 4. Método para a Avaliação
 &emsp;&emsp; Para a realização da Avaliação dos Storyboards, optamos por utilizar um método de investigação, para que possamos ter acessso, interpretar e analisar opiniões e expectativas do usuário. Dessa forma, dentre os métodos de investigação, escolhemos a realização de entrevistas com usuários ou potenciais usuários do sistema.
