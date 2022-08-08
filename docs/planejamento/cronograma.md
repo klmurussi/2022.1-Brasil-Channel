@@ -67,9 +67,8 @@
 | Revisao Guia de Estilo    |        05/ago    | Levi | Lara |
 | Planejamento dos StoryBoards    |        07/ago    | Lucas | Lara |
 | Planejamento da Análise de Tarefas    |        07/ago    | Lara | - |
-| StoryBoards    |        07/ago    | Levi | - |
-| Detalhamento Storyboards    |        07/ago    | Samuel | - |
-| Analise de Tarefas    |        07/ago    | - | - |
+| StoryBoards    |        07/ago    | Levi | Lucas |
+| Detalhamento Storyboards    |        07/ago    | Samuel, Pedro | Lucas |
 |      Gravar apresentação     |  07/ago |- | - |
 |      Editar apresentação     |  07/ago |- | - |
 
