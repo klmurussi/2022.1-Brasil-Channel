@@ -36,7 +36,57 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 </center>
 
 <small><center>Figura 4.1.1 - Figura ilustrando a realização da tarefa no site atual. Fonte: Elaboração da equipe</center></small>
-  
+
+<table>
+    <thead>
+        <tr>
+            <th style="text-align:center; border: 0.5px solid rgba(0,0,0,0.2);">Atividade</th>
+            <th style="text-align:center; border: 0.5px solid rgba(0,0,0,0.2);">Tarefa</th>
+            <th style="text-align:center; border: 0.5px solid rgba(0,0,0,0.2);">Definição</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Preparo</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das pessoas envolvidas </td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Roberta<br> Valenttina</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição do ambiente da história</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"> Pesquisar sobre o próximo feriado </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição da tarefa que será abordada</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Indicar uma das informações encontradas no site do Brasil Channel</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Sequência</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definiçaõ de quais passos estão envolvidos para a realização da tarefa</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Acessar o hiperlink "Brasil - redescobrindo o gigante" <br> Visualizar o menu lateral <br>  Acessar o hiperlink "Datas Comemorativas" </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição do que leva a pessoa a usar a aplicação</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Visualisar as datas comemorativas do mês </td>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição de qual (e como) a tarefa será ilustrada</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Será ilustrado por Roberta e Valenttina que estão em dúvida em saber quando será o próximo feriado, onde Valenttina sugere usarem o Brasil Channel para olharem quando vão poder fazer sua viagem </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Satisfação</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição da motivação principal da pessoa que usa a aplicação</td> 
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Conseguir se informar dos feriados do mês</td>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das realizações que a aplicação permite</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Permite qualquer quer pessoa se informe sobre as datas comemorativas do mês </td>
+        </tr>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das necessidades que a aplicação se propõe a sanar </td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Necessidade de informações sobre os feriados mais próximos </td>
+        </tr>
+    </tbody>
+</table>
+  </table>
+<small><center> Tabela 1 - Tabela trazendo o detalhamento do storyboard 1  Fonte: Elaboração da equipe</center></small>
 ### 4.2 - Tarefa: Encontrar o site do Ministério da Educação
   
 &emsp;&emsp;A tarefa em questão foi realizada na análise de tarefas utilizando a ferramenta CMN-GOMS, sendo assim o processo de realização da tarefa é:
@@ -58,7 +108,57 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 </center>
 
 <small><center>Figura 4.2.1 - Figura ilustrando a realização da tarefa no site atual. Fonte: Elaboração da equipe</center></small>
-  
+
+<table>
+    <thead>
+        <tr>
+            <th style="text-align:center; border: 0.5px solid rgba(0,0,0,0.2);">Atividade</th>
+            <th style="text-align:center; border: 0.5px solid rgba(0,0,0,0.2);">Tarefa</th>
+            <th style="text-align:center; border: 0.5px solid rgba(0,0,0,0.2);">Definição</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Preparo</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das pessoas envolvidas </td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Carlos</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição do ambiente da história</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Escritório de Carlos</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição da tarefa que será abordada</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Indicar o onde encontrar o link<br> para o site do Ministério da Educação </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Sequência</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definiçaõ de quais passos estão envolvidos para a realização da tarefa</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Acessar o hiperlink "Brasil - redescobrindo o gigante" <br> Visualizar o menu lateral <br> Acessar o hiperlink "Sites Governamentais" <br> Visualizar os hiperlinks até o hiperlink da próxima página <br> Acessar o hiperlink da próxima página <br> Acessar o hiperlink do "Ministério da Educação" </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição do que leva a pessoa a usar a aplicação</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Duvida sobre os sites estaduais do Brasil </td>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição de qual (e como) a tarefa será ilustrada</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">A indicação de como acessar a área dos sites estaduais será ilustrada por um senhor chamado Carlos, que esta em duvida de como chegar ao site do Ministério da Educação, mostrando a dificuldade e confusão de navegar pelo site </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Satisfação</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição da motivação principal da pessoa que usa a aplicação</td> 
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Conseguir entender como navegar pelo site do Brasil Channel</td>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das realizações que a aplicação permite</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Demonstrar uma das informações que podem ser acessadas no site</td>
+        </tr>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das necessidades que a aplicação se propõe a sanar </td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Necessidade de informações sobre sites estatais oficiais do Brasil</td>
+        </tr>
+    </tbody>
+</table>
+  </table>
+<small><center> Tabela 2 - Tabela trazendo o detalhamento do storyboard 2  Fonte: Elaboração da equipe</center></small>
 ### 4.3 - Tarefa: Acessar Litoral
   
 &emsp;&emsp;A tarefa em questão foi realizada na análise de tarefas utilizando a ferramenta CTT, sendo assim o processo de realização de tarefa é:
@@ -68,7 +168,7 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 2. Visualizar o menu lateral
 3. Acessar o hiperlink "Litoral"
   
-&emsp;&emsp;Assim, a figura 4.3.1 apresenta o storyboard da tarefa no site atual, onde um aluno do ensino fundamental precisa fazer um trabalho de geografia e deseja encontrar algum site onde tenha as informações para ele responder as perguntas necessárias:
+&emsp;&emsp;Assim, a figura 4.3.1 apresenta o storyboard da tarefa no site atual,  onde um aluno do ensino fundamental precisa fazer um trabalho de geografia e deseja encontrar algum site onde tenha as informações para ele responder as perguntas necessárias:
   
 <center>
 
@@ -77,7 +177,54 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 </center>
 
 <small><center>Figura 4.3.1 - Figura ilustrando a realização da tarefa no site atual. Fonte: Elaboração da equipe</center></small>
-  
+  <table>
+    <thead>
+        <tr>
+            <th style="text-align:center; border: 0.5px solid rgba(0,0,0,0.2);">Atividade</th>
+            <th style="text-align:center; border: 0.5px solid rgba(0,0,0,0.2);">Tarefa</th>
+            <th style="text-align:center; border: 0.5px solid rgba(0,0,0,0.2);">Definição</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Preparo</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das pessoas envolvidas </td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Estudante Pedro <br> Estudante Marcos <br> Professora
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição do ambiente da história</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"> Trabalho passado na sala de aula para ser realizado em casa </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição da tarefa que será abordada</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Fatos geográficos do Brasil</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Sequência</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definiçaõ de quais passos estão envolvidos para a realização da tarefa</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Acessar o hiperlink "Brasil - redescobrindo o gigante" <br> Visualizar o menu lateral  <br> Acessar o hiperlink "Litoral" </td>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição do que leva a pessoa a usar a aplicação</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Precisar buscar informações sobre o Brasil</td>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição de qual (e como) a tarefa será ilustrada</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">A indicação de como navegar pelo site Brasil Channel será ilustrada com dois colegas que precisam fazer um trabalho de geografia passado pela professora, ao se encontrarem na frente do seu colégio, sendo que um deles já concluiu seu trabalho informa pro outro onde e como conseguir as informações para também conseguir termina-lo</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Satisfação</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição da motivação principal da pessoa que usa a aplicação</td> 
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Conseguir obter informações demográficas do Brasil</td>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das realizações que a aplicação permite</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Permite que qualquer pessoa se informe mais sobre as informações demográficas do Brasil</td>
+        </tr>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das necessidades que a aplicação se propõe a sanar </td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Deixar as pessoas detalhadamente informadas sobre o Brasil</td>
+        </tr>
+    </tbody>
+</table>
+<small><center> Tabela 3 - Tabela trazendo o detalhamento do storyboard 3  Fonte: Elaboração da equipe</center></small>
 ## 5 - Conclusão
   
 &emsp;&emsp;Assim como falado no objetivo, espera-se que os integrantes que realizarão o design do produto possam entender se o produto atende ou não às necessidades dos usuários, entender situações, cenários em que as tarefas são realizadas e, consequentemente, realizar uma melhor avaliação das situaçôes e uma intervenção que ajuda e melhorar as interações no produto.
@@ -89,7 +236,9 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 |   1.0  | Criação do documento |    Levi Queiroz   |  Lucas | 08/08/2022 |
 |   1.1  | Adição dos tópicos de 1 a 5 |    Levi Queiroz   |  Lucas | 08/08/2022 |
 |   1.2  | Adição dos storyboard 3 |    Lucas   |  Samuel | 08/08/2022 |
-|   1.2  | Adição dos storyboard 1 e 2 |    Levi Queiroz   |  - | 08/08/2022 |
+|   1.2  | Adição dos storyboard 1 e 2 |    Levi Queiroz   |  Samuel | 08/08/2022 |
+|   1.3  | Adição das tabelas de detalhamento dos storyboard 1 e 2 e 3 |    Samuel e Pedro   |  Lucas | 08/08/2022 |
+
 
 
 ## Referências
