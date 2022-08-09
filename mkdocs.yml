@@ -32,6 +32,7 @@ nav:
         - 'Ponto de controle 1': './apresentacoes/apresentacao1.md'
         - 'Ponto de controle 2': './apresentacoes/apresentacao2.md'
         - 'Ponto de controle 3': './apresentacoes/apresentacao3.md'
+        - 'Ponto de controle 4': './apresentacoes/apresentacao4.md'
 
 theme:
   name: material

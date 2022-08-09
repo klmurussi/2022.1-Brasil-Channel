@@ -65,7 +65,7 @@
 
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  |  Criação do documento  |    Lucas    | - | 07/08/2022 |
+|   1.0  |  Criação do documento  |    Lucas    | Lara | 07/08/2022 |
 
 ## Referências
 

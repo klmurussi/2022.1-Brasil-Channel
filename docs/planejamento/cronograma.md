@@ -70,7 +70,7 @@
 | StoryBoards    |        07/ago    | Levi | Lucas |
 | Detalhamento Storyboards    |        07/ago    | Samuel, Pedro | Lucas |
 |      Gravar apresentação     |  07/ago | Todos | - |
-|      Editar e Postar apresentação     |  07/ago | Pedro | - |
+|      Editar e Postar apresentação     |  07/ago | Lucas | - |
 
 <figcaption align='center'>
     <b>Tabela 4: Planejamento para o quarto ponto de controle.</b>
