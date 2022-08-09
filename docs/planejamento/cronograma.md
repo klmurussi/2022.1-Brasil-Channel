@@ -62,13 +62,13 @@
 
 |           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
-| Adicionar como serao utilizados principios projeto    |        05/ago    | Lucas | Levi |
-| Como devem ser alcancadas e razao metas de usabilidade    |        05/ago    | Samuel | Lucas |
-| Revisao Guia de Estilo    |        05/ago    | Levi | Lara |
+| Adicionar como serão utilizados princípios projeto    |        05/ago    | Lucas | Levi |
+| Como devem ser alcançadas e razão das metas de usabilidade    |        05/ago    | Samuel | Lucas |
+| Revisão Guia de Estilo    |        05/ago    | Levi | Lara |
 | Planejamento dos StoryBoards    |        07/ago    | Lucas | Lara |
 | Planejamento da Análise de Tarefas    |        07/ago    | Lara | Lucas |
 | StoryBoards    |        07/ago    | Levi | Lucas |
-| Detalhamento Storyboards    |        07/ago    | Samuel, Pedro | Lucas |
+| Detalhamento Storyboards    |        07/ago    | Samuel, Pedro | Levi |
 |      Gravar apresentação     |  07/ago | Todos | - |
 |      Editar e Postar apresentação     |  07/ago | Lucas | - |
 
