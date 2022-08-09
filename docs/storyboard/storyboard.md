@@ -170,7 +170,7 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 2. Visualizar o menu lateral
 3. Acessar o hiperlink "Litoral"
   
-&emsp;&emsp;Assim, a figura 4.3.1 apresenta o storyboard da tarefa no site atual,  onde um aluno do ensino fundamental precisa fazer um trabalho de geografia e deseja encontrar algum site onde tenha as informações para ele responder as perguntas necessárias:
+&emsp;&emsp;Assim, a figura 4.3.1 apresenta o storyboard da tarefa no site atual,  onde um aluno do ensino fundamental precisa fazer um trabalho de geografia e deseja encontrar algum site onde tenha as informações para ele responder as perguntas necessárias, detalhado também na tabela 4.3.1:
   
 <center>
 
