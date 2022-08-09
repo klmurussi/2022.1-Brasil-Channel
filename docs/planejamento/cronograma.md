@@ -66,11 +66,11 @@
 | Como devem ser alcancadas e razao metas de usabilidade    |        05/ago    | Samuel | Lucas |
 | Revisao Guia de Estilo    |        05/ago    | Levi | Lara |
 | Planejamento dos StoryBoards    |        07/ago    | Lucas | Lara |
-| Planejamento da Análise de Tarefas    |        07/ago    | Lara | - |
+| Planejamento da Análise de Tarefas    |        07/ago    | Lara | Lucas |
 | StoryBoards    |        07/ago    | Levi | Lucas |
 | Detalhamento Storyboards    |        07/ago    | Samuel, Pedro | Lucas |
-|      Gravar apresentação     |  07/ago |- | - |
-|      Editar apresentação     |  07/ago |- | - |
+|      Gravar apresentação     |  07/ago | Todos | - |
+|      Editar e Postar apresentação     |  07/ago | Pedro | - |
 
 <figcaption align='center'>
     <b>Tabela 4: Planejamento para o quarto ponto de controle.</b>
