@@ -2,7 +2,7 @@
 
 ## 1 - Introdução
   
-&emsp;&emsp;Storyboard é uma prototipação de baixa-fidelidade, geralemnte utilizado em conjunto com cenários. Um storyboard abarcaema séria de desenhos mostrando como um usuário pode avançar em uma tarefa utilizando o produto que está sendo desenvolvido. Pode-se tratar de umasérie de telas esboçadas, no caso de um sistema e software baseado em Interfaces Gráficas com o Usuário (GUI), ou de uma série de cenas desenhadas mostrando como um usuário pode desempenhar determinada tarefa usando o produto.
+&emsp;&emsp;Storyboard é uma prototipação de baixa-fidelidade, geralmente utilizado em conjunto com cenários. Um storyboard abarca uma séria de desenhos mostrando como um usuário pode avançar em uma tarefa utilizando o produto que está sendo desenvolvido. Pode-se tratar de uma série de telas esboçadas, no caso de um sistema e software baseado em Interfaces Gráficas com o Usuário (GUI), ou de uma série de cenas desenhadas mostrando como um usuário pode desempenhar determinada tarefa usando o produto.
 
 ## 2 - Objetivo
   
@@ -27,7 +27,7 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 2. Visualizar o menu lateral
 3. Acessar o hiperlink "Datas Comemorativas"
   
-&emsp;&emsp;Assim, a figura 4.1.1 apresenta o storyboard da tarefa no site atual:
+&emsp;&emsp;Assim, a figura 4.1.1 apresenta o storyboard da tarefa no site atual e a tabela 4.1.1 apresenta detalhadamente o storyboard:
 
 <center>
 
@@ -86,7 +86,8 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
     </tbody>
 </table>
   </table>
-<small><center> Tabela 1 - Tabela trazendo o detalhamento do storyboard 1  Fonte: Elaboração da equipe</center></small>
+<small><center> Tabela 4.1.1 - Tabela trazendo o detalhamento do storyboard da tarefa de acessar Datas Comemorativas  Fonte: Elaboração da equipe</center></small>
+
 ### 4.2 - Tarefa: Encontrar o site do Ministério da Educação
   
 &emsp;&emsp;A tarefa em questão foi realizada na análise de tarefas utilizando a ferramenta CMN-GOMS, sendo assim o processo de realização da tarefa é:
@@ -99,7 +100,7 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 5. Acessar o hiperlink da próxima página
 6. Acessar o hiperlink do "Ministério da Educação"
   
-&emsp;&emsp;Assim, a figura 4.2.1 apresenta o storyboard da tarefa no site atual:
+&emsp;&emsp;Assim, a figura 4.2.1 apresenta o storyboard da tarefa no site atual a tabela 4.2.1 apresenta detalhadamente o storyboard:
   
 <center>
 
@@ -158,7 +159,8 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
     </tbody>
 </table>
   </table>
-<small><center> Tabela 2 - Tabela trazendo o detalhamento do storyboard 2  Fonte: Elaboração da equipe</center></small>
+<small><center> Tabela 4.2.1 - Tabela trazendo o detalhamento do storyboard da tarefa de encontrar o link do Ministério da Educação  Fonte: Elaboração da equipe</center></small>
+
 ### 4.3 - Tarefa: Acessar Litoral
   
 &emsp;&emsp;A tarefa em questão foi realizada na análise de tarefas utilizando a ferramenta CTT, sendo assim o processo de realização de tarefa é:
@@ -224,7 +226,8 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
         </tr>
     </tbody>
 </table>
-<small><center> Tabela 3 - Tabela trazendo o detalhamento do storyboard 3  Fonte: Elaboração da equipe</center></small>
+<small><center> Tabela 4.3.1 - Tabela trazendo o detalhamento do storyboard da tarefa acessar Litoral  Fonte: Elaboração da equipe</center></small>
+
 ## 5 - Conclusão
   
 &emsp;&emsp;Assim como falado no objetivo, espera-se que os integrantes que realizarão o design do produto possam entender se o produto atende ou não às necessidades dos usuários, entender situações, cenários em que as tarefas são realizadas e, consequentemente, realizar uma melhor avaliação das situaçôes e uma intervenção que ajuda e melhorar as interações no produto.
@@ -236,8 +239,9 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 |   1.0  | Criação do documento |    Levi Queiroz   |  Lucas | 08/08/2022 |
 |   1.1  | Adição dos tópicos de 1 a 5 |    Levi Queiroz   |  Lucas | 08/08/2022 |
 |   1.2  | Adição dos storyboard 3 |    Lucas   |  Samuel | 08/08/2022 |
-|   1.2  | Adição dos storyboard 1 e 2 |    Levi Queiroz   |  Samuel | 08/08/2022 |
-|   1.3  | Adição das tabelas de detalhamento dos storyboard 1 e 2 e 3 |    Samuel e Pedro   |  Lucas | 08/08/2022 |
+|   1.3  | Adição dos storyboard 1 e 2 |    Levi Queiroz   |  Samuel | 08/08/2022 |
+|   1.4  | Adição das tabelas de detalhamento dos storyboard 1 e 2 e 3 |    Samuel e Pedro   |  Lucas | 08/08/2022 |
+|   1.5  | Consertando erros ortográficos |    Levi Queiroz   |  Lucas | 09/08/2022 |
 
 
 
