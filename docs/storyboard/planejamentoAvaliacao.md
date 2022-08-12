@@ -21,7 +21,7 @@
 ## 4. Método para a Avaliação
 &emsp;&emsp; Para a realização da Avaliação dos Storyboards, optamos por utilizar um método de investigação, para que possamos ter acessso, interpretar e analisar opiniões e expectativas do usuário. Dessa forma, dentre os métodos de investigação, escolhemos a realização de entrevistas com usuários ou potenciais usuários do sistema.
 
-&emsp;&emsp; No quesito da identificação e administração das questões práticas da avaliação, o grupo irá focar em encontrar usuários ou potênciais usuários do sistema baseando-se no [Perfil de Usuário](../analiseRequisitos/perfilUsuario.md) definido durante a etapa de Análise de Requisitos do projeto. E para isso, iremos divulgar a entrevista em grupos de aplicativos de mensagens que julguemos serem condizentes e depois iremos filtrar os interessados com base no Perfil de Usuário. Além disso, faremos convites diretos à pessoas que saibamos que se encaixam nas características que buscamos. Porém, no caso de grandes dificuldades em econtrar estes usuários, iremos conduzir estas entrevistas com as [Personas](../analiseRequisitos/personas.md), também definidas na Análise de Requisitos, através da técnica de Role Playing.
+&emsp;&emsp; No quesito da identificação e administração das questões práticas da avaliação, o grupo irá focar em encontrar três usuários ou potênciais usuários do sistema baseando-se no [Perfil de Usuário](../analiseRequisitos/perfilUsuario.md) definido durante a etapa de Análise de Requisitos do projeto. E para isso, iremos divulgar a entrevista em grupos de aplicativos de mensagens que julguemos serem condizentes e depois iremos filtrar os interessados com base no Perfil de Usuário. Além disso, faremos convites diretos à pessoas que saibamos que se encaixam nas características que buscamos. Porém, no caso de grandes dificuldades em econtrar estes usuários, iremos conduzir estas entrevistas com as [Personas](../analiseRequisitos/personas.md), também definidas na Análise de Requisitos, através da técnica de Role Playing.
 
 ## 5. Perguntas a serem respondidas com a Avaliação
 &emsp;&emsp; Com base no objetivo da Avaliação dos StoryBoards, foram definidas perguntam a serem respondidas durante a avaliação, e estas são:
@@ -49,6 +49,7 @@
     <b>Tabela 1: Roteiro de Perguntas.</b>
     <br><small>Fonte: Elaboração própria.</small>
 </figcaption>
+
 ## 6. Questões Éticas
 &emsp;&emsp; Para que possamos garantir que os participantes das entrevistas estejam cientes de como as informações fornecidas por eles serão utilizadas e com o objetivo de contemplar os [Aspectos Éticos](../analiseRequisitos/aspectosEticos.md) definidos para o nosso trabalho, criamos um Termo de Consentimento que será enviado ao participante e, no início da entrevista, iremos solicitar que o participante leia-o, declarando que concorda com as informações apresentadas por ele. O termo de consentimento pode ser encontrado na imagem a baixo ou então a partir deste [link](../assets/storyboards/TCLE_StoryBoards.pdf).
 
@@ -61,11 +62,42 @@
     <br><small>Fonte: Elaboração própria.</small>
 </figcaption>
 
+## 7. Resultados
+
+&emsp;&emsp; Conforme descrito por Simone Barbosa (2010), os resultados de uma avaliação IHC indicam tendências de problemas, e não uma certeza de que eles vão ocorrer, e também, o fato de não se econtrar problemas durante a avaliação, não significa necessariamente que o sistema tenha uma alta qualidade.
+
+&emsp;&emsp; Dessa forma, iremos fazer o relato dos resultados, incluindo os elementos também citados por Barbosa (2010), que são:
+
+- os objetivos e escopo da avaliação;
+- a forma como a avaliação foi realizada;
+- o número e o perfil de usuários e avaliadores que participaram da avaliação;
+- um sumário dos dados coletados, incluindo tabelas e gráficos;
+- um relato da interpretação e análise dos dados;
+- uma lista dos problemas encontrados;
+- um planejamento para o reprojeto do sistema;
+
+## 8. Cronograma de entrevistas
+
+&emsp;&emsp; Para nos organizarmos para as entrevistas montamos um cronograma com as informações de cada uma delas, além da organização de um teste piloto para que os entrevistadores possam se acostumar com o ambiente e as perguntas, evitando possíveis erros durante as entrevistas. Este cronograma pode ser visto abaixo:
+
+| Entrevistado |                Entrevistador               | Data |         Hora        |  
+|:------:|:--------------------------------------:|:-----------:|:----------------------:|
+|   Teste Piloto  |  Lucas, Samuel e Lara |    12/08    | 18:00 | 
+|   -  |  -  |    -    | - | 
+|   -  |  -  |    -    | - | 
+|   -  |  -  |    -    | - | 
+
+<figcaption align='center'>
+    <b>Tabela 1: Cronograma de entrevistas</b>
+    <br><small>Fonte: Elaboração própria.</small>
+</figcaption>
+
 ## Histórico de versões
 
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |  Criação do documento  |    Lucas    | Lara | 07/08/2022 |
+|   1.1  |  Adiciona planejamento de relatos e cronograma   |    Lucas    | - | 11/08/2022 |
 
 ## Referências
 

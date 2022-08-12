@@ -81,9 +81,13 @@
 
 |           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
-| Relato dos resultados do Story Board e da Análise de tarefas    |        12/ago    |- | - |
-|    Planejamento da avaliação do protótipo em papel    |   14/ago  |- | - |
-|     planejamento do relato dos resultados da avaliação do Protótipo de Papel  |    14/ago|- | - |
+| Melhorias do planejamento storyboard  |        12/ago    | Lucas | Pedro |
+| Melhorias do planejamento analise de tarefas  |        12/ago    | Lara | Samuel |
+| Finalização da correção do guia de estilo   |        12/ago    | Levi | Lucas |
+| Relato dos resultados do Story Board e da Análise de tarefas    |        16/ago    | Lucas, Lara, Samuel | - |
+|    protótipo em papel    |   16/ago  | Levi | - |
+|    Planejamento da avaliação do protótipo em papel    |   16/ago  | Pedro | - |
+|     planejamento do relato dos resultados da avaliação do Protótipo de Papel  |    16/ago| Pedro | - |
 |      Gravar apresentação     |  16/ago|- | - |
 
 <figcaption align='center'>
