@@ -19,9 +19,16 @@
 - **E**: Avaliar (Evaluate), interpretar e apresentar os dados.
 
 ## 4. Método para a Avaliação
-&emsp;&emsp; Para a realização da Avaliação da Análise de Tarefa, optamos por utilizar um método de investigação, para que possamos ter acessso, interpretar e analisar opiniões e expectativas do usuário. Dessa forma, dentre os métodos de investigação, escolhemos a realização de **entrevistas** com usuários ou potenciais usuários do sistema.
+&emsp;&emsp; Para a realização da Avaliação da Análise de Tarefa, optamos por utilizar um método de investigação, para que possamos ter acessso, interpretar e analisar opiniões e expectativas do usuário. Dessa forma, dentre os métodos de investigação, escolhemos a realização de **entrevistas** com três ou mais usuários ou potenciais usuários do sistema.
 
 &emsp;&emsp; No quesito da identificação e administração das questões práticas da avaliação, o grupo irá focar em encontrar usuários ou potênciais usuários do sistema baseando-se no [Perfil de Usuário](../analiseRequisitos/perfilUsuario.md) definido durante a etapa de Análise de Requisitos do projeto. E para isso, iremos divulgar a entrevista em grupos de aplicativos de mensagens que julguemos serem condizentes e depois iremos filtrar os interessados com base no Perfil de Usuário. Além disso, faremos convites diretos à pessoas que saibamos que se encaixam nas características que buscamos. Porém, no caso de grandes dificuldades em econtrar estes usuários, iremos conduzir estas entrevistas com as [Personas](../analiseRequisitos/personas.md), também definidas na Análise de Requisitos, através da técnica de Role Playing.
+
+### 4.1. Ferramentas utilizadas
+
+&emsp;&emsp;Para realização das entrevistas será utilizada as seguintes ferramentas:
+
+- Microsoft Teams: comunicação com o entrevistado e gravação da entrevista
+- YouTube: disponibilização do vídeo
 
 ## 5. Entrevista
 &emsp;&emsp; A entrevista trata-se de uma conversa entre duas ou mais pessoas (um ou mais avaliadores e um entrevistado, ou seja, aquele que irá responder as perguntas) com o objetivo de responder perguntas que satisfazem o objetivo da avaliação. Para auxiliar na entrevista, montamos um roteiro, para guiar o fluxo da conversa.
