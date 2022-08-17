@@ -46,7 +46,7 @@
 
 &emsp;&emsp;Notou-se, assim, o uso de muitas distrações e informações no site, o que para o usuário, pode dificultar realizar a tarefa desejada. Dessa forma, propomos diversas mudanças para se adequar as metas de usabilidade e melhorar a experiência do usuário.
 
-1. **Atualização**  
+2. **Atualização**  
    
 &emsp;&emsp;Na tela inicial, o usuário encontra a imagem da logo no canto superior direito, no cabeçalho vai encontrar uma mensagem "Uma Viagem pelo Brasil" e embaixo dessa mensagem um menu com cinco caixas de seleção, que ao passar por cima delas, aciona uma lista de palavras selecionáveis para cada menu. No corpo da página vai estar uma mapa da localização do Brasil no globo e no continente sul-americano, um texto contando uma breve história do Brasil, como foi sua formação, suas capitais durante sua formação etc. E chegando próximo ao rodapé, uma lista de ícones acessáveis, que são as mesmas páginas contidas no menu "Brasil" e também a mensagem de CopyRight. As páginas seguintes, em sua maioria, seguirão esta mesma descrição.
 
@@ -56,11 +56,27 @@
 
 1. **Atual**  
 
-&emsp;&emsp;A página atual utiliza dois tipos de grid, para tela inicial ao acessar o site e das páginas seguintes, assim na tela inicial têm-se a logo no canto superior
+&emsp;&emsp;A página atual utiliza dois tipos de grid, para tela inicial ao acessar o site e das páginas seguintes, assim na tela inicial é observado que não há cabeçalho e rodapé, têm-se a logo no canto superior esquerdo, o corpo do site, um fundo onde estão uma figura e uma lista de hiperlinks, logo abaixo tem-se o texto de copyright e o fundo atrás do corpo, a figura 3.1.1 apresenta o grid da tela inicial. Já nas páginas subsequentes seguem um padrão, em que têm-se o cabeçalho e o rodapé, no rodapé há apenas o texto de copyright, no cabeçalho tem a logo no canto superior esquerdo e no canto superiro esquerdo a data atual, na lateral esquerda há o menu com hiperlinks e ao lado há o corpo do site com figuras, textos e hiperlinks, a figura 3.1.2 apresenta o grid das páginas subsequentes.  
+
+<center>
+
+![Disposição espacial atual da tela inicial do site](../assets/guiaDeEstilo/diagrama_site_atual_pagInicial.jpg "Disposição espacial atual da tela inicial do site")
+
+</center>
+
+<small><center>Figura 3.1.1 - Figura elaborada pelo autor do artefato, mostrando a disposição e o grid da página inicial do site</center></small> 
+
+<center>
+
+![Disposição espacial atual das telas subsequentes](../assets/guiaDeEstilo/diagrama_site_atual_pagSeguinte.jpg "Disposição espacial atual das telas subsequentes")
+
+</center>
+
+<small><center>Figura 3.1.2 - Figura elaborada pelo autor do artefato, mostrando a disposição e o grid das páginas subsequentes</center></small> 
 
 2. **Atualização**  
 
-&emsp;&emsp;A página deve utilizar um grid intuitivo, onde o usuário poderá ver com clareza as opções de acesso e o conteúdo presente na página, com a logo estabelecida no canto superior esquerdo como inferior esquerdo, logo ao lado a mensagem do site "Uma viagem pelo Brasil", assim como a barra de menu e outros pontos apresentados na figura 3.1.1.
+&emsp;&emsp;A página deve utilizar um grid intuitivo, onde o usuário poderá ver com clareza as opções de acesso e o conteúdo presente na página, com a logo estabelecida no canto superior esquerdo como inferior esquerdo, logo ao lado a mensagem do site "Uma viagem pelo Brasil", assim como a barra de menu e outros pontos apresentados na figura 3.1.3.
 
 
 <center>
@@ -69,7 +85,7 @@
 
 </center>
 
-<small><center>Figura 3.1.1 - Figura elaborada pelo autor do artefato, mostrando a disposição e o grid proposto pelos integrantes do grupo</center></small>  
+<small><center>Figura 3.1.3 - Figura elaborada pelo autor do artefato, mostrando a disposição e o grid proposto pelos integrantes do grupo</center></small>  
 
 ### 3.2 - Janelas  
 
