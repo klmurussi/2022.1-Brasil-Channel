@@ -18,7 +18,7 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
   
 &emsp;&emsp;Para cada tarefa tem dois storyboards, o primeiro apresentando a realização da tarefa no site atual e o segundo apresentando a realização da tarefa no site com a atualização proposta pelo guia de estilo.
 
-### 4.1 - Tarefa: Acessar Datas Comemorativas
+### 4.1 - Storyboard 1 (Tarefa: Acessar Datas Comemorativas)
   
 &emsp;&emsp;A tarefa em questão foi realizada na análise de tarefa utilizando a ferramenta KLM-GOMS, assim o processo da realização da tarefa é:  
 
@@ -88,7 +88,7 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
   </table>
 <small><center> Tabela 4.1.1 - Tabela trazendo o detalhamento do storyboard da tarefa de acessar Datas Comemorativas  Fonte: Elaboração da equipe</center></small>
 
-### 4.2 - Tarefa: Encontrar o site do Ministério da Educação
+### 4.2 - Storyboard 2 (Tarefa: Encontrar o site do Ministério da Educação)
   
 &emsp;&emsp;A tarefa em questão foi realizada na análise de tarefas utilizando a ferramenta CMN-GOMS, sendo assim o processo de realização da tarefa é:
   
@@ -161,7 +161,7 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
   </table>
 <small><center> Tabela 4.2.1 - Tabela trazendo o detalhamento do storyboard da tarefa de encontrar o link do Ministério da Educação  Fonte: Elaboração da equipe</center></small>
 
-### 4.3 - Tarefa: Acessar Litoral
+### 4.3 - Storyboard 3 (Tarefa: Acessar Litoral) 
   
 &emsp;&emsp;A tarefa em questão foi realizada na análise de tarefas utilizando a ferramenta CTT, sendo assim o processo de realização de tarefa é:
   
@@ -174,7 +174,7 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
   
 <center>
 
-![Storyboard 3](../assets/storyboards/storyboard3.png)
+![Storyboard 3](../assets/storyboards/storyboard3V2.png)
 
 </center>
 
@@ -242,6 +242,7 @@ Para produzir os storyboards, a ferramente [StoryboardThat](https://www.storyboa
 |   1.3  | Adição dos storyboard 1 e 2 |    Levi Queiroz   |  Samuel | 08/08/2022 |
 |   1.4  | Adição das tabelas de detalhamento dos storyboard 1 e 2 e 3 |    Samuel e Pedro   |  Lucas | 08/08/2022 |
 |   1.5  | Consertando erros ortográficos |    Levi Queiroz   |  Lucas | 09/08/2022 |
+|   1.6  | Adiciona storyboard 3 versão 2 |    Lucas   |  - | 17/08/2022 |
 
 
 

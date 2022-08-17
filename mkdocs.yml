@@ -26,6 +26,10 @@ nav:
           - Storyboards:
             - 'Storyboards': './storyboard/storyboard.md'
             - 'Planejamento da Avaliação': './storyboard/planejamentoAvaliacao.md'
+            - 'Relato dos Resultados da Avaliação': './storyboard/resultados.md'
+            - Entrevistas:
+              - 'Entrevista Eduardo': './storyboard/entrevistaEduardo.md'
+              - 'Entrevista Giovana': './storyboard/entrevistaGiovana.md'
           - Análise de tarefas:
             - 'Planejamento da Avaliação': './analiseDeTarefas/planejamentoAvaliacao.md'
     - Apresentações:

@@ -62,35 +62,7 @@
     <br><small>Fonte: Elaboração própria.</small>
 </figcaption>
 
-## 7. Resultados
 
-&emsp;&emsp; Conforme descrito por Simone Barbosa (2010), os resultados de uma avaliação IHC indicam tendências de problemas, e não uma certeza de que eles vão ocorrer, e também, o fato de não se econtrar problemas durante a avaliação, não significa necessariamente que o sistema tenha uma alta qualidade.
-
-&emsp;&emsp; Dessa forma, iremos fazer o relato dos resultados, incluindo os elementos também citados por Barbosa (2010), que são:
-
-- os objetivos e escopo da avaliação;
-- a forma como a avaliação foi realizada;
-- o número e o perfil de usuários e avaliadores que participaram da avaliação;
-- um sumário dos dados coletados, incluindo tabelas e gráficos;
-- um relato da interpretação e análise dos dados;
-- uma lista dos problemas encontrados;
-- um planejamento para o reprojeto do sistema;
-
-## 8. Cronograma de entrevistas
-
-&emsp;&emsp; Para nos organizarmos para as entrevistas montamos um cronograma com as informações de cada uma delas, além da organização de um teste piloto para que os entrevistadores possam se acostumar com o ambiente e as perguntas, evitando possíveis erros durante as entrevistas. Este cronograma pode ser visto abaixo:
-
-| Entrevistado |                Entrevistador               | Data |         Hora        |  
-|:------:|:--------------------------------------:|:-----------:|:----------------------:|
-|   Teste Piloto  |  Lucas, Samuel e Lara |    12/08    | 18:00 | 
-|   -  |  -  |    -    | - | 
-|   -  |  -  |    -    | - | 
-|   -  |  -  |    -    | - | 
-
-<figcaption align='center'>
-    <b>Tabela 1: Cronograma de entrevistas</b>
-    <br><small>Fonte: Elaboração própria.</small>
-</figcaption>
 
 ## Histórico de versões
 
