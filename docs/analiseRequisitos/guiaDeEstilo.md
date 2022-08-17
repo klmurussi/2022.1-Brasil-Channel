@@ -116,15 +116,29 @@
 
 ### 3.3 - Tipografia
 
-&emsp;&emsp;A fonte que deve ser utilizada é a [Open Sans](https://fonts.google.com/specimen/Open+Sans#standard-styles), projetada por Steve Matteson, em que as fontes podem variar entre bold, regular e italic, de tamanho diferentes. Segue a figura 3.3.1 apresentando a fonte.  
+1. **Atual**  
+
+&emsp;&emsp;A fonte que é utilizada no site é a [Verdana](https://apps.microsoft.com/store/detail/verdana-pro/9N8D67VHHDC2?hl=pt-br&gl=BR), essa fonte foi elaborada por Matthew Carter para a Microsoft Corporation. Em que as fontes variam entre Regular, Bold, Bold Italic e Italic. Segue a figura 3.3.1 apresentando a fonte.  
 
 <center>
 
-![Tipografia](../assets/guiaDeEstilo/openSans.png "Tipografia")
+![Tipografia Verdana](../assets/guiaDeEstilo/Verdana-Font.jpg "Tipografia Verdana")
 
 </center>
 
-<small><center>Figura 3.3.1 - Tipografia proposta para o desenvolvimento das etapas seguintes de design. Fonte: https://www.dafontfree.io/open-sans-font-family/</center></small>  
+<small><center>Figura 3.3.1 - Tipografia proposta para o desenvolvimento das etapas seguintes de design. Fonte: https://www.designyourway.net/blog/wp-content/uploads/2017/12/Verdana-Font.jpg</center></small> 
+
+1. **Atualização**  
+
+&emsp;&emsp;A fonte que deve ser utilizada é a [Open Sans](https://fonts.google.com/specimen/Open+Sans#standard-styles), projetada por Steve Matteson, em que as fontes podem variar entre bold, regular e italic, de tamanho diferentes. Segue a figura 3.3.2 apresentando a fonte.  
+
+<center>
+
+![Tipografia Open Sans](../assets/guiaDeEstilo/openSans.png "Tipografia Open Sans")
+
+</center>
+
+<small><center>Figura 3.3.2 - Tipografia proposta para o desenvolvimento das etapas seguintes de design. Fonte: https://www.dafontfree.io/open-sans-font-family/</center></small>  
 
 ### 3.4 - Símbolos não tipográficos
 
@@ -147,7 +161,7 @@
   
 <center>
 
-![Cores site atual](../assets/guiaDeEstilo/paleta_de_cores.png "Cores site atual")
+![Cores site atual](../assets/guiaDeEstilo/paletaDeCores_atual.jpg "Cores site atual")
 
 </center>
 
