@@ -24,8 +24,9 @@
 | Entrevistado |                Entrevistador               | Data |         Hora        |  
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|
 |   Teste Piloto  |  Lucas, Samuel e Lara |    12/08    | 18:00 | 
-|   Eduardo Dias  |  Lucas  |    15/05    | 22:00 | 
-|   Giovana Bentes  |  Lucas  |    16/05    | 19:30 | 
+|   Eduardo Dias  |  Lucas  |    15/08    | 22:00 | 
+|   Giovana Bentes  |  Lucas  |    16/08    | 19:30 |  
+|   Pamella Christine  |  Samuel  |    17/08    | 17:30 | 
 |   -  |  -  |    -    | - |
 
 </center>
@@ -41,7 +42,7 @@
 
 - Eduardo Dias: jovem de 21 anos, aluno de Engenharia de Produção na UnB.
 - Giovana Bentes: jovem de 18 anos, aluna do terceiro ano do ensino médio.
-- 
+- Pamella Christine: jovem de 19 anos, estudante de vestibular.
 
 ## 5. Dados coletados
 
@@ -49,6 +50,7 @@
 
 - [Eduardo Dias](./entrevistaEduardo.md)
 - [Giovana Bentes](./entrevistaGiovana.md)
+- [Pamella Christine](./entrevistaPamella.md)
 
 ### 5.1 Entrevista com Eduardo
 &emsp;&emsp; Quando perguntado ao Eduardo se ele se identificava com algum storyboard ele nos disse que se identificou com storyboard em que valenttina e Roberta buscam quais serão os próximos feriados para poderem planejar uma viagem. Além disso, ele nos informou que esta situação onde ele deseja buscar uma lista de feriadoos para planejar viagens ocorre com frequência.
@@ -60,8 +62,14 @@
 
 &emsp;&emsp; Além disso, ela nos disse que normalmente ao fazer pesquisas para trabalhos de escola ela acredita que ao utilizar outros sites de pesquisa ela demoraria mais para conseguir coletar as informações necessárias normalmente precisando acessar mais de um site. Aliado a isso, quando questionada sobre o objetivo final do personagem, a entrevistada repondeu dizendo que se identificava com o objetivo de realizar pesquisas de maneira rápida. Por fim, Giovana nos sugeriu como correção uma alteração no texto do storyboard, pois estava com um erro de português.
 
+### 5.3 Entrevista com Pamella
+&emsp;&emsp; Quando perguntado a Pamella se ela se identificava com algum dos storyboards, ela nos informou que o storyboard em que o personagem Carlos tem dificuldade para encontrar as informações no site era a que mais se encaixava em sua realidade. Dessa forma, Pamella também disse que se identificava com a situação de que os personagem se encontra, pois frequentemente ela precisa fazer trabalhos ou procurar informações para estudo e se sente perdida nos sites por ter muitas informações.
+
+&emsp;&emsp; Além disso, ela nos disse que normalmente precisa fazer pesquisas para estudo, se identificando com a motivação dos personagens para entrar no sistema. Por fim, Pamella nos sugeriu como uma sugestão de melhoria diminuir a quantidade de informações no storyboard 2, pois estava muito grande.
+
+
 ## 6. Conclusão da Avaliação
-&emsp;&emsp; A partir das entrevistas feitas, o objetivo da avaliação definido no [planejamento da avaliação](./planejamentoAvaliacao.md) e os dados coletados, podemos concluir que existem melhorias a serem feitas. Levando em conta a entrevista com o Eduardo, acreditamos que o storyboard mencionado cumpriu com todos os aspectos definidos pelas perguntas a serem respondias pela avaliação, dessa forma não sendo necessárias mudanças. 
+&emsp;&emsp; A partir das entrevistas feitas, o objetivo da avaliação definido no [planejamento da avaliação](./planejamentoAvaliacao.md) e os dados coletados, podemos concluir que existem melhorias a serem feitas. Levando em conta a entrevista com o Eduardo e com a Pamella, acreditamos que o storyboard mencionado cumpriu com todos os aspectos definidos pelas perguntas a serem respondias pela avaliação, podendo ter mudanças apenas no tamanhanho do storyboard 2 como sugeriu a Pamella, deixando este mais objetivo. 
 
 &emsp;&emsp; Já pela entrevista com a Giovana, podemos perceber que o fluxo de tarefas feito pelo personagem não está condizente com o fluxo do usuário real, pois ao ser questionada a entrevistada disse que a situação de encontrar todas as informações de um trabalho em um único site não ocorre quando ela faz estas pesquisas. Além disso, outra correção seria adicionar uma palavra que estava faltando no último quadrinho, como apontado pela entrevistada.
 
@@ -87,7 +95,8 @@
 
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  |  Criação do documento  |    Lucas    | - | 16/08/2022 |
+|   1.0  |  Criação do documento  |    Lucas    | Samuel Macedo | 16/08/2022 |
+|   1.1  |  Adição de conteúdo  |    Samuel Macedo    | - | 17/08/2022 |
 
 ## Referências
 
