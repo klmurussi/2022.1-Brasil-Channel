@@ -56,7 +56,7 @@
 
 1. **Atual**  
 
-&emsp;
+&emsp;&emsp;A página atual utiliza dois tipos de grid, para tela inicial ao acessar o site e das páginas seguintes, assim na tela inicial têm-se a logo no canto superior
 
 2. **Atualização**  
 
@@ -65,7 +65,7 @@
 
 <center>
 
-![Disposição espacial e grid](../assets/guiaDeEstilo/disposicao_espacial_grid.png "Disposição espacial e grid")
+![Disposição espacial e grid](../assets/guiaDeEstilo/disposicao_espacial_grid.jpg "Disposição espacial e grid")
 
 </center>
 
