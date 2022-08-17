@@ -38,7 +38,7 @@
 
 ### 2.1 - Descrição do ambiente de trabalho do usuário  
 
-1. **Atual**  
+* **Atual**  
    
 &emsp;&emsp;Na tela inicial, identifica-se a tela em dois retângulos um dentro do outro, sendo um verdo como fundo e o da frente em coloração um pouco mais escuro que o branco, elevado para o canto superior. Dentro desse retângulo branco, tem-se no canto superior direito a logo original do site, no centro uma figura com quadrados formando um painel e dentro desse painel o mapa do brasil em azul com uma mensagem em amarelo, ao lado do mapa tem-se os hiperlinks e logo abaixo do mapa e dos hiperlinks tem-se a mensagem de CopyRight, a figura 2.1.1 apresenta a tela inicial do web site Brasil Channel.  
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;Notou-se, assim, o uso de muitas distrações e informações no site, o que para o usuário, pode dificultar realizar a tarefa desejada. Dessa forma, propomos diversas mudanças para se adequar as metas de usabilidade e melhorar a experiência do usuário.
 
-2. **Atualização**  
+* **Atualização**  
    
 &emsp;&emsp;Na tela inicial, o usuário encontra a imagem da logo no canto superior direito, no cabeçalho vai encontrar uma mensagem "Uma Viagem pelo Brasil" e embaixo dessa mensagem um menu com cinco caixas de seleção, que ao passar por cima delas, aciona uma lista de palavras selecionáveis para cada menu. No corpo da página vai estar uma mapa da localização do Brasil no globo e no continente sul-americano, um texto contando uma breve história do Brasil, como foi sua formação, suas capitais durante sua formação etc. E chegando próximo ao rodapé, uma lista de ícones acessáveis, que são as mesmas páginas contidas no menu "Brasil" e também a mensagem de CopyRight. As páginas seguintes, em sua maioria, seguirão esta mesma descrição.
 
@@ -54,7 +54,7 @@
 
 ### 3.1 - Disposição espacial e grid  
 
-1. **Atual**  
+* **Atual**  
 
 &emsp;&emsp;A página atual utiliza dois tipos de grid, para tela inicial ao acessar o site e das páginas seguintes, assim na tela inicial é observado que não há cabeçalho e rodapé, têm-se a logo no canto superior esquerdo, o corpo do site, um fundo onde estão uma figura e uma lista de hiperlinks, logo abaixo tem-se o texto de copyright e o fundo atrás do corpo, a figura 3.1.1 apresenta o grid da tela inicial. Já nas páginas subsequentes seguem um padrão, em que têm-se o cabeçalho e o rodapé, no rodapé há apenas o texto de copyright, no cabeçalho tem a logo no canto superior esquerdo e no canto superiro esquerdo a data atual, na lateral esquerda há o menu com hiperlinks e ao lado há o corpo do site com figuras, textos e hiperlinks, a figura 3.1.2 apresenta o grid das páginas subsequentes.  
 
@@ -74,7 +74,7 @@
 
 <small><center>Figura 3.1.2 - Figura elaborada pelo autor do artefato, mostrando a disposição e o grid das páginas subsequentes</center></small> 
 
-2. **Atualização**  
+* **Atualização**  
 
 &emsp;&emsp;A página deve utilizar um grid intuitivo, onde o usuário poderá ver com clareza as opções de acesso e o conteúdo presente na página, com a logo estabelecida no canto superior esquerdo como inferior esquerdo, logo ao lado a mensagem do site "Uma viagem pelo Brasil", assim como a barra de menu e outros pontos apresentados na figura 3.1.3.
 
@@ -89,7 +89,7 @@
 
 ### 3.2 - Janelas  
 
-1. **Atual**
+* **Atual**
 
 &emsp;&emsp;O principal meio de navegação do site é por meio de hiperlinks, apenas, em que esses hiperlinks estão vinculados a palavras e figuras. Na tela inicial temos o layout da logo, o mapa e alguns hiperlinks do lado do mapa, para as janelas seguintes, o formato é alterado e é apresentado a logo no canto supeioro direito, o menu lateral do lado direito e no corpo a disposição da informações. A figura 3.2.1 apresenta a tela inicial da página e a figura 3.2.2 apresenta a janela "Brasil - redescobrindo o gigante".
 
@@ -110,13 +110,13 @@
 <small><center>Figura 3.2.2 - Tela "Brasil", acessada ao clicar no hiperlink "Brasil - Redescobrindo o Gigante". Fonte: https://www.brasilchannel.com.br/brasil/</center></small>
 
 
-2. **Atualização**  
+* **Atualização**  
 
 &emsp;&emsp;Assim como no atual, o principal meio de navegação do site será por meio de hiperlinks, e para a proposta de alteração deve ser adicionados ícones selecionáveis e barra de pesquisa. Sendo asssim, as páginas seguirão um padrão de cabeçalho, menu lateral e rodapé, alterando a disposição do conteúdo, layout e figuras no corpo da página.
 
 ### 3.3 - Tipografia
 
-1. **Atual**  
+* **Atual**  
 
 &emsp;&emsp;A fonte que é utilizada no site é a [Verdana](https://apps.microsoft.com/store/detail/verdana-pro/9N8D67VHHDC2?hl=pt-br&gl=BR), essa fonte foi elaborada por Matthew Carter para a Microsoft Corporation. Em que as fontes variam entre Regular, Bold, Bold Italic e Italic. Segue a figura 3.3.1 apresentando a fonte.  
 
@@ -128,7 +128,7 @@
 
 <small><center>Figura 3.3.1 - Tipografia proposta para o desenvolvimento das etapas seguintes de design. Fonte: https://www.designyourway.net/blog/wp-content/uploads/2017/12/Verdana-Font.jpg</center></small> 
 
-1. **Atualização**  
+* **Atualização**  
 
 &emsp;&emsp;A fonte que deve ser utilizada é a [Open Sans](https://fonts.google.com/specimen/Open+Sans#standard-styles), projetada por Steve Matteson, em que as fontes podem variar entre bold, regular e italic, de tamanho diferentes. Segue a figura 3.3.2 apresentando a fonte.  
 
@@ -155,7 +155,7 @@
 
 ### 3.5 - Cores  
 
-1. **Atual**
+* **Atual**
   
 &emsp;&emsp;A figura 3.5.1 apresenta as cores utilizadas no site atual.
   
@@ -167,7 +167,7 @@
 
 <small><center>Figura 3.5.1 - Figura elaborada pelo autor do artefato, mostrando as cores de paleta propóstas para o protótipo</center></small>  
   
-2. **Atualização**  
+* **Atualização**  
 
 &emsp;&emsp;A figura 3.5.1 apresenta as cores que devem ser utilizadas no site, as cores podem ser adicionados ou retiradas conforme a necessidade da produção do site.  
 
