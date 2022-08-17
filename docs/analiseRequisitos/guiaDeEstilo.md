@@ -169,7 +169,7 @@
   
 * **Atualização**  
 
-&emsp;&emsp;A figura 3.5.1 apresenta as cores que devem ser utilizadas no site, as cores podem ser adicionados ou retiradas conforme a necessidade da produção do site.  
+&emsp;&emsp;A figura 3.5.2 apresenta as cores que devem ser utilizadas no site, as cores podem ser adicionados ou retiradas conforme a necessidade da produção do site.  
 
 <center>
 
@@ -177,7 +177,7 @@
 
 </center>
 
-<small><center>Figura 3.5.1 - Figura elaborada pelo autor do artefato, mostrando as cores de paleta propóstas para o protótipo</center></small>  
+<small><center>Figura 3.5.2 - Figura elaborada pelo autor do artefato, mostrando as cores de paleta propóstas para o protótipo</center></small>  
 
 ### 3.6 - Animações  
 
