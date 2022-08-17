@@ -40,7 +40,7 @@
 
 * **Atual**  
    
-&emsp;&emsp;Na tela inicial, identifica-se a tela em dois retângulos um dentro do outro, sendo um verdo como fundo e o da frente em coloração um pouco mais escuro que o branco, elevado para o canto superior. Dentro desse retângulo branco, tem-se no canto superior direito a logo original do site, no centro uma figura com quadrados formando um painel e dentro desse painel o mapa do brasil em azul com uma mensagem em amarelo, ao lado do mapa tem-se os hiperlinks e logo abaixo do mapa e dos hiperlinks tem-se a mensagem de CopyRight, a figura 2.1.1 apresenta a tela inicial do web site Brasil Channel.  
+&emsp;&emsp;Na tela inicial, identifica-se a tela em dois retângulos um dentro do outro, sendo um verdo como fundo e o da frente em coloração um pouco mais escuro que o branco, elevado para o canto superior. Dentro desse retângulo branco, tem-se no canto superior esquerdo a logo original do site, no centro uma figura com quadrados formando um painel e dentro desse painel o mapa do brasil em azul com uma mensagem em amarelo, ao lado do mapa tem-se os hiperlinks e logo abaixo do mapa e dos hiperlinks tem-se a mensagem de CopyRight. 
 
 &emsp;&emsp;As páginas seguintes seguem um outro formato, em que no cabeçalho é apresentado a logo original e embaixo dela uma mensagem, no canto superior direito é apresentado a data. No corpo do site é apresentado um menu lateral com uma figura da bandeira do Brasil, assim as informações junto com algumas figuras ficam ao lado direito desse menu, em algumas páginas essas figuras apresentam hiperlinks para outras páginas, no rodapé aparece apenas a mensagem de CopyRight.
 
@@ -48,7 +48,7 @@
 
 * **Atualização**  
    
-&emsp;&emsp;Na tela inicial, o usuário encontra a imagem da logo no canto superior direito, no cabeçalho vai encontrar uma mensagem "Uma Viagem pelo Brasil" e embaixo dessa mensagem um menu com cinco caixas de seleção, que ao passar por cima delas, aciona uma lista de palavras selecionáveis para cada menu. No corpo da página vai estar uma mapa da localização do Brasil no globo e no continente sul-americano, um texto contando uma breve história do Brasil, como foi sua formação, suas capitais durante sua formação etc. E chegando próximo ao rodapé, uma lista de ícones acessáveis, que são as mesmas páginas contidas no menu "Brasil" e também a mensagem de CopyRight. As páginas seguintes, em sua maioria, seguirão esta mesma descrição.
+&emsp;&emsp;Na tela inicial, o usuário encontra a imagem da logo no canto superior esquerdo, no cabeçalho vai encontrar uma mensagem "Uma Viagem pelo Brasil" e embaixo dessa mensagem um menu com cinco caixas de seleção, que ao passar por cima delas, aciona uma lista de palavras selecionáveis para cada menu. No corpo da página vai estar uma mapa da localização do Brasil no globo e no continente sul-americano, um texto contando uma breve história do Brasil, como foi sua formação, suas capitais durante sua formação etc. E chegando próximo ao rodapé, uma lista de ícones acessáveis, que são as mesmas páginas contidas no menu "Brasil" e também a mensagem de CopyRight. As páginas seguintes, em sua maioria, seguirão esta mesma descrição.
 
 ## 3 - Elementos da interface
 
@@ -91,7 +91,7 @@
 
 * **Atual**
 
-&emsp;&emsp;O principal meio de navegação do site é por meio de hiperlinks, apenas, em que esses hiperlinks estão vinculados a palavras e figuras. Na tela inicial temos o layout da logo, o mapa e alguns hiperlinks do lado do mapa, para as janelas seguintes, o formato é alterado e é apresentado a logo no canto supeioro direito, o menu lateral do lado direito e no corpo a disposição da informações. A figura 3.2.1 apresenta a tela inicial da página e a figura 3.2.2 apresenta a janela "Brasil - redescobrindo o gigante".
+&emsp;&emsp;O principal meio de navegação do site é por meio de hiperlinks, apenas, em que esses hiperlinks estão vinculados a palavras e figuras. Na tela inicial temos o layout da logo, o mapa e alguns hiperlinks do lado do mapa, para as janelas seguintes, o formato é alterado e é apresentado a logo no canto superior esquerdo, o menu lateral do lado esquerdo e no corpo a disposição da informações. A figura 3.2.1 apresenta a tela inicial da página e a figura 3.2.2 apresenta a janela "Brasil - redescobrindo o gigante".
 
 <center>
 
@@ -142,6 +142,12 @@
 
 ### 3.4 - Símbolos não tipográficos
 
+* **Atual**  
+
+&emsp;&emsp;No site atual não foi encontrado símbolos não tipográficos.
+  
+* **Atualização**
+
 &emsp;&emsp;Em algumas páginas, terão ícones de acesso no corpo da página em que serão representados como a figura 3.4.1 com uma identificação na parte inferior do ícone, serão selecionaveis e também serão colocados no rodapé.
 
 
@@ -181,6 +187,20 @@
 
 ### 3.6 - Animações  
 
+* **Atual**
+  
+&emsp;&emsp;A animação presente no site é o da logo, em que o globo fica girando e apareçendo os continentes. A figura (GIF) 3.6.1 apresenta essa animação.
+  
+<center>
+
+![Animação Logo](../assets/guiaDeEstilo/gif_brasil_logo.gif "Animação Logo")
+
+</center>
+
+<small><center>Figura 3.6.1 Animação do globo girando - Fonte: https://www.brasilchannel.com.br/</center></small> 
+  
+* **Atualização**
+  
 &emsp;&emsp;Algumas animações nos mapas inseridos em alguma páginas funcionam com o objetivo de guiar o usuário no momento de clicar no hiperlink, assim a parte que o mouse passar por cima vai mostrar um efeito de elevação.  
 
 ### 3.7 - Logo  
@@ -261,7 +281,8 @@
 |   1.2  | Adição do tópico 3 e figuras |    Levi Queiroz   |  Kathlyn Lara | 01/08/2022 |
 |   1.3  | Adição do tópico 5, 6 e figuras |    Levi Queiroz   |  Kathlyn Lara | 02/08/2022 |
 |   1.4  | Consertado as figuras quebradas |    Levi Queiroz   |  Kathlyn Lara | 05/08/2022 |
-|   1.5  | Alteração de elementos não tipográficos | Kathlyn Lara | - | 05/08/2022 |
+|   1.5  | Alteração de elementos não tipográficos | Kathlyn Lara | Levi Queiroz | 05/08/2022 |
+|   1.6  | Adição dos tópicos "Atual" com informações, adição de imagens e revisão ortográfica | Levi Queiroz | - | 17/08/2022 |
 
 ## Referências
 
