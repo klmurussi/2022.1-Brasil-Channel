@@ -1,10 +1,10 @@
 # Planejamento da Avaliação da Análise de Tarefas
 
 ## 1. Introdução
-&emsp;&emsp;Em etapas anteriores, foi feita a ánalise de tarefas para entender qual é o trabalho dos usuários, como eles o realizam e o porquê. Já nesta etapa, queremos coletar informações e opiniões nos pontos de vistas quem utiliza um sistema interativo (o usuário).
+&emsp;&emsp;Em etapas anteriores, foi feita a análise de tarefas para entender qual é o trabalho dos usuários, como eles o realizam e o porquê. Já nesta etapa, queremos coletar informações e opiniões nos pontos de vistas quem utiliza um sistema interativo (o usuário).
 
 ## 2. Objetivo da Avaliação
-&emsp;&emsp;A avaliação tem como objetivo principal verificar se o fluxo de tarefas do usuário estão de acordo com o fluxo abordado na análise de requisitos. Com os resultados poderemos validar quais funcionalidades devem ser incluídas no produto, quais devem ser retiradas, aprimoradas, quais fatores são prioridades, etc.
+&emsp;&emsp;A avaliação tem como objetivo principal verificar se o fluxo de tarefas do usuário está de acordo com o fluxo abordado na análise de requisitos. Com os resultados poderemos validar quais funcionalidades devem ser incluídas no produto, quais devem ser retiradas, aprimoradas, quais fatores são prioridades, etc.
 
 ## 3. Metodologia
 &emsp;&emsp;Para fazer a avaliação, optamos por usar o Framework **DECIDE**, proposto por Sharp, Rogers e Preece (2007) e citado por Simone Barbosa (2010), para que possamos planejar, executar e analisar esta avaliação.
@@ -19,9 +19,9 @@
 - **E**: Avaliar (Evaluate), interpretar e apresentar os dados.
 
 ## 4. Método para a Avaliação
-&emsp;&emsp; Para a realização da Avaliação da Análise de Tarefa, optamos por utilizar um método de investigação, para que possamos ter acessso, interpretar e analisar opiniões e expectativas do usuário. Dessa forma, dentre os métodos de investigação, escolhemos a realização de **entrevistas** com três ou mais usuários ou potenciais usuários do sistema.
+&emsp;&emsp; Para a realização da Avaliação da Análise de Tarefa, optamos por utilizar um método de investigação, para que possamos ter acesso, interpretar e analisar opiniões e expectativas do usuário. Dessa forma, dentre os métodos de investigação, escolhemos a realização de **entrevistas** com três ou mais usuários ou potenciais usuários do sistema.
 
-&emsp;&emsp; No quesito da identificação e administração das questões práticas da avaliação, o grupo irá focar em encontrar usuários ou potênciais usuários do sistema baseando-se no [Perfil de Usuário](../analiseRequisitos/perfilUsuario.md) definido durante a etapa de Análise de Requisitos do projeto. E para isso, iremos divulgar a entrevista em grupos de aplicativos de mensagens que julguemos serem condizentes e depois iremos filtrar os interessados com base no Perfil de Usuário. Além disso, faremos convites diretos à pessoas que saibamos que se encaixam nas características que buscamos. Porém, no caso de grandes dificuldades em econtrar estes usuários, iremos conduzir estas entrevistas com as [Personas](../analiseRequisitos/personas.md), também definidas na Análise de Requisitos, através da técnica de Role Playing.
+&emsp;&emsp; No quesito da identificação e administração das questões práticas da avaliação, o grupo irá focar em encontrar usuários ou potenciais usuários do sistema baseando-se no [Perfil de Usuário](../analiseRequisitos/perfilUsuario.md) definido durante a etapa de Análise de Requisitos do projeto. E para isso, iremos divulgar a entrevista em grupos de aplicativos de mensagens que julguemos serem condizentes e depois iremos filtrar os interessados com base no Perfil de Usuário. Além disso, faremos convites diretos à pessoas que saibamos que se encaixam nas características que buscamos. Porém, no caso de grandes dificuldades em encontrar estes usuários, iremos conduzir estas entrevistas com as [Personas](../analiseRequisitos/personas.md), também definidas na Análise de Requisitos, através da técnica de Role Playing.
 
 ### 4.1. Ferramentas utilizadas
 
@@ -66,7 +66,7 @@
 | 7 | Tarefa: acessar a cidade de Barueri-SP | - |
 | 7.1 | Você tem as opções, <br> a) Uma viagem pelo Brasil <br> b) Brasil <br> c) Regiões <br> d) Estados <br> e) Capitais <br> f) Municípios <br> qual você acessa a cidade de Barueri-SP?| ( )f) Municípios <br> ( )Outra? Por que? |
 | 7.2 |  Você tem as opções, <br> a) Acre <br> b) Alagoas <br> c) Amapá <br> d) Amazonas <br> e) Bahia <br> f) Ceará <br> g) Distrito Federal <br> h) Espírito Santo <br> i) Goiás <br> j) Maranhão <br> k) Mato Grosso <br> l) Mato Grosso do Sul <br> m) Minas Gerais <br> n) Pará <br> o) Paraíba <br> p) Paraná <br> q) Pernambuco <br> r) Piauí <br> s) Rio de Janeiro <br> t) Rio Grande do Norte <br> u) Rio Grande do Sul <br> v) Rondônia <br> w) Roraima <br> x) Santa Catarina <br> y) São Paulo <br> z) Sergipe <br> qual você acessa a cidade de Barueri-SP? | ( )y) São Paulo <br> ( )Outra? Por que? |
-| 7.3 | Você tem as opções, <br> a) São José do Rio Preto <br> b) Ribeirão Preto <br> c) Araraqura <br> d) Campinas <br> e) Vale do Paraíba <br> f) Macro Metropolitana <br> g) Araçatuba <br> h) Presidente Prudente <br> i) Marília <br> j) Bauru <br> k) Assis <br> l) Itapetininga <br> m) Metropolitana <br> n) Piracicaba <br> o) Litoral Sul <br> qual você acessa a cidade de Barueri-SP? (Dica: fica na região metropolitana) | ( )m) Metropolitana <br> ( )Outra? Por que? |
+| 7.3 | Você tem as opções, <br> a) São José do Rio Preto <br> b) Ribeirão Preto <br> c) Araraquara <br> d) Campinas <br> e) Vale do Paraíba <br> f) Macro Metropolitana <br> g) Araçatuba <br> h) Presidente Prudente <br> i) Marília <br> j) Bauru <br> k) Assis <br> l) Itapetininga <br> m) Metropolitana <br> n) Piracicaba <br> o) Litoral Sul <br> qual você acessa a cidade de Barueri-SP? (Dica: fica na região metropolitana) | ( )m) Metropolitana <br> ( )Outra? Por que? |
 | 7.4 | Você tem as opções, <br> a) Barueri <br> b) Cajamar <br> c) Osaco <br> d) Santana de Parnaíba <br> e) Mairiporã <br> f) Guarulhos <br> g) Santa Isabel <br> h) Cotia <br> i) Embu <br> j) Embu-Guaçu <br> k) Itapecerica da Serra <br> l) Juquitiba <br> m) São Lourenço da Serra <br> n) Mauá <br> o) Ribeirão Pires <br> p) Santo André <br> q) São Bernado do Campo <br> r) São Caetano do Sul <br> s) São Paulo <br> t) Guararema <br> u) Moji das Cruzes <br> v) Salesópolis <br> w) Bertioga <br> y) Cubatão <br> z) Guarujá <br> qual você acessa a cidade de Barueri-SP? | ( )a) Barueri <br> ( )Outra? Por que? |
 | 7.5 | Você teve alguma dificuldade nessa tarefa? | ⚠️ Pular para a pergunta 8 se a resposta for não |
 | 7.5.1 | O que você sugere para diminuir essa dificuldade? |  |
@@ -79,7 +79,7 @@
 
 ## 6. Resultados
 
-&emsp;&emsp;Conforme descrito por Simone Barbosa (2010), os resultados de uma avaliação IHC indicam tendências de problemas, e não uma certeza de que eles vão ocorrer, e também, o fato de não se econtrar problemas durante a avaliação, não significa necessariamente que o sistema tenha uma alta qualidade.
+&emsp;&emsp;Conforme descrito por Simone Barbosa (2010), os resultados de uma avaliação IHC indicam tendências de problemas, e não uma certeza de que eles vão ocorrer, e também, o fato de não se encontrar problemas durante a avaliação, não significa necessariamente que o sistema tenha uma alta qualidade.
 
 &emsp;&emsp;Dessa forma, iremos fazer o relato dos resultados, incluindo os elementos também citados por Barbosa (2010), que são:
 
@@ -97,8 +97,8 @@
 
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  |  Criação do documento |    Kathlyn Lara    | - | 07/08/2022 |
-|   1.1  |  Mudança nas perguntas da entrevista e nos resultados | Kathlyn Lara | - | 14/08/2022 |
+|   1.0  |  Criação do documento |    Kathlyn Lara    | Samuel Macedo | 07/08/2022 |
+|   1.1  |  Mudança nas perguntas da entrevista e nos resultados | Kathlyn Lara | Samuel Macedo | 14/08/2022 |
 
 ## Referências
 
