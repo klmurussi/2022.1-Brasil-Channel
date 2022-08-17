@@ -30,6 +30,7 @@ nav:
             - Entrevistas:
               - 'Entrevista Eduardo': './storyboard/entrevistaEduardo.md'
               - 'Entrevista Giovana': './storyboard/entrevistaGiovana.md'
+              - 'Entrevista Pamella': './storyboard/entrevistaPamella.md'
           - Análise de tarefas:
             - 'Planejamento da Avaliação': './analiseDeTarefas/planejamentoAvaliacao.md'
     - Apresentações:

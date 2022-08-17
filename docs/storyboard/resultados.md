@@ -82,6 +82,7 @@
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|
 |   3  | Correção no texto último quadrinho |    Lucas   | 17/08 | 
 |   3  |  Correção fluxo de tarefas  |    Lucas    | 17/08 | 
+|   2  |  Alteração nos textos  |    Lucas    | 19/08 |
 
 </center>
 
@@ -96,7 +97,9 @@
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |  Criação do documento  |    Lucas    | Samuel Macedo | 16/08/2022 |
-|   1.1  |  Adição de conteúdo  |    Samuel Macedo    | - | 17/08/2022 |
+|   1.1  |  Arquivo revisado  |    Samuel Macedo    | - | 16/08/2022 |
+|   1.2  |  Adição de conteúdo  |    Samuel Macedo    | Lucas | 17/08/2022 |
+|   1.3  |   Arquivo revisado |    Lucas    | - | 17/08/2022 |
 
 ## Referências
 
