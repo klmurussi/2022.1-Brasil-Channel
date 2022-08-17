@@ -126,7 +126,7 @@
 
 <small><center>Figura 3.3.1 - Tipografia proposta para o desenvolvimento das etapas seguintes de design. Fonte: https://www.dafontfree.io/open-sans-font-family/</center></small>  
 
-### 3.4 Símbolos não tipográficos
+### 3.4 - Símbolos não tipográficos
 
 &emsp;&emsp;Em algumas páginas, terão ícones de acesso no corpo da página em que serão representados como a figura 3.4.1 com uma identificação na parte inferior do ícone, serão selecionaveis e também serão colocados no rodapé.
 
@@ -141,11 +141,25 @@
 
 ### 3.5 - Cores  
 
+1. **Atual**
+  
+&emsp;&emsp;A figura 3.5.1 apresenta as cores utilizadas no site atual.
+  
+<center>
+
+![Cores site atual](../assets/guiaDeEstilo/paleta_de_cores.png "Cores site atual")
+
+</center>
+
+<small><center>Figura 3.5.1 - Figura elaborada pelo autor do artefato, mostrando as cores de paleta propóstas para o protótipo</center></small>  
+  
+2. **Atualização**  
+
 &emsp;&emsp;A figura 3.5.1 apresenta as cores que devem ser utilizadas no site, as cores podem ser adicionados ou retiradas conforme a necessidade da produção do site.  
 
 <center>
 
-![Cores](../assets/guiaDeEstilo/paleta_de_cores.png "Cores")
+![Cores do site atualizado](../assets/guiaDeEstilo/paleta_de_cores.png "Cores do site atualizado")
 
 </center>
 
@@ -186,7 +200,7 @@
 
 &emsp;&emsp;Para o nosso protótipo, vamos melhorar a seleção das opções, assim organizando melhor cada tópico para evitar a quantidade desnecessária de links em cada uma das opções, juntamente com novas imagens, melhorando, assim, a visualização para o usuário. 
 
-### 4.3 Aceleradores (teclas de atalho)  
+### 4.3 - Aceleradores (teclas de atalho)  
 
 &emsp;&emsp;No presente site não se tem necessidade de aceleradores, claro, podendo ser modificado a partir de uma verificação que aponte a necessidade de um acelerador.
 
