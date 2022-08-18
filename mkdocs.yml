@@ -32,6 +32,11 @@ nav:
               - 'Entrevista Giovana': './storyboard/entrevistaGiovana.md'
           - Análise de tarefas:
             - 'Planejamento da Avaliação': './analiseDeTarefas/planejamentoAvaliacao.md'
+            - 'Relato dos Resultados da Avaliação': './analiseDeTarefas/resultados.md'
+            - Entrevistas:
+              - 'Entrevista Fernando': './analiseDeTarefas/Entrevistas/entrevistaFernando.md'
+              - 'Entrevista Sabrinna': './analiseDeTarefas/Entrevistas/entrevistaSabrinna.md'
+              - 'Entrevista Sander': './analiseDeTarefas/Entrevistas/entrevistaSander.md'
     - Apresentações:
         - 'Ponto de controle 1': './apresentacoes/apresentacao1.md'
         - 'Ponto de controle 2': './apresentacoes/apresentacao2.md'
