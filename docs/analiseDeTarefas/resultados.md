@@ -94,7 +94,8 @@
 
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  |  Criação do documento  |    Lara    | - | 17/08/2022 |
+|   1.0  |  Criação do documento  |    Lara    | Samuel Macedo | 17/08/2022 |
+
 
 ## Referências
 

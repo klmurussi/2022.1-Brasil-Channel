@@ -53,15 +53,15 @@
 - Visualizar o menu Flutuante 
 - Acessar o hiperlink “Litoral”  
 
-### 3.3 - Participantes e Recrutamento  
+### 3.2 - Participantes e Recrutamento  
 
 &emsp;&emsp;A escolha dos usuários será em referência ao artefato Perfil de Usuário e o recrutamento será via mensagem pelas plataformas WhatsApp e Telegram.
 
-### 3.4 - Execução do teste piloto  
+### 3.3 - Execução do teste piloto  
 
 &emsp;&emsp;O teste-piloto está organizado para ser testando por três participantes do grupo, em que um estará gravando o teste, outro estará alternando os papéis a medida que o outro participante interage de acordo com as tarefas propóstas. Assim será testado se o método de avaliação está funcionando e que possa ser avaliado com menos chances de erro na execução.
 
-### 3.2 - O Protótipo de Papel  
+### 3.4 - O Protótipo de Papel  
 
 &emsp;&emsp;A seguir é apresentado o protótipo de papel, elaborado pelo grupo:
 
@@ -86,6 +86,7 @@ Este documento tem o intuito de contruir e preparar a avaliação do protótipo 
 | 1.0| Criação do documento | Pedro Caldeira | Levi Queiroz | 16/08/2022 |
 | 1.1| Criação dos tópicos e do conteúdo | Pedro Caldeira | Levi Queiroz | 16/08/2022 |
 | 1.2| Adição do Protótipo de Papel e Alterações no artefato | Levi Queiroz | Pedro Caldeira | 17/08/2022 |
+| 1.3| revisão do documento | Samuel Macedo | Pedro Caldeira | 17/08/2022 |
 
 ## Referências  
 
