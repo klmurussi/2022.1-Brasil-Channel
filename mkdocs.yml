@@ -33,6 +33,9 @@ nav:
               - 'Entrevista Pamella': './storyboard/entrevistaPamella.md'
           - Análise de tarefas:
             - 'Planejamento da Avaliação': './analiseDeTarefas/planejamentoAvaliacao.md'
+        - Nível 2:
+          - Protótipo de Papel:
+            - 'Protótipo de Papel e Planejamento de Avaliação': './prototipo_papel_doc/PlanejamentoAvaliPropPapel.md'
     - Apresentações:
         - 'Ponto de controle 1': './apresentacoes/apresentacao1.md'
         - 'Ponto de controle 2': './apresentacoes/apresentacao2.md'
