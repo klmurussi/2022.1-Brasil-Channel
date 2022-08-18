@@ -47,9 +47,9 @@
 
 &emsp;&emsp; A partir das entrevistas conseguimos coletar dados para poder realizar a avaliação das tarefas analisadas na [Análise de Tarefas](./../analiseRequisitos/AnaliseDeTarefas/analiseTarefas.md), para relatar estes dados iremos separar por as informações coletadas por entrevista, as gravações das entrevistas podem ser encontradas a partir dos seguintes links:
 
-- [Fernando Sano](./entrevistaFernando.md)
-- [Sabrinna Silva](./entrevistaSabrinna.md)
-- [Sander Araújo](./entrevistaSander.md)
+- [Fernando Sano](./Entrevistas/entrevistaFernando.md)
+- [Sabrinna Silva](./Entrevistas/entrevistaSabrinna.md)
+- [Sander Araújo](./Entrevistas/entrevistaSander.md)
 
 ### 5.1 Entrevista com Fernando
 &emsp;&emsp; Quando perguntado ao Fernando como ele faz para pesquisar um tópico em um livro, ele respondeu que procura no sumário e depois vai até a página indicada, porém, ao perguntar sobre como ele pesquisa um tópico em um site, ele respondeu que pesquisa pela barra de pesquisa ou no navegador.
