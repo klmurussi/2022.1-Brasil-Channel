@@ -99,7 +99,16 @@
 
 |           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
-| Verificação dos artefatos     |        19/ago    |- | - |
+| Verificação do análise de tarefas    |        19/ago    | Lara | - |
+| Verificação do guia de estilo     |        19/ago    |Lucas| - |
+| Verificação das metas usabilidade     |        19/ago    | Levi  | - |
+| Verificação do perfil do usuário     |        19/ago    | Pedro | - |
+| Verificação das personas     |        19/ago    | Samuel | - |
+| Verificação dos princípios gerais     |        19/ago    | Samuel | - |
+| Verificação dos protótipo de papel     |        19/ago    | Pedro | - |
+| Verificação do storyboard    |        19/ago    | Lara | - |
+| Verificação da avaliação da analise de tarefas    |        19/ago    | Levi | - |
+| Verificação do planejamento do protótipo de papel    |        19/ago    | Lucas | - |
 |      Gravar apresentação     |  20/ago |- | - |
 
 <figcaption align='center'>
