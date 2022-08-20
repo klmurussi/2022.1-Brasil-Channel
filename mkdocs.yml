@@ -40,8 +40,12 @@ nav:
               - 'Entrevista Sander': './analiseDeTarefas/Entrevistas/entrevistaSander.md'
         - Nível 2:
           - Protótipo de Papel:
-            - 'Protótipo de Papel e Planejamento de Avaliação': './prototipo_papel_doc/PlanejamentoAvaliPropPapel.md'
-
+            - 'Protótipo de papel': './prototipo_papel_doc/PlanejamentoAvaliPropPapel.md'
+            - 'Planejamento da Avaliação do Protótipo': './prototipo_papel_doc/PlanejamentoAvaliPropPapelV2.md'
+    - Verificação:
+        - 'Planejamento da Verificação': './verificacao/planejamento.md'
+        - 'Guia de Estilo': './verificacao/guiaDeEstilo.md'
+        - 'Planejamento Avaliação Protótipo de Papel': './verificacao/planejAvaliPropPapel.md'
     - Apresentações:
         - 'Ponto de controle 1': './apresentacoes/apresentacao1.md'
         - 'Ponto de controle 2': './apresentacoes/apresentacao2.md'

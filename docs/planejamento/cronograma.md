@@ -99,17 +99,18 @@
 
 |           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
-| Verificação do análise de tarefas    |        19/ago    | Lara | - |
-| Verificação do guia de estilo     |        19/ago    |Lucas| - |
-| Verificação das metas usabilidade     |        19/ago    | Levi  | - |
-| Verificação do perfil do usuário     |        19/ago    | Pedro | - |
-| Verificação das personas     |        19/ago    | Samuel | - |
-| Verificação dos princípios gerais     |        19/ago    | Samuel | - |
-| Verificação dos protótipo de papel     |        19/ago    | Pedro | - |
-| Verificação do storyboard    |        19/ago    | Lara | - |
-| Verificação da avaliação da analise de tarefas    |        19/ago    | Levi | - |
-| Verificação do planejamento do protótipo de papel    |        19/ago    | Lucas | - |
-|      Gravar apresentação     |  20/ago |- | - |
+| Planejamento da Avaliação    |        20/ago    | Lucas | - |
+| Verificação do análise de tarefas    |        21/ago    | Lara | - |
+| Verificação do guia de estilo     |        21/ago    |Lucas| - |
+| Verificação das metas usabilidade     |        21/ago    | Levi  | - |
+| Verificação do perfil do usuário     |        21/ago    | Pedro | - |
+| Verificação das personas     |        21/ago    | Samuel | - |
+| Verificação dos princípios gerais     |        21/ago    | Samuel | - |
+| Verificação dos protótipo de papel     |        21/ago    | Pedro | - |
+| Verificação do storyboard    |        21/ago    | Lara | - |
+| Verificação da avaliação da analise de tarefas    |        21/ago    | Levi | - |
+| Verificação do planejamento do protótipo de papel    |   21/ago | Lucas | - |
+|      Gravar apresentação     |  22/ago |- | - |
 
 <figcaption align='center'>
     <b>Tabela 6: Planejamento para o sexto ponto de controle.</b>
