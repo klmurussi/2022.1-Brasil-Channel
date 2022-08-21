@@ -1,50 +1,94 @@
-# Erat tum una oscula sarcina
+# Verificação Guia de Estilo
 
-## Super propiore locutus rota non nec elementaque
+## 1. Introdução
 
-Lorem markdownum audit sagittis! Oceanumque auctor tinnitibus fama propulit
-rata. Dei musta mollierant omnia cognosse pulvere in fateri penetrabile costas,
-Itys modis tibi erectos movet! Petis a sic **nec** uni primae iniere caeruleum
-et secutae laedere.
+&emsp;&emsp;Para verificar o [Guia de estilo](../analiseRequisitos/guiaDeEstilo.md) do nosso projeto, usaremos a estratégia de "inspeções", seguindo o planejamento detalhado na página de [Planejamento da Verificação](../verificacao/planejamento.md)
 
-    var thyristorOspfTape = 51;
-    core += enterpriseThermistorPage;
-    acl_mirrored_overclocking(num_software_pppoe, engine(animated, default(
-            screenshotMidiServices, rawWep, duplex)), compression_raw_acl(bash)
-            - osi_imap_link);
-    if (seo_modem_interlaced(130270 + tiff + kde_font_format, pixelRayDelete,
-            cloud(-2))) {
-        leaf.telecommunications += 1;
-        exabyte_ide_cgi.kilohertz_token = osi;
-        image_internal_domain.balance_word.macintoshCore(kernel);
-    }
+## 2. Preparação
 
-Et hos lecto consistere femorum, lacrimoso, et nubes nitebant quotiens signum
-est fallitque. Minos inhaerebat dextra supponat stabula, pollice et corpora est
-et per per: lumina! Celat alvo non, aurora.
+&emsp;&emsp; Para fazer a inspeção vamos utilizar um "checklist" com algumas perguntas com base nas referências utilizadas para a elaboração do artefato e os critérios de avaliação do artefato adotados na disciplina, dessa forma, poderemos analisar se este está correto com base nessas perguntas. Quando o critério for atentido, terá um "check" confirmando e quando não estiver , terá um "X" dizendo que não está correto. Conforme a legenda abaixo:
 
-## Nox illa qui totum Thessala blando
+- ✅ : Atendido
+- ❌ : Não Atendido
 
-Conantem inania repercusso sine sibi; armis anguem illa [vidit
-acceperat](http://www.in-qui.io/amnis); cruoris est tectas neque pharetra: et.
-Modico spectantur in mille easdem somnus suoque, adsensere Tusci ceperat maiora
-non tumescunt exuviis. Finiat *ut Sabinis deorum*! [Circen
-iram](http://essehic.net/) ore rapidi et lutea stamine libido! Diu saxis sex
-ambitae mihi Marte referre quinque herbis ingenium sui visumque et decidit
-naides proceres veloci.
+&emsp;&emsp;Além disso, após identificarmos os erros presentes no artefato, iremos concertá-los, assim produzindo uma segunda versão do artefato e da checklist.
 
-Et ferrum Minervae. Ab dum medium. Cruentae turbantur magnum imitamine damus
-dabis sedet ponunt.
+&emsp;&emsp;A checklist definida pode ser encontrada abaixo:
 
-> Solacia Rhoetus labore manum, quo armenta solus inque sonant inicit tenentem
-> superstes increpat. Moram damno aera, est ignes foret formae, sociis munera
-> *natos*. Tot pabula nec lacrimavit, nec suae sanguine patris flexit tristis
-> hostisque gravidi puerum!
+<center>
 
-Orbe axes erat colore tecta, lacrimis vestra, ter me invidiam, lucibus.
-Gorgoneum ipsa.
+|ID|Questão| Inspeção |
+|-----------|-------------|-------------|
+| 1 | O guia de estilo apresenta uma introdução com objetivo, organização, conteúdo e público alvo? | |
+| 2 | É apresentado como utilizar e como manter o guia de estilo? ||
+| 3 | É apresentado uma descrição detalhada do ambiente de trabalho? ||
+| 4 | São apresentados os elementos de interface? ||
+| 5 | São apresentados os elementos de interação? ||
+| 6 | São apresentados os elementos de ação? ||
+| 7 | São apresentados vacabulários e padrões? ||
+| 8 | São apresentadas imagens de comparação do site atual? ||
+| 9 | O guia de estilo está condizente com o site Brasil Channel? ||
 
-Sanguine triplex, est tu Pandione invasit honore haec hinc pretiumque, loqui
-primum forent, utinam. Hi Alcyone pulvere deceperit mansit en fugientem fuerat
-et non, acta. Sic **repulsae arbor librata**, fortunaque medullas magnoque
-vomens in ipsa tactis puer.
+
+</center>
+
+<figcaption align='center'>
+    <b>Tabela 1: Preparação checklist Guia de estilo </b>
+    <br><small> Fonte: </small>
+</figcaption>
+
+
+## 3. Inspeção Guia de estilo
+&emsp;&emsp;A checklist após inspeção do guia de estilo pode ser encontrada abaixo:
+
+<center>
+
+|ID|Questão| Inspeção |
+|-----------|-------------|-------------|
+| 1 | O guia de estilo apresenta uma introdução com objetivo, organização, conteúdo e público alvo? | ✅|
+| 2 | É apresentado como utilizar e como manter o guia de estilo? |✅|
+| 3 | É apresentado uma descrição detalhada do ambiente de trabalho? |✅|
+| 4 | São apresentados os elementos de interface? |✅|
+| 5 | São apresentados os elementos de interação? |✅|
+| 6 | São apresentados os elementos de ação? |✅|
+| 7 | São apresentados vacabulários e padrões? |✅|
+| 8 | São apresentadas imagens de comparação do site atual? |✅|
+| 9 | O guia de estilo está condizente com o site Brasil Channel? |✅|
+
+
+</center>
+
+<figcaption align='center'>
+    <b>Tabela 2: checklist inspeção Guia de estilo </b>
+    <br><small> Fonte: </small>
+</figcaption>
+
+## 3.1 Resultados
+&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento atendida com 9 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
+
+<center>
+
+![Grafico](../assets/graficosVerificacao/GraficoVerificacaoPlanejProtipV2.png)
+
+</center>
+
+<figcaption align='center'>
+    <b>Figura 1: Gráfico resultado inspeção Guia de Estilo </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
+
+&emsp;&emsp; Desta forma, decidimos que no momento não havia a necessidade de ser gerada uma segunda versão do artefato.
+
+## Historico de Versão 
+
+|    Versão    | Alteração| Responsavel        | Revisor     | Data
+| :--------: | :----: | :------------------: | :-------------: |:----:|
+| 1.0| Criação do documento | Lucas | - | 16/08/2022 |
+
+## Referências
+
+- SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de IHC no curso de Engenharia de Software da UnB, FGA.
+
+- BARROS, André. Aula 14 – Atividade de Avaliativa ( Individual): Resumo da "Apresentação do projeto etapa 3: Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos)"
+
+- - BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.

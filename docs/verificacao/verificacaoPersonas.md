@@ -22,13 +22,15 @@
 | 1 | Foi definido o Elenco de Personas? ||
 | 2 | Quantas personas e qual a razão desse número?||
 | 3 | Foram definidos Cenários?||
+| 4 | As personas descrevem um usuário típico?||
+
 
 
 </center>
 
 <figcaption align='center'>
     <b>Tabela 1: Preparação checklist Avaliação Protótipo de Papel </b>
-    <br><small> Fonte: Tabela de considerações da apresentação da etapa 4 da disciplina de IHC(Adaptado)</small>
+    <br><small> Fonte: Elaboração própria</small>
 </figcaption>
 
 
@@ -50,7 +52,7 @@
 
 <figcaption align='center'>
     <b>Tabela 2: Checklist da inspeção da Avaliação Protótipo de Papel </b>
-    <br><small> Fonte: Tabela de considerações da apresentação da etapa 4 da disciplina de IHC(Adaptado)</small>
+    <br><small> Fonte: Elaboração própria</small>
 </figcaption>
 
 ## 3.1 Resultados da inspeção
