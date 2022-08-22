@@ -35,7 +35,7 @@
 </center>
 
 <figcaption align='center'>
-    <b>Tabela 1: Preparação checklist Avaliação Protótipo de Papel </b>
+    <b>Tabela 1: Preparação checklist Avaliação Personas </b>
     <br><small> Fonte: Elaboração própria</small>
 </figcaption>
 
@@ -62,7 +62,7 @@
 </center>
 
 <figcaption align='center'>
-    <b>Tabela 2: Checklist da inspeção da Avaliação Protótipo de Papel </b>
+    <b>Tabela 2: Checklist da inspeção das Personas </b>
     <br><small> Fonte: Elaboração própria</small>
 </figcaption>
 
@@ -76,7 +76,7 @@
 </center>
 
 <figcaption align='center'>
-    <b>Figura 2: Gráfico Planejamento Avaliação Protótipo de papel V2 </b>
+    <b>Figura 1: Gráfico Personas  </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
