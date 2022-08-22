@@ -1,5 +1,5 @@
 ## 1. Introdução
-&emsp;&emsp; Com o objetivo de revisar e corrigir os artefatos criados pela equipe durante o decorrer do projeto, iremos fazer a verificação destes artefatos, buscanco erros e possíveis melhorias neles. Sendo assim, neste documento iremos fazer o planejamento da equipe para a execução desta verificação. 
+&emsp;&emsp; Com o objetivo de revisar e corrigir os artefatos criados pela equipe durante o decorrer do projeto, iremos fazer a verificação destes artefatos, buscando erros e possíveis melhorias neles. Sendo assim, neste documento iremos fazer o planejamento da equipe para a execução desta verificação. 
 
 ## 2. Metodologia
 
@@ -34,13 +34,13 @@
 |:----------------------------:|:----------:|  :-------: | :---------: |
 | Verificação do análise de tarefas    |        21/ago    | Lara | - |
 | Verificação do guia de estilo     |        21/ago    |Lucas| - |
-| Verificação das metas usabilidade     |        21/ago    | Levi  | - |
+| Verificação das metas de usabilidade     |        21/ago    | Levi  | - |
 | Verificação do perfil do usuário     |        21/ago    | Pedro | - |
 | Verificação das personas     |        21/ago    | Samuel | - |
 | Verificação dos princípios gerais     |        21/ago    | Samuel | - |
 | Verificação dos protótipo de papel     |        21/ago    | Pedro | - |
 | Verificação do storyboard    |        21/ago    | Lara | - |
-| Verificação da avaliação da analise de tarefas    |        21/ago    | Levi | - |
+| Verificação da avaliação da análise de tarefas    |        21/ago    | Levi | - |
 | Verificação do planejamento do protótipo de papel    |   21/ago | Lucas | - |
 
 <figcaption align='center'>
@@ -58,5 +58,4 @@
 
 | Versão |      Alteração       |     Responsável      |    Revisor    | Data  |
 | :----: | :------------------: | :------------------: | :-----------: | :---: |
-|  1.0   |       Criação do documento          |    Lucas     |     João     | 16/08 |
-|  1.1   |       Documento revisado          |    João     |     -     | 17/08 |
+|  1.0   |       Criação do documento          |    Lucas     |     Lara    | 16/08 |
