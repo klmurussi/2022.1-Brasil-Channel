@@ -34,7 +34,7 @@
 
 <figcaption align='center'>
     <b>Tabela 1: Preparação checklist Guia de estilo </b>
-    <br><small> Fonte: </small>
+    <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
 
@@ -60,7 +60,7 @@
 
 <figcaption align='center'>
     <b>Tabela 2: checklist inspeção Guia de estilo </b>
-    <br><small> Fonte: </small>
+    <br><small> Fonte: Elaboração Própria</small>
 </figcaption>
 
 ## 3.1 Resultados
