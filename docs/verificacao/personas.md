@@ -20,9 +20,15 @@
 |ID|Questão| Inspeção |
 |-----------|-------------|-------------|
 | 1 | Foi definido o Elenco de Personas? ||
-| 2 | Quantas personas e qual a razão desse número?||
+| 2 | Foi definido quantas personas e qual a razão desse número?||
 | 3 | Foram definidos Cenários?||
 | 4 | As personas descrevem um usuário típico?||
+| 5 | As personas possuem um objetivo?||
+| 6 | As personas possuem identidade?||
+| 7 | As personas possuem um status?||
+| 8 | As personas possuem requisitos?||
+| 9 | As personas possuem um relacionamento?||
+| 10 | Possui as tarefas das personas?||
 
 
 
@@ -46,7 +52,12 @@
 | 2 | Quantas personas e qual a razão desse número?|✅|
 | 3 | Foram definidos Cenários?|✅|
 | 4 | As personas descrevem um usuário típico?|✅|
-
+| 5 | As personas possuem um objetivo?|✅|
+| 6 | As personas possuem identidade?|✅|
+| 7 | As personas possuem um status?|✅|
+| 8 | As personas possuem requisitos?|✅|
+| 9 | As personas possuem um relacionamento?|✅|
+| 10 | Possui as tarefas das personas?|✅|
 
 </center>
 
@@ -56,43 +67,7 @@
 </figcaption>
 
 ## 3.1 Resultados da inspeção
-&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento não atendida com 7 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 22% como podemos ver a partir do gráfico abaixo:
-
-<center>
-
-![Grafico](../assets/graficosVerificacao/GraficoVerificacaoPlanejProtipV1.png)
-
-</center>
-
-<figcaption align='center'>
-    <b>Figura 1: Gráfico Planejamento Avaliação Protótipo de papel V1 </b>
-    <br><small> Fonte: Elaboração Própria </small>
-</figcaption>
-
-&emsp;&emsp; Dessa forma com o objetivo de melhorarmos a qualidade do artefato, geramos uma segunda versão do mesmo cumprindo com os critérios da checklist.
-
-## 3.1 Inspeção Planejamento Avaliação Protótipo de papel V2
-&emsp;&emsp; A versão 2 da checklist com os critérios de avaliação pode ser encontrado abaixo: 
-
-<center>
-
-|ID|Questão| Inspeção |
-|-----------|-------------|-------------|
-| 1 | Foi definido o elenco de Personas? |✅|
-| 2 | Quantas personas e qual a razão desse número?|✅|
-| 3 | Foram definidos Cenários?|✅|
-| 4 | As personas descrevem um usuário típico?|✅|
-
-
-</center>
-
-<figcaption align='center'>
-    <b>Tabela 3: Checklist da inspeção da Avaliação Protótipo de Papel V2</b>
-    <br><small> Fonte: Tabela de considerações da apresentação da etapa 4 da disciplina de IHC(Adaptado)</small>
-</figcaption>
-
-## 4.1 Resultados da inspeção versão 2
-&emsp;&emsp; A partir da inspeção da segunda versão do artefato verificamos que o documento atendia com todos os critérios de avaliação definidos na checklist, como pode ser obervado a partir do gráfico abaixo:
+&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento atende com 10 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
 
 <center>
 
@@ -105,14 +80,20 @@
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
+
+&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento atendia com todos os critérios de avaliação definidos na checklist, não precisando ser modificado ou alterado.
+
 ## Historico de Versão 
 
 |    Versão    | Alteração| Responsavel        | Revisor     | Data
 | :--------: | :----: | :------------------: | :-------------: |:----:|
-| 1.0| Criação do documento | Lucas | - | 16/08/2022 |
+| 1.0| Criação do documento | Samuel | - | 21/08/2022 |
+| 1.1| Adição de conteúdo | Samuel | - | 22/08/2022 |
 
 ## Referências
 
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de IHC no curso de Engenharia de Software da UnB, FGA.
 
 - BARROS, André. Aula 16 – Atividade de Conteúdo ( Individual): Resumo da aula 16: Apresentação do projeto etapa 4: Planejamento da Avaliação do Storyboard e Análise de tarefas e planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas. Material apresentado para a disciplina de IHC no curso de Engenharia de Software da UnB, FGA.
+
+- BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010. 
