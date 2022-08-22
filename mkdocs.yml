@@ -11,18 +11,25 @@ nav:
           - 'Processo de Design': './planejamento/processo.md'
           - 'Sites avaliados': './planejamento/sites.md'
     - Análise de Requisitos:
-        - 'Perfil de Usuário': './analiseRequisitos/perfilUsuario.md'
-        - 'Personas': './analiseRequisitos/personas.md'
         - Análise de Tarefas: 
           - 'Analise Hierárquica': './analiseRequisitos/AnaliseDeTarefas/analiseTarefas.md'
           - 'Análise GOMS': './analiseRequisitos/AnaliseDeTarefas/analiseTarefa_Goms.md'
           - 'Análise CTT' : './analiseRequisitos/AnaliseDeTarefas/analiseTarefa_CTT.md'
         - 'Aspectos Éticos': './analiseRequisitos/aspectosEticos.md'
-        - 'Principios Gerais do Projeto': './analiseRequisitos/principiosGerais.md'
-        - 'Metas de Usabilidade': './analiseRequisitos/metas_Usabilidade.md'
         - 'Guia de Estilo': './analiseRequisitos/guiaDeEstilo.md'
+        - 'Metas de Usabilidade': './analiseRequisitos/metas_Usabilidade.md'
+        - 'Perfil de Usuário': './analiseRequisitos/perfilUsuario.md'
+        - 'Personas': './analiseRequisitos/personas.md'
+        - 'Principios Gerais do Projeto': './analiseRequisitos/principiosGerais.md'
     - Design, Avaliação e Desenvolvimento:
         - Nível 1:
+          - Análise de tarefas:
+              - 'Planejamento da Avaliação': './analiseDeTarefas/planejamentoAvaliacao.md'
+              - 'Relato dos Resultados da Avaliação': './analiseDeTarefas/resultados.md'
+              - Entrevistas:
+                - 'Entrevista Fernando': './analiseDeTarefas/Entrevistas/entrevistaFernando.md'
+                - 'Entrevista Sabrinna': './analiseDeTarefas/Entrevistas/entrevistaSabrinna.md'
+                - 'Entrevista Sander': './analiseDeTarefas/Entrevistas/entrevistaSander.md'
           - Storyboards:
             - 'Storyboards': './storyboard/storyboard.md'
             - 'Planejamento da Avaliação': './storyboard/planejamentoAvaliacao.md'
@@ -31,23 +38,22 @@ nav:
               - 'Entrevista Eduardo': './storyboard/entrevistaEduardo.md'
               - 'Entrevista Giovana': './storyboard/entrevistaGiovana.md'
               - 'Entrevista Pamella': './storyboard/entrevistaPamella.md'
-          - Análise de tarefas:
-            - 'Planejamento da Avaliação': './analiseDeTarefas/planejamentoAvaliacao.md'
-            - 'Relato dos Resultados da Avaliação': './analiseDeTarefas/resultados.md'
-            - Entrevistas:
-              - 'Entrevista Fernando': './analiseDeTarefas/Entrevistas/entrevistaFernando.md'
-              - 'Entrevista Sabrinna': './analiseDeTarefas/Entrevistas/entrevistaSabrinna.md'
-              - 'Entrevista Sander': './analiseDeTarefas/Entrevistas/entrevistaSander.md'
         - Nível 2:
           - Protótipo de Papel:
             - 'Protótipo de papel': './prototipo_papel_doc/PlanejamentoAvaliPropPapel.md'
             - 'Planejamento da Avaliação do Protótipo': './prototipo_papel_doc/PlanejamentoAvaliPropPapelV2.md'
     - Verificação:
         - 'Planejamento da Verificação': './verificacao/planejamento.md'
+        - Análise de Tarefas:
+          - 'Análise de Tarefas Concorrentes' : './verificacao/analiseDeTarefas/ctt.md'
+          - 'Análise de Tarefas GOMS' : './verificacao/analiseDeTarefas/goms.md'
+          - 'Análise de Tarefas Hierárquica' : './verificacao/analiseDeTarefas/hierarquica.md'
         - 'Guia de Estilo': './verificacao/guiaDeEstilo.md'
-        - 'Planejamento Avaliação Protótipo de Papel': './verificacao/planejAvaliPropPapel.md'
         - 'Personas' : './verificacao/personas.md'
-        - 'Análise de Tarefas' : './verificacao/analiseDeTarefas.md'
+        - 'Planejamento Avaliação Protótipo de Papel': './verificacao/planejAvaliPropPapel.md'
+        - 'Storyboard' : './verificacao/storyboard.md'
+        
+
     - Apresentações:
         - 'Ponto de controle 1': './apresentacoes/apresentacao1.md'
         - 'Ponto de controle 2': './apresentacoes/apresentacao2.md'
