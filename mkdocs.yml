@@ -47,7 +47,11 @@ nav:
         - 'Guia de Estilo': './verificacao/guiaDeEstilo.md'
         - 'Planejamento Avaliação Protótipo de Papel': './verificacao/planejAvaliPropPapel.md'
         - 'Personas' : './verificacao/personas.md'
-        - 'Análise de Tarefas' : './verificacao/analiseDeTarefas.md'
+        - Análise de Tarefas:
+          - 'Análise de Tarefas Hierárquica' : './verificacao/analiseDeTarefas/hierarquica.md'
+          - 'Análise de Tarefas GOMS' : './verificacao/analiseDeTarefas/goms.md'
+          - 'Análise de Tarefas Concorrentes' : './verificacao/analiseDeTarefas/ctt.md'
+
     - Apresentações:
         - 'Ponto de controle 1': './apresentacoes/apresentacao1.md'
         - 'Ponto de controle 2': './apresentacoes/apresentacao2.md'
