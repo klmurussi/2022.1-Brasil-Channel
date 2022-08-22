@@ -46,6 +46,7 @@ nav:
         - 'Planejamento da Verificação': './verificacao/planejamento.md'
         - 'Guia de Estilo': './verificacao/guiaDeEstilo.md'
         - 'Planejamento Avaliação Protótipo de Papel': './verificacao/planejAvaliPropPapel.md'
+        - 'Personas' : './verificacao/personas.md'
     - Apresentações:
         - 'Ponto de controle 1': './apresentacoes/apresentacao1.md'
         - 'Ponto de controle 2': './apresentacoes/apresentacao2.md'
