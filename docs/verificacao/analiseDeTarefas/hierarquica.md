@@ -1,4 +1,4 @@
-# Verificação Análise de Tarefas Hierárquicas
+# Verificação Análise de Tarefas Hierárquicas (HTA)
 
 ## 1. Introdução
 
@@ -19,27 +19,65 @@
 
 |ID|Questão| Inspeção |
 |-----------|-------------|-------------|
-| 1  |  ||
-| 2  |  ||
-| 3  |  ||
-| 4  |  ||
-| 5  |  ||
-| 6  |  ||
-| 7  |  ||
-| 8  |  ||
-| 9  |  ||
-| 10 |  ||
+| 1  |  O documento possui introdução? ||
+| 2  |  O documento possui objetivo? ||
+| 3  |  Descrição do processo de como fizeram o documento? ||
+| 4  |  Cada tarefa possui representação textual? ||
+| 5  |  Cada tarefa possui representação gráfica? ||
+| 6  |  As tarefas complexas estão decompostas em uma hierarquia de objetivos, subobjetivos e operações? ||
+| 7  |  Cada tarefa possui uma tabela com os problemas e recomendações? ||
+| 8  |  As tarefas estão condizentes com o site do Brasil Channel? ||
+| 9  |  Estão identificadas as operações significativas? (Utilizando o método p x c) ||
+| 10 |  O documento possui conclusão? ||
 
 </center>
 
 <figcaption align='center'>
-    <b>Tabela 1: Preparação Checklist - Análise de Tarefas Hierárquicas </b>
-    <br><small> Fonte: Tabela de considerações da apresentação da etapa 2 da disciplina de IHC</small>
+    <b>Tabela 1: Preparação Checklist - HTA </b>
+    <br><small> Fonte: Elaboração própria</small>
 </figcaption>
 
 ## 3. Inspeção Análise de Tarefas Hierárquicas
 
+&emsp;&emsp;A checklist após inspeção do HTA pode ser encontrada abaixo:
+
+<center>
+
+|ID|Questão| Inspeção |
+|-----------|-------------|-------------|
+| 1  |  O documento possui introdução? | ✅ |
+| 2  |  O documento possui objetivo? | ❌ |
+| 3  |  Descrição do processo de como fizeram o documento? | ❌ |
+| 4  |  Cada tarefa possui representação textual? | ✅  |
+| 5  |  Cada tarefa possui representação gráfica? | ✅ |
+| 6  |  As tarefas complexas estão decompostas em uma hierarquia de objetivos, subobjetivos e operações? | ✅ |
+| 7  |  Cada tarefa possui uma tabela com os problemas e recomendações? | ❌ |
+| 8  |  As tarefas estão condizentes com o site do Brasil Channel? | ✅ |
+| 9  |  Estão identificadas as operações significativas? (Utilizando o método p x c) | ❌ |
+| 10 |  O documento possui conclusão? | ❌ |
+
+</center>
+
+<figcaption align='center'>
+    <b>Tabela 2: Checklist Inspeção - HTA </b>
+    <br><small> Fonte: Elaboração própria</small>
+</figcaption>
+
+
 ### 3.1 Resultados
+
+&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento não atende 5 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 50% como podemos ver a partir do gráfico abaixo:
+
+<center>
+
+![Grafico](../../assets/graficosVerificacao/grafico1_hta.png)
+
+</center>
+
+<figcaption align='center'>
+    <b>Figura 1: Gráfico resultado inspeção HTA </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 
 ## Historico de Versão 
 

@@ -102,7 +102,7 @@
 </center>
 
 <figcaption align='center'>
-    <b>Tabela 2: Checklist Inspeção - Storyboard V2</b>
+    <b>Tabela 3: Checklist Inspeção - Storyboard V2</b>
     <br><small> Fonte: Elaboração própria</small>
 </figcaption>
 
@@ -117,7 +117,7 @@
 </center>
 
 <figcaption align='center'>
-    <b>Figura 1: Gráfico resultado inspeção Storyboard </b>
+    <b>Figura 2: Gráfico resultado inspeção Storyboard </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
