@@ -19,15 +19,13 @@
 
 |ID|Questão| Inspeção |
 |-----------|-------------|-------------|
-| 1 | São apresentados os objetivos claros para a avaliação? ||
-| 2 | São apresentadas perguntas a serem respondidas com a avaliação?||
-| 3 | Apresenta os métodos de avaliação a serem utilizados?||
-| 4 | Apresenta informações sobre o perfil dos usuários que participarão das entrevistas?||
-| 5 | Apresenta o número de usuários que partciparão da avaliação e a razão deste número?||
-| 6 | Apresenta informações sobre as questões éticas?||
-| 7 | Apresenta um cronograma para a realização da avaliação?||
-| 8 | Apresenta o que o avaliador deve realizar durante a avaliação?||
-| 9 | Apresenta planejamento para realização de um teste piloto?||
+| 1 | O documento deixa claro os objetivos ? |  |
+| 2 | Apresenta os métodos de avaliação a serem utilizados ? |  |
+| 3 | Apresenta a motivação que leva o usuário a utilizar a aplicação ?  |
+| 4 | Apresenta as tarefas a serem cumpridas ? | |
+| 5 | Apresenta os passos de execução da tarefa ? | |
+| 6 | Apresenta que dados se pretende coletar ? | |
+| 7 | Foi mostrado os resultados obtidos ? | | 
 
 </center>
 
