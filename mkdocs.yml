@@ -49,6 +49,7 @@ nav:
           - 'Análise de Tarefas Concorrentes' : './verificacao/analiseDeTarefas/ctt.md'
           - 'Análise de Tarefas GOMS' : './verificacao/analiseDeTarefas/goms.md'
           - 'Análise de Tarefas Hierárquica' : './verificacao/analiseDeTarefas/hierarquica.md'
+        - 'Princípios Gerais do Projeto': './verificacao/principiosGerais.md'
         - 'Guia de Estilo': './verificacao/guiaDeEstilo.md'
         - 'Personas' : './verificacao/personas.md'
         - 'Planejamento Avaliação Protótipo de Papel': './verificacao/planejAvaliPropPapel.md'
