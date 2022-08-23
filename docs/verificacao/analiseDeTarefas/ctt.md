@@ -78,6 +78,8 @@
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
+&emsp;&emsp;Dessa forma com o objetivo de melhorarmos a qualidade do artefato, é necessário gerar uma segunda versão.
+
 ## Historico de Versão 
 
 |    Versão    | Alteração| Responsavel        | Revisor     | Data
