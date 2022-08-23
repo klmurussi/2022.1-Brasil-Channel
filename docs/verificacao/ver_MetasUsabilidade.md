@@ -6,7 +6,7 @@
 
 ## 2. Preparação
   
-&emsp;&emsp;A inspeção foi realizada utilizando um "checklist" com perguntas fundamentadas nas referências utilizadas para a elaboração do artefato e os critérios de avaliação do aterfato adotados na disciplina. Dessa forma, analisamos se este documento está correto com base nessas perguntas.  
+&emsp;&emsp;A inspeção foi realizada utilizando um "checklist" com perguntas fundamentadas nas referências utilizadas para a elaboração do artefato e dos critérios de avaliação adotados na disciplina. Dessa forma, analisamos se este documento está correto com base nessas perguntas.  
 
 &emsp;&emsp;Quando o critério for satisfeito, terá um "check" confirmando e quando não for satisfeito, terá um "X" dizendo que não está correto. Conforme a legenda a seguir:  
 
