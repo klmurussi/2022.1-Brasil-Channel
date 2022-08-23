@@ -79,6 +79,7 @@
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
+&emsp;&emsp; Desta forma, decidimos que no momento não havia a necessidade de ser gerada uma segunda versão do artefato.
 
 ## Histórico de Versão 
 
