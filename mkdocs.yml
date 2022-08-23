@@ -42,7 +42,7 @@ nav:
               - 'Entrevista Pamella': './storyboard/entrevistaPamella.md'
         - Nível 2:
           - Protótipo de Papel:
-            - 'Protótipo de papel': './prototipo_papel_doc/PlanejamentoAvaliPropPapel.md'
+            - 'Protótipo de papel': './prototipo_papel_doc/PrototipodePapel_docs.md'
             - 'Planejamento da Avaliação do Protótipo': './prototipo_papel_doc/PlanejamentoAvaliPropPapelV2.md'
     - Verificação:
         - 'Planejamento da Verificação': './verificacao/planejamento.md'
@@ -54,6 +54,7 @@ nav:
         - 'Guia de Estilo': './verificacao/guiaDeEstilo.md'
         - 'Perfil do Usuário': './verificacao/PerfilUsuario.md'
         - 'Personas' : './verificacao/personas.md'
+        - 'Protótipo de Papel' : './verificacao/PrototipoPapel.md'
         - 'Planejamento Avaliação Protótipo de Papel': './verificacao/planejAvaliPropPapel.md'
         - 'Storyboard' : './verificacao/storyboard.md'
         - 'Avaliação da análise de Tarefas': './verificacao/ver_AvaliacaoAnaliseTarefas.md'
