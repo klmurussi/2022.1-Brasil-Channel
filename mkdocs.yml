@@ -14,6 +14,7 @@ nav:
         - Análise de Tarefas: 
           - 'Analise Hierárquica': './analiseRequisitos/AnaliseDeTarefas/analiseTarefas.md'
           - 'Análise GOMS': './analiseRequisitos/AnaliseDeTarefas/analiseTarefa_Goms.md'
+          - 'Análise GOMS - Versão 2': './analiseRequisitos/AnaliseDeTarefas/analiseTarefa_Goms_V2.md'
           - 'Análise CTT' : './analiseRequisitos/AnaliseDeTarefas/analiseTarefa_CTT.md'
         - 'Aspectos Éticos': './analiseRequisitos/aspectosEticos.md'
         - 'Guia de Estilo': './analiseRequisitos/guiaDeEstilo.md'
