@@ -114,10 +114,11 @@
 
 |    Versão    | Alteração| Responsavel        | Revisor     | Data
 | :--------: | :----: | :------------------: | :-------------: |:----:|
-| 1.0| Criação do documento | Pedro | Samuel | 21/08/2022 |
-| 1.1| Correção de Erros | Pedro | Samuel | 22/08/2022 |
+| 1.0| Criação do documento | Pedro |  | 21/08/2022 |
+| 1.1| Correção de Erros | Pedro | | 22/08/2022 |
 
 ## Referências
 
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de IHC no curso de Engenharia de Software da UnB, FGA.
 
+- BARROS, André. Aula 16 – Atividade de Conteúdo (Individual): Resumo da aula 16: Apresentação do projeto etapa 4: Planejamento da Avaliação do Storyboard e Análise de tarefas e planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas. Material apresentado para a disciplina de IHC no curso de Engenharia de Software da UnB, FGA.
