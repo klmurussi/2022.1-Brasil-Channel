@@ -116,12 +116,13 @@
     <b>Figura 2: Gráfico principios Gerais V2 </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
+
 ## Histórico de Versão 
 
 |    Versão    | Alteração| Responsavel        | Revisor     | Data
 | :--------: | :----: | :------------------: | :-------------: |:----:|
-| 1.0| Criação do documento | Samuel | - | 21/08/2022 |
-
+| 1.0| Criação do documento | Samuel | Lucas | 21/08/2022 |
+| 1.1| Arquivo revisado| Lucas | - | 22/08/2022 |
 ## Referências
 
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de IHC no curso de Engenharia de Software da UnB, FGA.
