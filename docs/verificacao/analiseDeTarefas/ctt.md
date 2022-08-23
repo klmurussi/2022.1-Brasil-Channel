@@ -19,27 +19,64 @@
 
 |ID|Questão| Inspeção |
 |-----------|-------------|-------------|
-| 1  |  ||
-| 2  |  ||
-| 3  |  ||
-| 4  |  ||
-| 5  |  ||
-| 6  |  ||
-| 7  |  ||
-| 8  |  ||
-| 9  |  ||
-| 10 |  ||
+| 1  |  O documento possui introdução? ||
+| 2  |  O documento possui objetivo? ||
+| 3  |  Descrição do processo de como fizeram o documento? ||
+| 4  |  Possui a árvore de representação do CTT? ||
+| 6  |  Explica as relações entre tarefas no CTT? ||
+| 7  |  Utiliza as relações entre tarefas no CTT corrretamente? ||
+| 7  |  Apresenta representação gráfica da análise de tarefa? ||
+| 8  |  Apresenta representação textual da análise de tarefa? ||
+| 9  |  As tarefas estão condizentes com o site do Brasil Channel? ||
+| 10 |  O documento possui conclusão? ||
 
 </center>
 
 <figcaption align='center'>
-    <b>Tabela 1: Preparação Checklist - Análise de Tarefas Concorrentes </b>
-    <br><small> Fonte: Tabela de considerações da apresentação da etapa 2 da disciplina de IHC</small>
+    <b>Tabela 1: Preparação Checklist - CTT </b>
+    <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
 ## 3. Inspeção Análise de Tarefas Concorrentes
 
+&emsp;&emsp;A checklist após inspeção do CTT pode ser encontrada abaixo:
+
+<center>
+
+|ID|Questão| Inspeção |
+|-----------|-------------|-------------|
+| 1  |  O documento possui introdução? | ✅ |
+| 2  |  O documento possui objetivo? | ❌ |
+| 3  |  Descrição do processo de como fizeram o documento? | ❌ |
+| 4  |  Possui a árvore de representação do CTT? | ✅ |
+| 6  |  Explica as relações entre tarefas no CTT? | ✅ |
+| 7  |  Utiliza as relações entre tarefas no CTT corrretamente? | ✅ |
+| 7  |  Apresenta representação gráfica da análise de tarefa? | ✅ |
+| 8  |  Apresenta representação textual da análise de tarefa? | ❌ |
+| 9  |  As tarefas estão condizentes com o site do Brasil Channel? | ✅ |
+| 10 |  O documento possui conclusão? | ❌ |
+
+</center>
+
+<figcaption align='center'>
+    <b>Tabela 2: Checklist Inspeção - CTT </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
+
 ### 3.1 Resultados
+
+&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento não atende 4 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 60% como podemos ver a partir do gráfico abaixo:
+
+<center>
+
+![Grafico](../../assets/graficosVerificacao/grafico1_ctt.png)
+
+</center>
+
+<figcaption align='center'>
+    <b>Figura 1: Gráfico resultado inspeção GOMS </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 
 ## Historico de Versão 
 
@@ -48,3 +85,5 @@
 | 1.0 | Criação do documento | Lara | - | 21/08/2022 |
 
 ## Referências
+
+- BARROS, André. Aula 09 - Capítulo 06 - Organização do Espaço de Problema – Livro IHC: Barbosa e Silva. Material apresentado para a disciplina de IHC no curso de Engenharia de Software da UnB, FGA.
