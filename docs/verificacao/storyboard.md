@@ -48,7 +48,7 @@
 | 1  |  O documento possui introdução? | ✅ |
 | 2  |  O documento possui objetivo? | ✅ |
 | 3  |  O documento possui metodologia? | ✅ |
-| 4  |  O storyboard possui um planejamento? | ❌ |
+| 4  |  O storyboard possui um planejamento? | ✅ |
 | 5  |  As personas são condizentes com os perfis de usuário? | ✅ |
 | 6  |  Os storyboards possuem cenários condizentes com a realidade? | ✅ |
 | 7  |  Os storyboards possuem tarefas condizentes com a realidade? | ✅ |
@@ -66,7 +66,7 @@
 
 ### 3.1 Resultados
 
-&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento não atende 1 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 90% como podemos ver a partir do gráfico abaixo:
+&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento atende os critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
 
 <center>
 
@@ -76,48 +76,6 @@
 
 <figcaption align='center'>
     <b>Figura 1: Gráfico resultado inspeção Storyboard </b>
-    <br><small> Fonte: Elaboração Própria </small>
-</figcaption>
-
-&emsp;&emsp;Dessa forma com o objetivo de melhorarmos a qualidade do artefato, geramos uma segunda versão do mesmo cumprindo com os critérios da checklist.
-
-## 4. Inspeção Storyboard V2
-&emsp;&emsp; A versão 2 da checklist com os critérios de avaliação pode ser encontrado abaixo: 
-
-<center>
-
-|ID|Questão| Inspeção |
-|-----------|-------------|-------------|
-| 1  |  O documento possui introdução? | ✅ |
-| 2  |  O documento possui objetivo? | ✅ |
-| 3  |  O documento possui metodologia? | ✅ |
-| 4  |  O storyboard possui um planejamento? | ✅ |
-| 5  |  As personas são condizentes com os perfis de usuário? | ✅ |
-| 6  |  Os storyboards possuem cenários condizentes com a realidade? | ✅ |
-| 7  |  Os storyboards possuem tarefas condizentes com a realidade? | ✅ |
-| 8  |  Os storyboards possuem uma tabela com os passos de realização de cada tarefa? | ✅ |
-| 9  |  Os storyboards possuem o resultado (satisfação) de cada persona ao realizar a tarefa? | ✅ |
-| 10 |  O documento possui conclusão? | ✅ |
-
-</center>
-
-<figcaption align='center'>
-    <b>Tabela 3: Checklist Inspeção - Storyboard V2</b>
-    <br><small> Fonte: Elaboração própria</small>
-</figcaption>
-
-### 4.1 Resultados
-
-&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento atende os critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
-
-<center>
-
-![Grafico](../assets/graficosVerificacao/grafico2_storyboard.png)
-
-</center>
-
-<figcaption align='center'>
-    <b>Figura 2: Gráfico resultado inspeção Storyboard </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
