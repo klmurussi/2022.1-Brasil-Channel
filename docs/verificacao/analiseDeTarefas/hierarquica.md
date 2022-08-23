@@ -86,3 +86,5 @@
 | 1.0 | Criação do documento | Lara | - | 21/08/2022 |
 
 ## Referências
+
+- BARROS, André. Aula 09 - Capítulo 06 - Organização do Espaço de Problema – Livro IHC: Barbosa e Silva. Material apresentado para a disciplina de IHC no curso de Engenharia de Software da UnB, FGA.
