@@ -13,6 +13,7 @@ nav:
     - Análise de Requisitos:
         - Análise de Tarefas: 
           - 'Analise Hierárquica': './analiseRequisitos/AnaliseDeTarefas/analiseTarefas.md'
+          - 'Analise Hierárquica - Versão 2': './analiseRequisitos/AnaliseDeTarefas/analiseTarefa_HTA_V2.md'
           - 'Análise GOMS': './analiseRequisitos/AnaliseDeTarefas/analiseTarefa_Goms.md'
           - 'Análise GOMS - Versão 2': './analiseRequisitos/AnaliseDeTarefas/analiseTarefa_Goms_V2.md'
           - 'Análise CTT' : './analiseRequisitos/AnaliseDeTarefas/analiseTarefa_CTT.md'

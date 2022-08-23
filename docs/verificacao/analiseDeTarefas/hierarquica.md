@@ -37,7 +37,7 @@
     <br><small> Fonte: Elaboração própria</small>
 </figcaption>
 
-## 3. Inspeção Análise de Tarefas Hierárquicas
+## 3. Inspeção HTA
 
 &emsp;&emsp;A checklist após inspeção do HTA pode ser encontrada abaixo:
 
@@ -45,8 +45,8 @@
 
 |ID|Questão| Inspeção |
 |-----------|-------------|-------------|
-| 1  |  O documento possui introdução? | ✅ |
-| 2  |  O documento possui objetivo? | ❌ |
+| 1  |  O documento possui introdução? | ❌ |
+| 2  |  O documento possui objetivo? | ✅ |
 | 3  |  Descrição do processo de como fizeram o documento? | ❌ |
 | 4  |  Cada tarefa possui representação textual? | ✅  |
 | 5  |  Cada tarefa possui representação gráfica? | ✅ |
@@ -78,6 +78,52 @@
     <b>Figura 1: Gráfico resultado inspeção HTA </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
+
+&emsp;&emsp;Dessa forma com o objetivo de melhorarmos a qualidade do artefato, geramos uma [segunda versão](../../analiseRequisitos/AnaliseDeTarefas/analiseTarefa_HTA_V2.md) do mesmo cumprindo com os critérios da checklist.
+
+## 4. Inspeção HTA Versão 2
+
+&emsp;&emsp;A checklist após inspeção da HTA pode ser encontrada abaixo:
+
+<center>
+
+|ID|Questão| Inspeção |
+|-----------|-------------|-------------|
+| 1  |  O documento possui introdução? | ✅ |
+| 2  |  O documento possui objetivo? | ✅ |
+| 3  |  Descrição do processo de como fizeram o documento? | ✅ |
+| 4  |  Cada tarefa possui representação textual? | ✅  |
+| 5  |  Cada tarefa possui representação gráfica? | ❌ |
+| 6  |  As tarefas complexas estão decompostas em uma hierarquia de objetivos, subobjetivos e operações? | ✅ |
+| 7  |  Cada tarefa possui uma tabela com os problemas e recomendações? | ❌ |
+| 8  |  As tarefas estão condizentes com o site do Brasil Channel? | ✅ |
+| 9  |  Estão identificadas as operações significativas? (Utilizando o método p x c) | ❌ |
+| 10 |  O documento possui conclusão? | ❌ |
+
+</center>
+
+<figcaption align='center'>
+    <b>Tabela 2: Checklist Inspeção - HTA Versão 2 </b>
+    <br><small> Fonte: Elaboração própria</small>
+</figcaption>
+
+### 4.1 Resultados
+
+&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento não atende 4 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 60% como podemos ver a partir do gráfico abaixo:
+
+<center>
+
+![Grafico](../../assets/graficosVerificacao/grafico2_hta.png)
+
+</center>
+
+<figcaption align='center'>
+    <b>Figura 1: Gráfico resultado inspeção HTA </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
+
+&emsp;&emsp;Dessa forma com o objetivo de melhorarmos a qualidade do artefato, é necessário gerar uma terceira versão.
+
 
 ## Historico de Versão 
 
