@@ -23,8 +23,7 @@
 | 2  |  O documento possui objetivo? ||
 | 3  |  Descrição do processo de como fizeram o documento? ||
 | 4  |  Possui a árvore de representação do CTT? ||
-| 6  |  Explica as relações entre tarefas no CTT? ||
-| 7  |  Utiliza as relações entre tarefas no CTT corrretamente? ||
+| 6  |  Utiliza as relações entre tarefas no CTT corrretamente? ||
 | 7  |  Apresenta representação gráfica da análise de tarefa? ||
 | 8  |  Apresenta representação textual da análise de tarefa? ||
 | 9  |  As tarefas estão condizentes com o site do Brasil Channel? ||
@@ -49,8 +48,7 @@
 | 2  |  O documento possui objetivo? | ❌ |
 | 3  |  Descrição do processo de como fizeram o documento? | ❌ |
 | 4  |  Possui a árvore de representação do CTT? | ✅ |
-| 6  |  Explica as relações entre tarefas no CTT? | ✅ |
-| 7  |  Utiliza as relações entre tarefas no CTT corrretamente? | ✅ |
+| 6  |  Utiliza as relações entre tarefas no CTT corrretamente? | ✅ |
 | 7  |  Apresenta representação gráfica da análise de tarefa? | ✅ |
 | 8  |  Apresenta representação textual da análise de tarefa? | ❌ |
 | 9  |  As tarefas estão condizentes com o site do Brasil Channel? | ✅ |

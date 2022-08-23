@@ -51,10 +51,10 @@
 | 4  |  As tarefas são descritas em termos de objetivos, operadores, métodos e regras de seleção? | ✅ |
 | 6  |  Utilizado o modelo KLM? | ✅ |
 | 7  |  Utilizado o modelo CMN? | ✅ |
-| 7  |  Utilizado o modelo CPM? | ✅ |
-| 8  |  Possui as tabelas correspondentes aos resultados das análises de KLM,CMN e CPM? | ✅ |
-| 9  |  Há resultado da análise do site do Brasil Channel? | ✅ |
-| 10 |  Os resultados estão condizentes com o site do Brasil Channel? | ✅ |
+| 8  |  Utilizado o modelo CPM? | ✅ |
+| 9  |  Possui as tabelas correspondentes aos resultados das análises de KLM,CMN e CPM? | ✅ |
+| 10  |  Há resultado da análise do site do Brasil Channel? | ✅ |
+| 11 |  Os resultados estão condizentes com o site do Brasil Channel? | ✅ |
 
 </center>
 
