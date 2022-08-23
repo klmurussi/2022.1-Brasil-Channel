@@ -66,7 +66,7 @@
 
 <center>
 
-![Grafico](../assets/graficosVerificacao/../../../site/assets/graficosVerificacao/GraficoPerfilUsuarioV1.png)
+![Grafico](../assets/graficosVerificacao/GraficoPerfilUsuarioV1.png)
 
 </center>
 
@@ -104,7 +104,7 @@
 
 <center>
 
-![Grafico](../assets/graficosVerificacao/../../../site/assets/graficosVerificacao/GraficoPerfilUsuarioV2.png)
+![Grafico](../assets/graficosVerificacao/GraficoPerfilUsuarioV2.png)
 
 </center>
 

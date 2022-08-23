@@ -64,7 +64,7 @@
 
 <center>
 
-![Grafico](../assets/graficosVerificacao/../../../site/assets/graficosVerificacao/GarficoProtopPapelV1.png)
+![Grafico](../assets/graficosVerificacao/GarficoProtopPapelV1.png)
 
 </center>
 
@@ -101,7 +101,7 @@
 
 <center>
 
-![Grafico](../assets/graficosVerificacao/../../../site/assets/graficosVerificacao/GraficoProtopPapelV2.png)
+![Grafico](../assets/graficosVerificacao/GraficoProtopPapelV2.png)
 
 </center>
 
