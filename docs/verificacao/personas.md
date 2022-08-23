@@ -94,6 +94,6 @@
 
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de IHC no curso de Engenharia de Software da UnB, FGA.
 
-- BARROS, André. Aula 16 – Atividade de Conteúdo ( Individual): Resumo da aula 16: Apresentação do projeto etapa 4: Planejamento da Avaliação do Storyboard e Análise de tarefas e planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas. Material apresentado para a disciplina de IHC no curso de Engenharia de Software da UnB, FGA.
+- BARROS, André. Aula 13 – Atividade de Conteúdo ( Individual): Resumo da aula 13: Apresentação do projeto etapa 2: Perfil do usuário, aspectos éticos de pesquisa com pessoas, personas e análise de tarefas. Material apresentado para a disciplina de IHC no curso de Engenharia de Software da UnB, FGA.
 
 - BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010. 
