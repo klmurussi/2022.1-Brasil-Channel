@@ -117,7 +117,7 @@
 </center>
 
 <figcaption align='center'>
-    <b>Figura 1: Gráfico resultado inspeção GOMS Versão 2 </b>
+    <b>Figura 2: Gráfico resultado inspeção GOMS Versão 2 </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
@@ -127,7 +127,8 @@
 
 |    Versão    | Alteração| Responsavel        | Revisor     | Data
 | :--------: | :----: | :------------------: | :-------------: |:----:|
-| 1.0 | Criação do documento | Lara | - | 21/08/2022 |
+| 1.0 | Criação do documento | Lara | Lucas | 21/08/2022 |
+| 1.1 | Arquivo revisado | Lucas | - | 22/08/2022 |
 
 ## Referências
 
