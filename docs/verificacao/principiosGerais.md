@@ -45,8 +45,8 @@
 |ID|Questão| Inspeção |
 |-----------|-------------|-------------|
 | 1 | O artefato de princípios gerais apresenta uma introdução? |✅ |
-| 2 | É apresentado de onde foi retirado os princípios? |✅|
-| 3 | É apresentado quais princípios serão utilizados no projeto? |✅|
+| 2 | É apresentado os princípios? |✅|
+| 3 | É apresentado quais princípios serão utilizados no projeto? |❌|
 | 4 | Contém informações bem explicadas e breves de cada princípio? |✅|
 | 5 |  É apresentado como os Princípios Gerais do Projeto serão utilizados no projeto?|✅|
 | 6 | Os tópicos foram explicados corretamente? |✅|
@@ -63,11 +63,11 @@
 </figcaption>
 
 ### 3.1 Resultados
-&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento atende os 8 critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
+&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento não atende 1 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 87,5% como podemos ver a partir do gráfico abaixo:
 
 <center>
 
-![Grafico](../assets/graficosVerificacao/GraficoVerificacaoPlanejProtipV2.png)
+![Grafico](../assets/graficosVericicacao/../../../site/assets/graficosVerificacao/principios.png)
 
 </center>
 
@@ -76,8 +76,46 @@
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
-&emsp;&emsp; Desta forma, decidimos que no momento não havia a necessidade de ser gerada uma segunda versão do artefato.
+&emsp;&emsp; Dessa forma com o objetivo de melhorarmos a qualidade do artefato, geramos uma segunda versão do mesmo cumprindo com os critérios da checklist.
 
+## 4. Inspeção Planejamento Avaliação Protótipo de papel V2
+&emsp;&emsp; A versão 2 da checklist com os critérios de avaliação pode ser encontrado abaixo: 
+
+<center>
+
+|ID|Questão| Inspeção |
+|-----------|-------------|-------------|
+| 1 | O artefato de princípios gerais apresenta uma introdução? |✅ |
+| 2 | É apresentado os princípios? |✅|
+| 3 | É apresentado quais princípios serão utilizados no projeto? |✅|
+| 4 | Contém informações bem explicadas e breves de cada princípio? |✅|
+| 5 |  É apresentado como os Princípios Gerais do Projeto serão utilizados no projeto?|✅|
+| 6 | Os tópicos foram explicados corretamente? |✅|
+| 7 | Possui todas as informações necessárias? |✅|
+| 8 | É apresentado uma conclusão do artefato? |✅|
+
+
+
+</center>
+
+<figcaption align='center'>
+    <b>Tabela 3: checklist inspeção Princípios Gerais V2 </b>
+    <br><small> Fonte: Elaboração Própria</small>
+</figcaption>
+
+### 4.1 Resultados da inspeção V2
+&emsp;&emsp;A partir da inspeção da segunda versão do artefato verificamos que o documento atende com todos os critérios de avaliação definidos na checklist, como pode ser obervado a partir do gráfico abaixo:
+
+<center>
+
+![Grafico](../assets/graficosVerificacao/../../../site/assets/graficosVerificacao/principiosV2.png)
+
+</center>
+
+<figcaption align='center'>
+    <b>Figura 2: Gráfico principios Gerais V2 </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 ## Histórico de Versão 
 
 |    Versão    | Alteração| Responsavel        | Revisor     | Data
