@@ -78,7 +78,7 @@
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
-&emsp;&emsp;Dessa forma com o objetivo de melhorarmos a qualidade do artefato, geramos uma segunda versão do mesmo cumprindo com os critérios da checklist.
+&emsp;&emsp;Dessa forma com o objetivo de melhorarmos a qualidade do artefato, geramos uma [segunda versão](../../analiseRequisitos/AnaliseDeTarefas/analiseTarefa_Goms_V2.md) do mesmo cumprindo com os critérios da checklist.
 
 ## 4. Inspeção GOMS Versão 2
 
