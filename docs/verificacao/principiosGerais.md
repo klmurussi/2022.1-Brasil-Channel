@@ -67,7 +67,7 @@
 
 <center>
 
-![Grafico](../assets/graficosVericicacao/../../../site/assets/graficosVerificacao/principios.png)
+![Grafico](../assets/graficosVerificacao/principios.png)
 
 </center>
 
@@ -108,7 +108,7 @@
 
 <center>
 
-![Grafico](../assets/graficosVerificacao/../../../site/assets/graficosVerificacao/principiosV2.png)
+![Grafico](../assets/graficosVerificacao/principiosV2.png)
 
 </center>
 

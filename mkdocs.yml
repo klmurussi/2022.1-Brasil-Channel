@@ -52,9 +52,13 @@ nav:
           - 'Análise de Tarefas Hierárquica' : './verificacao/analiseDeTarefas/hierarquica.md'
         - 'Princípios Gerais do Projeto': './verificacao/principiosGerais.md'
         - 'Guia de Estilo': './verificacao/guiaDeEstilo.md'
+        - 'Perfil do Usuário': './verificacao/PerfilUsuario.md'
         - 'Personas' : './verificacao/personas.md'
         - 'Planejamento Avaliação Protótipo de Papel': './verificacao/planejAvaliPropPapel.md'
         - 'Storyboard' : './verificacao/storyboard.md'
+        - 'Avaliação da análise de Tarefas': './verificacao/ver_AvaliacaoAnaliseTarefas.md'
+        - 'Metas de Usabilidade': './verificacao/ver_MetasUsabilidade.md'
+        
         
 
     - Apresentações:
