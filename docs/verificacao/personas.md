@@ -87,8 +87,10 @@
 
 |    Versão    | Alteração| Responsavel        | Revisor     | Data
 | :--------: | :----: | :------------------: | :-------------: |:----:|
-| 1.0| Criação do documento | Samuel | - | 21/08/2022 |
-| 1.1| Adição de conteúdo | Samuel | - | 22/08/2022 |
+| 1.0| Criação do documento | Samuel | Lucas | 21/08/2022 |
+| 1.1| Adição de conteúdo | Samuel | Lucas | 22/08/2022 |
+| 1.2| Adição de conteúdo | Samuel | Lucas| 22/08/2022 |
+| 1.3| Arquivo revisado | Lucas | -| 22/08/2022 |
 
 ## Referências
 

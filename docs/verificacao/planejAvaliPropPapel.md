@@ -121,6 +121,8 @@
 |    Versão    | Alteração| Responsavel        | Revisor     | Data
 | :--------: | :----: | :------------------: | :-------------: |:----:|
 | 1.0| Criação do documento | Lucas | Lara | 16/08/2022 |
+| 1.1| Arquivo revisado | Lara | - | 21/08/2022 |
+
 
 ## Referências
 
