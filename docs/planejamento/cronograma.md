@@ -121,10 +121,17 @@
 
 |           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
-|  Relato dos resultados do Protótipo de Papel     |        01/set    | - | - |
-|      Planejamento da Avaliação do protótipo de alta fidelidade       |   01/set     | - | - |
-|     Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade   |   02/set  | - | - |
-|     Gravar apresentação  |    03/set| - | - |
+|  Ajustar Protótipo de papel    |        28/ago    | Levi | Lucas |
+|  Entrevista 1    |        03/set    | Lucas | Pedro |
+|  Entrevista 2    |        03/set    | Lara | Samuel |
+|  Entrevista 3    |        03/set    | Levi | Lucas |
+|  Entrevista 4    |        03/set    | Samuel | Levi |
+|  Entrevista 5    |        03/set    | Pedro | Lara |
+|  Relato dos resultados do Protótipo de Papel     |        04/set    | Samuel | Lucas |
+|  Protótipo de alta fidelidade     |        04/set    | Lucas, Pedro | Lara |
+|      Planejamento da Avaliação do protótipo de alta fidelidade       |   04/set     | Levi | Lara |
+|     Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade   |   04/set  | Levi | Samuel |
+|     Gravar apresentação  |    05/set| Todos | - |
 
 <figcaption align='center'>
     <b>Tabela 7: Planejamento para o sétimo ponto de controle.</b>
