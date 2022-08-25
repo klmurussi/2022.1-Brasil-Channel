@@ -122,15 +122,13 @@
 |           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
 |  Ajustar Protótipo de papel    |        28/ago    | Levi | Lucas |
-|  Entrevista 1    |        03/set    | Lucas | Pedro |
-|  Entrevista 2    |        03/set    | Lara | Samuel |
-|  Entrevista 3    |        03/set    | Levi | Lucas |
-|  Entrevista 4    |        03/set    | Samuel | Levi |
-|  Entrevista 5    |        03/set    | Pedro | Lara |
+|  Entrevistas Avaliação    |        30/ago    | Pedro, Lara, Samuel | Lucas |
 |  Relato dos resultados do Protótipo de Papel     |        04/set    | Samuel | Lucas |
 |  Protótipo de alta fidelidade     |        04/set    | Lucas, Pedro | Lara |
-|      Planejamento da Avaliação do protótipo de alta fidelidade       |   04/set     | Levi | Lara |
+|      Planejamento da Avaliação do protótipo de alta fidelidade       |   04/set     | Lucas | Lara |
 |     Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade   |   04/set  | Levi | Samuel |
+| Terminar analise de tarefas CTT e Hierarquica     |        05/set    |Lara | - |
+| Terminar verifcação avaliação análise de tarefas e metas de usabilidade    |        05/set    |Lara | - |
 |     Gravar apresentação  |    05/set| Todos | - |
 
 <figcaption align='center'>
@@ -142,8 +140,17 @@
 
 |           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
-| Corrigir e completar todos os artefatos     |        09/set    | - | - |
-|      Gravar apresentação     |  10/set| - | - |
+| Atualizar ferramentas     |        07/set    | Lucas | - |
+| Adicionar vídeo teste piloto     |        07/set    | Lucas | - |
+| Melhorar justificativa do site escolhido     |        07/set    | Samuel | - |
+| Verificação avaliação do protótipo de baixa fidelidade     |        09/set    | Lucas | - |
+| Verificação avaliação do protótipo de alta fidelidade     |        09/set    | Lara | - |
+| Revisão checklist analise de tarefas e storyboard     |        09/set    | Lucas | - |
+| Revisão checklist da avaliação das análises de tarefas e metas de usabilidade      |        11/set    | Lara | - |
+| Revisão checklist perfil de usuário e personas      |        11/set    | Levi | - |
+| Revisão checklist guia de estilo e pricípios gerais do projeto      |        11/set    | Pedro | - |
+| Revisar histórico de versões e referências    |        11/set    | Samuel | - |
+|      Gravar apresentação     |  12/set| - | - |
 
 <figcaption align='center'>
     <b>Tabela 8: Planejamento para as correções para a entrega final.</b>
