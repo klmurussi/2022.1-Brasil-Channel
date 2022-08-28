@@ -42,7 +42,7 @@ nav:
               - 'Entrevista Pamella': './storyboard/entrevistaPamella.md'
         - Nível 2:
           - Protótipo de Papel:
-            - 'Protótipo de papel': './prototipo_papel_doc/PrototipodePapel_docs.md'
+            - 'Protótipo de papel': './prototipo_papel_doc/PrototipodePapelV2.md'
             - 'Planejamento da Avaliação do Protótipo': './prototipo_papel_doc/PlanejamentoAvaliPropPapelV2.md'
     - Verificação:
         - 'Planejamento da Verificação': './verificacao/planejamento.md'

@@ -8,13 +8,13 @@
 
 ## 2 - Metodologia
 
-&emsp;&emsp;O método de avaliação que iremos utilizar será o método de prototipação em papel. Onde por meio de desenhos em uma folha, apresentando o grid e funcionalidades que o site vai apresentar, com uma folha para cada ação que o usario fizer, vamos observar dessa maneira como o usuário interagiria com o site.
+&emsp;&emsp;O método de prototipação que iremos utilizar será a prototipação em papel. Onde por meio de desenhos em uma folha, apresentando o grid e funcionalidades que o site vai apresentar, com uma folha para cada ação que o usario fizer, vamos observar dessa maneira como o usuário interagiria com o site.
 
-## 3 - Avaliação  
+## 3 - Tarefas representadas  
 
 ### 3.1 - Definição das tarefas que serão realizadas  
 
-&emsp;&emsp;Para o protótipo de papel vamos utilizar as tarefas abordadas no storyboard:  
+&emsp;&emsp;Para o protótipo de papel vamos utilizar as tarefas abordadas no [storyboard](../storyboard/storyboard.md):  
 
 - Acessar datas comemorativas 
 - Encontrar o site do Ministério da Educação 
@@ -28,8 +28,6 @@
 - Localizar e clicar na aba Brasil 
 - Visualizar o menu flutuante da aba Brasil 
 - Acessar o hiperlink “Datas Comemorativas”
-- Acessar a aba mẽs
-- Acessar a opção Maio
 - Acessar a aba mês
 - Acessar a opção Setembro
 
@@ -40,8 +38,8 @@
 - Acessar a aba Brasil do menu
 - Visualizar o menu flutuante 
 - Acessar o hiperlink “Sites Governamentais”
-- Procurar pelo hiperlink do site do “Ministério da Educação”
 - Acessar a letra inicial do site
+- Procurar pelo hiperlink do site do “Ministério da Educação”
 - Visualizar o hiperlink  
 
 
@@ -53,31 +51,21 @@
 - Visualizar o menu Flutuante 
 - Acessar o hiperlink “Litoral”  
 
-### 3.2 - Participantes e Recrutamento  
-
-&emsp;&emsp;A escolha dos usuários será em referência ao artefato Perfil de Usuário e o recrutamento será via mensagem pelas plataformas WhatsApp e Telegram.
-
-### 3.3 - Execução do teste piloto  
-
-&emsp;&emsp;O teste-piloto está organizado para ser testando por três participantes do grupo, em que um estará gravando o teste, outro estará alternando os papéis a medida que o outro participante interage de acordo com as tarefas propóstas. Assim será testado se o método de avaliação está funcionando e que possa ser avaliado com menos chances de erro na execução.
-
-### 3.4 - O Protótipo de Papel  
+## 4. O Protótipo de Papel  
 
 &emsp;&emsp;A seguir é apresentado o protótipo de papel, elaborado pelo grupo:
 
-<object data="../../assets/prototipo_papel/proto_papel_BC.pdf" type="application/pdf" width="700" height="700">
-    <embed src="../../assets/prototipo_papel/proto_papel_BC.pdf">
+<object data="../../assets/prototipo_papel/Prototipo-Papel-V2.pdf" type="application/pdf" width="700" height="700">
+    <embed src="../../assets/prototipo_papel/Prototipo-Papel-V2.pdf">
         <p>Arquivo pdf mostrando o protótip de papel que vai ser utilizado para avaliação</a>.</p>
     </embed>
 </object>  
 
-### 3.5 - Relatório das avaliações
+<figcaption align='center'>
+    <b>Figura 1: Protótipo de papel Versão 2.</b>
+    <br><small>Fonte: Elaboração própria.</small>
+</figcaption>
 
-&emsp;&emsp;O relatório dos resultados da avaliação serão documentadas no artefato Relato da Avaliação do Prototipo de Papel, onde está o vídeo do teste-piloto e os vídeos dos participantes da avaliação  
-
-## 4 - Conclusão
-
-Este documento tem o intuito de contruir e preparar a avaliação do protótipo de papel.
 
 ## Historico de Versão 
 
@@ -87,7 +75,8 @@ Este documento tem o intuito de contruir e preparar a avaliação do protótipo 
 | 1.1| Criação dos tópicos e do conteúdo | Pedro Caldeira | Levi Queiroz | 16/08/2022 |
 | 1.2| Adição do Protótipo de Papel e Alterações no artefato | Levi Queiroz | Pedro Caldeira | 17/08/2022 |
 | 1.3| revisão do documento | Samuel Macedo | Pedro Caldeira | 17/08/2022 |
-| 2.0| Correções da versão pessada | Pedro Caldeira | | 22/08/2022
+| 2.0| Correções da versão pessada | Pedro Caldeira | Lucas | 22/08/2022 |
+| 2.1|Adicona protótipo de papel V2| Lucas |- |28/08/2022 | 
 
 ## Referências  
 

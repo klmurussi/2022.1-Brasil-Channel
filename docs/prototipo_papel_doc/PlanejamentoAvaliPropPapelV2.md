@@ -38,7 +38,45 @@
 
 &emsp;&emsp; Para responder estas perguntas iremos coduzir as entrevistas da seguinte forma: dois membros do grupo irão conduzir a entrevista, um ficará resposável pela gravação e anotação de pontos que julgar importantes e o outro ficará responsável por conduzir o usuário pela entrevista. Assim, iremos informar uma tarefa a ser realizada no protótipo para o usuário e pedir para que ele explique em voz alta as ações que tomar para realizar esta tarefa. Após a entrevista, iremos utilizar a gravação para análise e geração dos resultados.
 
-## 6. Questões Éticas
+## 6. Tarefas a serem realizadas na avaliação
+
+&emsp;&emsp;Para a avaliação protótipo de papel vamos pedir para que o entrevistado realize as tarefas representadas pelo protótipo:  
+
+- Acessar datas comemorativas 
+- Encontrar o site do Ministério da Educação 
+- Acessar Litoral  
+
+### 6.1 - Acessar datas comemorativas  
+
+&emsp;&emsp;Nessa tarefa o usuário seguira o seguinte caminho:  
+
+- Localizar e clicar na aba Brasil 
+- Visualizar o menu flutuante da aba Brasil 
+- Acessar o hiperlink “Datas Comemorativas”
+- Acessar a aba mês
+- Acessar a opção Setembro
+
+### 6.2 - Encontrar o site do Ministério da Educação  
+
+&emsp;&emsp;O usuário precisará seguir os seguintes passos para a execução da tarefa:  
+
+- Acessar a aba Brasil do menu
+- Visualizar o menu flutuante 
+- Acessar o hiperlink “Sites Governamentais”
+- Acessar a letra inicial do site
+- Procurar pelo hiperlink do site do “Ministério da Educação”
+- Visualizar o hiperlink  
+
+
+### 6.3 - Acessar Litoral  
+
+&emsp;&emsp;O usuário precisará seguir os seguintes passos para a execução da tarefa:  
+
+- Acessar a aba Brasil do menu
+- Visualizar o menu Flutuante 
+- Acessar o hiperlink “Litoral”  
+
+## 7. Questões Éticas
 &emsp;&emsp; Para que possamos garantir que os participantes das entrevistas estejam cientes de como as informações fornecidas por eles serão utilizadas e com o objetivo de contemplar os [Aspectos Éticos](../analiseRequisitos/aspectosEticos.md) definidos para o nosso trabalho, criamos um Termo de Consentimento que será enviado ao participante e, no início da entrevista, iremos solicitar que o participante leia-o, declarando que concorda com as informações apresentadas por ele. O termo de consentimento pode ser encontrado na imagem a baixo ou então a partir deste [link](../assets/prototipo_papel/Termo_de_Consentimento_Prototipo_Papel.pdf).
 
 <center>
@@ -57,7 +95,7 @@
 
 | Entrevistado |                Entrevistador               | Data |         Hora        |  
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|
-|   Teste Piloto  |  Lucas, Samuel, Lara  |  21/08    | 16:00 | 
+|   Teste Piloto  |  Pedro, Samuel, Lara  |  29/08    | 10:00 | 
 |  - |  -  |    -    | - | 
 |   -  |  -  |    -    | - | 
 |   -  |  -  |    -    | - | 
@@ -79,7 +117,9 @@
 | 1.1| Criação dos tópicos e do conteúdo | Pedro Caldeira | Levi Queiroz | 16/08/2022 |
 | 1.2| Adição do Protótipo de Papel e Alterações no artefato | Levi Queiroz | Pedro Caldeira | 17/08/2022 |
 | 1.3| revisão do documento | Samuel Macedo | Pedro Caldeira | 17/08/2022 |
-| 2.0| Criação do documento Planejamento Avaliação Protótipo de papel |Lucas | - | 20/08/2022 |
+| 2.0| Criação do documento Planejamento Avaliação Protótipo de papel |Lucas | Pedro | 20/08/2022 |
+| 2.1| Adiciona fluxo de tarefas |Lucas | - | 28/08/2022 |
+
 
 
 ## Referências
