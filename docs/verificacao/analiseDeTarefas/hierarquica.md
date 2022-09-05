@@ -24,11 +24,12 @@
 | 3  |  Descrição do processo de como fizeram o documento? ||
 | 4  |  Cada tarefa possui representação textual? ||
 | 5  |  Cada tarefa possui representação gráfica? ||
-| 6  |  As tarefas complexas estão decompostas em uma hierarquia de objetivos, subobjetivos e operações? ||
-| 7  |  Cada tarefa possui uma tabela com os problemas e recomendações? ||
-| 8  |  As tarefas estão condizentes com o site do Brasil Channel? ||
-| 9  |  Estão identificadas as operações significativas? (Utilizando o método p x c) ||
-| 10 |  O documento possui conclusão? ||
+| 6  |  Cada tarefa possui uma tabela? ||
+| 7  |  As tarefas complexas estão decompostas em uma hierarquia de objetivos, subobjetivos e operações? ||
+| 8  |  Cada tarefa possui uma tabela com os problemas e recomendações? ||
+| 9  |  As tarefas estão condizentes com o site do Brasil Channel? ||
+| 10  |  Estão identificadas as operações significativas? (Utilizando o método p x c) ||
+| 11 |  O documento possui conclusão? ||
 
 </center>
 
@@ -50,11 +51,12 @@
 | 3  |  Descrição do processo de como fizeram o documento? | ❌ |
 | 4  |  Cada tarefa possui representação textual? | ✅  |
 | 5  |  Cada tarefa possui representação gráfica? | ✅ |
-| 6  |  As tarefas complexas estão decompostas em uma hierarquia de objetivos, subobjetivos e operações? | ✅ |
-| 7  |  Cada tarefa possui uma tabela com os problemas e recomendações? | ❌ |
-| 8  |  As tarefas estão condizentes com o site do Brasil Channel? | ✅ |
-| 9  |  Estão identificadas as operações significativas? (Utilizando o método p x c) | ❌ |
-| 10 |  O documento possui conclusão? | ❌ |
+| 6  |  Cada tarefa possui uma tabela? | ❌ |
+| 7  |  As tarefas complexas estão decompostas em uma hierarquia de objetivos, subobjetivos e operações? | ✅ |
+| 8  |  Cada tarefa possui uma tabela com os problemas e recomendações? | ❌ |
+| 9  |  As tarefas estão condizentes com o site do Brasil Channel? | ✅ |
+| 10 |  Estão identificadas as operações significativas? (Utilizando o método p x c) | ❌ |
+| 11 |  O documento possui conclusão? | ❌ |
 
 </center>
 
@@ -66,7 +68,7 @@
 
 ### 3.1 Resultados
 
-&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento não atende 5 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 50% como podemos ver a partir do gráfico abaixo:
+&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento não atende 6 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 46% como podemos ver a partir do gráfico abaixo:
 
 <center>
 
@@ -79,7 +81,7 @@
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
-&emsp;&emsp;Dessa forma com o objetivo de melhorarmos a qualidade do artefato, geramos uma [segunda versão](../../analiseRequisitos/AnaliseDeTarefas/analiseTarefa_HTA_V2.md) do mesmo cumprindo com os critérios da checklist.
+&emsp;&emsp;Dessa forma com o objetivo de melhorarmos a qualidade do artefato, geramos uma segunda versão do mesmo cumprindo com os critérios da checklist.
 
 ## 4. Inspeção HTA Versão 2
 
@@ -93,12 +95,13 @@
 | 2  |  O documento possui objetivo? | ✅ |
 | 3  |  Descrição do processo de como fizeram o documento? | ✅ |
 | 4  |  Cada tarefa possui representação textual? | ✅  |
-| 5  |  Cada tarefa possui representação gráfica? | ❌ |
-| 6  |  As tarefas complexas estão decompostas em uma hierarquia de objetivos, subobjetivos e operações? | ✅ |
-| 7  |  Cada tarefa possui uma tabela com os problemas e recomendações? | ❌ |
-| 8  |  As tarefas estão condizentes com o site do Brasil Channel? | ✅ |
-| 9  |  Estão identificadas as operações significativas? (Utilizando o método p x c) | ❌ |
-| 10 |  O documento possui conclusão? | ❌ |
+| 5  |  Cada tarefa possui representação gráfica? | ✅ |
+| 6  |  Cada tarefa possui uma tabela? | ✅ |
+| 7  |  As tarefas complexas estão decompostas em uma hierarquia de objetivos, subobjetivos e operações? | ✅ |
+| 8  |  Cada tarefa possui uma tabela com os problemas e recomendações? | ✅ |
+| 9  |  As tarefas estão condizentes com o projeto? | ✅ |
+| 10 |  Estão identificadas as operações significativas? (Utilizando o método p x c) | ✅ |
+| 11 |  O documento possui conclusão? | ✅ |
 
 </center>
 
@@ -109,7 +112,7 @@
 
 ### 4.1 Resultados
 
-&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento não atende 4 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 60% como podemos ver a partir do gráfico abaixo:
+&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento atende todos os critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
 
 <center>
 
@@ -118,11 +121,11 @@
 </center>
 
 <figcaption align='center'>
-    <b>Figura 1: Gráfico resultado inspeção HTA </b>
+    <b>Figura 2: Gráfico resultado inspeção HTA </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
-&emsp;&emsp;Dessa forma com o objetivo de melhorarmos a qualidade do artefato, é necessário gerar uma terceira versão.
+&emsp;&emsp;Desta forma, decidimos que no momento não havia a necessidade de ser gerada uma terceira versão do artefato.
 
 
 ## Historico de Versão 
@@ -130,6 +133,7 @@
 |    Versão    | Alteração| Responsavel        | Revisor     | Data
 | :--------: | :----: | :------------------: | :-------------: |:----:|
 | 1.0 | Criação do documento | Lara | - | 21/08/2022 |
+| 1.1 | Correção da checklist | Lara | - | 05/09/2022 |
 
 ## Referências
 

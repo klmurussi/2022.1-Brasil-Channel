@@ -1,5 +1,18 @@
-## 1 - GOMS (Goals, Operators, Methods, and Selection Rules)
+# GOMS (Goals, Operators, Methods, and Selection Rules)
+
+## 1 - Introdução
+
+&emsp;&emsp;A análise de tarefas é uma ferramenta de análise de dados realizada por especialistas em usabilidade para entender as etapas do processo de interação do usuário com o sistema.
+
+&emsp;&emsp;Neste documento, a análise será realizada por estudantes do grupo 5 de IHC do curso de Engenharia de Software, UnB.
+
+## 2 - Objetivo
+&emsp;&emsp;A análise de tarefas tem como objetivo entender sobre qual é o trabalho dos usuários, como eles o realizam e o porquê. Ela pode ser utilizada em diferentes etapas do desenvolvimento, podendo ser realizada em um produto já existente ou um novo produto, utilizando ou não uma ferramenta computacional. O método utilizado na realização da análise deste documento será utilizado o método GOMS.
+
+## 3 - Metodologia
+
 &emsp;&emsp;Card et al. (1983) sugeriram um conjunto de modelos chamado de família GOMS (Objetivos, Operadores, Métodos e Regras de Seleção) com o objetivo de analisar o desempenho dos usuários competentes de sistemas computacionais, realizando tarefas dentro da sua competência e sem cometer erros.  
+
 &emsp;&emsp;Esses modelos seguem a seguinte linha: 
 
 - **Objetivos**: Representam o que o usuário quer realizar utilizando o software.
@@ -14,7 +27,9 @@
 
 &emsp;&emsp;Dentre os modelos da família GOMS, vai ser apresentado e utilizado o KLM (Card et al., 1983), CMN-GOMS (Card et al., 1983) e CPM-GOMS (John e Gray, 1995).
 
-### 1.1 - KLM (Keystroke-Level Method)
+## 4 - Análise de Tarefas
+
+### 4.1 - Modelo KLM (Keystroke-Level Method)
 
 &emsp;&emsp;O KLM é uma técnica limitada a um conjunto predefinido de operadores primitivos, sendo eles apresentados na tabela 1. Também inclui um conjunto de heurísticas sobre como posicionar operadores mentais durante a preparação e a estimativa de tempos de exeção pode ser utilizada para comparar ideias em tarefas de *benchmark*, fazer um avaliação paramétrica para explorar o espaço definido por importantes variáveise fazer análise sobre as suposições (John, 2003). O KLM é a técnica mais simples da família GOMS. Uma observação é que há mais operadores que podem ser usados para a análise, porem foi escolhido os operadores primitivos citados na tabela 1.
 
@@ -54,7 +69,7 @@
 
 <small><center>Tabela 2 - Tipos de digitadores do operador primitivo K apresentado na tabela 1</center></small>
 
-### 1.2 - Análise de desempenho do web site Brasil Channel com o KLM
+#### 4.1.1 - Resultado da análise de desempenho do web site Brasil Channel com o KLM
 
 &emsp;&emsp;Para a análise, vai ser descrita a seguinte tabela, demostrada na tabela 3:  
 
@@ -144,7 +159,7 @@
 
 &emsp;&emsp;As tabelas utilizadas para realizar a análise de tarefas (tabelas de 1 a 3) foram retiradas do livro da Simone. As tabelas de 4 a 6 foram construidas em referência ao mesmo livro.
 
-### 1.3 - CMN-GOMS
+### 4.2 - Modelo CMN
 
 &emsp;&emsp;Se refere à proposta original de GOMS (Card et al., 1983), em que há uma hierarquia estrita de objetivos, onde os operadores são executadps estritamente em ordem sequencial e os métodos são representados numa notação semelhante a um pseudocódigo, que inclui submétodos e condicionais. Ao desenvolver um modelo GOMS, devemos definir cuidadosamente o que representar, o que não representar, o nivel de detalhamento em referência ao que se quer analizar e tarefas mentais que estejam relacionadas ao design do sistema devem ser incluídas no modelo (Kieras, 2001). O exemplo 1 demonstra, em lista, um modelo GOMS que será utilizado para fazer a análise neste artefato, obtido do livro da Simone. Lembrando que existe mais modelos GOMS para fazer análise de tarefas.  
 
@@ -164,7 +179,7 @@
 ---  
 &emsp;&emsp;Para exemplificar, no GOAL 0 é apresentado a tarefa que está sendo analisada, essa tarefa é o objetivo principal, desse objetivo principal é divido em vários outros subobjetivos, para poder separar o objetivo principal e assim adicionando os pedaços até chegar ao objetivo principal, concluindo a análise.  
 
-### 1.4 Análise de tarefas do web site Brasil Channel com o CMN-GOMS
+#### 4.2.1 - Resultado da análise de tarefas do web site Brasil Channel com o CMN-GOMS
 
 &emsp;&emsp;Utilizando o modelo de exemplo apresentado no tópico anterior, foi feita a análise de três tarefas, sendo elas:  
 
@@ -239,7 +254,7 @@ Aplicando o modelo GOMS, temos:
 ---  
 <br>
 
-### 1.5 - CPM-GOMS
+### 4.3 - Modelo CPM
 
 &emsp;&emsp;Foi assim designado por dois motivos:
 - Representar operadores *cognitivos*, *perceptivos* e *motores*
@@ -259,7 +274,7 @@ Aplicando o modelo GOMS, temos:
 
 <small><center>Figura 1 - Exemplo de modelo CPM-GOMS obtido do livro da Simone cap. 8</center></small>
 
-### 1.6 - Análise de tarefas do web site Brasil Channel com o CPM-GOMS
+#### 4.3.1 - Resultado da análise de tarefas do web site Brasil Channel com o CPM-GOMS
 
 &emsp;&emsp;Foi feita a análise utilizando o modelo CPM-GOMS (com algumas modificações no design) da figura 1 em referência a análise da Tarefa 2 (apenas) apresentada no tópico CMN-GOMS, a seguir é apresentado a figura 2 do resultado da análise:
 
@@ -278,8 +293,9 @@ Aplicando o modelo GOMS, temos:
 |   1.0  | Criação do documento |    Levi Queiroz   |  - | 20/07/2022 |
 |   1.1  | Adição do KLM, CMN e CPM |   Levi Queiroz   | Lucas | 20/07/2022 |
 |   1.2  | Consertando Tarefas CMN |   Levi Queiroz   | - | 20/07/2022 |
-|   1.3 | Consertando Tarefas CPM |   Levi Queiroz   | - | 20/07/2022 |
-|   1.4 | Correções no artefato |   Levi Queiroz   | - | 31/07/2022 |
+|   1.3  | Consertando Tarefas CPM |   Levi Queiroz   | - | 20/07/2022 |
+|   1.4  | Correções no artefato |   Levi Queiroz   | - | 31/07/2022 |
+|   2.0  | Correção no artefato   |  Lara | - | 22/08/2022 |
 
 ## Referências
 

@@ -25,9 +25,7 @@
 | 4  |  Possui a árvore de representação do CTT? ||
 | 6  |  Utiliza as relações entre tarefas no CTT corrretamente? ||
 | 7  |  Apresenta representação gráfica da análise de tarefa? ||
-| 8  |  Apresenta representação textual da análise de tarefa? ||
-| 9  |  As tarefas estão condizentes com o site do Brasil Channel? ||
-| 10 |  O documento possui conclusão? ||
+| 8  |  As tarefas estão condizentes com o projeto? ||
 
 </center>
 
@@ -44,15 +42,13 @@
 
 |ID|Questão| Inspeção |
 |-----------|-------------|-------------|
-| 1  |  O documento possui introdução? | ✅ |
+| 1  |  O documento possui introdução? | ❌ |
 | 2  |  O documento possui objetivo? | ❌ |
-| 3  |  Descrição do processo de como fizeram o documento? | ❌ |
+| 3  |  Descrição do processo de como fizeram o documento? | ✅ |
 | 4  |  Possui a árvore de representação do CTT? | ✅ |
 | 6  |  Utiliza as relações entre tarefas no CTT corrretamente? | ✅ |
 | 7  |  Apresenta representação gráfica da análise de tarefa? | ✅ |
-| 8  |  Apresenta representação textual da análise de tarefa? | ❌ |
-| 9  |  As tarefas estão condizentes com o site do Brasil Channel? | ✅ |
-| 10 |  O documento possui conclusão? | ❌ |
+| 8  |  As tarefas estão condizentes com o projeto? | ✅ |
 
 </center>
 
@@ -63,7 +59,7 @@
 
 ### 3.1 Resultados
 
-&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento não atende 4 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 60% como podemos ver a partir do gráfico abaixo:
+&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento não atende 2 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 75% como podemos ver a partir do gráfico abaixo:
 
 <center>
 
@@ -72,17 +68,58 @@
 </center>
 
 <figcaption align='center'>
-    <b>Figura 1: Gráfico resultado inspeção GOMS </b>
+    <b>Figura 1: Gráfico resultado inspeção CTT </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
-&emsp;&emsp;Dessa forma com o objetivo de melhorarmos a qualidade do artefato, é necessário gerar uma segunda versão.
+&emsp;&emsp;Dessa forma com o objetivo de melhorarmos a qualidade do artefato, geramos uma segunda versão do mesmo cumprindo com os critérios da checklist.
+
+## 4. Inspeção CTT Versão 2
+
+&emsp;&emsp;A checklist após inspeção do GOMS pode ser encontrada abaixo:
+
+<center>
+
+|ID|Questão| Inspeção |
+|-----------|-------------|-------------|
+| 1  |  O documento possui introdução? | ✅ |
+| 2  |  O documento possui objetivo? | ✅ |
+| 3  |  Descrição do processo de como fizeram o documento? | ✅ |
+| 4  |  Possui a árvore de representação do CTT? | ✅ |
+| 6  |  Utiliza as relações entre tarefas no CTT corrretamente? | ✅ |
+| 7  |  Apresenta representação gráfica da análise de tarefa? | ✅ |
+| 8  |  As tarefas estão condizentes com o projeto? | ✅ |
+
+</center>
+
+<figcaption align='center'>
+    <b>Tabela 3: Checklist Inspeção - Análise de Tarefas CTT Versão 2 </b>
+    <br><small> Fonte: Elaboração Própria</small>
+</figcaption>
+
+### 4.1 - Resultados
+
+&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento atende os critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
+
+<center>
+
+![Grafico](../../assets/graficosVerificacao/grafico2_ctt.png)
+
+</center>
+
+<figcaption align='center'>
+    <b>Figura 2: Gráfico resultado inspeção CTT Versão 2 </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
+
+&emsp;&emsp; Desta forma, decidimos que no momento não havia a necessidade de ser gerada uma terceira versão do artefato.
 
 ## Historico de Versão 
 
 |    Versão    | Alteração| Responsavel        | Revisor     | Data
 | :--------: | :----: | :------------------: | :-------------: |:----:|
 | 1.0 | Criação do documento | Lara | - | 21/08/2022 |
+| 1.1 | Correção da checklist e adição dos resultados da segunda inspeção | Lara | - | 05/09/2022 |
 
 ## Referências
 

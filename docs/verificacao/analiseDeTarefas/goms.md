@@ -25,10 +25,10 @@
 | 4  |  As tarefas são descritas em termos de objetivos, operadores, métodos e regras de seleção? |  |
 | 6  |  Utilizado o modelo KLM? |  |
 | 7  |  Utilizado o modelo CMN? |  |
-| 7  |  Utilizado o modelo CPM? |  |
-| 8  |  Possui as tabelas correspondentes aos resultados das análises de KLM,CMN e CPM? |  |
-| 9  |  Há resultado da análise do site do Brasil Channel? |  |
-| 10 |  Os resultados estão condizentes com o site do Brasil Channel? |  |
+| 8  |  Utilizado o modelo CPM? |  |
+| 9  |  Possui as tabelas correspondentes aos resultados das análises de KLM,CMN e CPM? |  |
+| 10 |  Há resultado da análise do site do Brasil Channel? |  |
+| 11 |  As tarefas estão condizentes com o projeto?? |  |
 
 </center>
 
@@ -53,8 +53,8 @@
 | 7  |  Utilizado o modelo CMN? | ✅ |
 | 8  |  Utilizado o modelo CPM? | ✅ |
 | 9  |  Possui as tabelas correspondentes aos resultados das análises de KLM,CMN e CPM? | ✅ |
-| 10  |  Há resultado da análise do site do Brasil Channel? | ✅ |
-| 11 |  Os resultados estão condizentes com o site do Brasil Channel? | ✅ |
+| 10 |  Há resultado da análise do site do Brasil Channel? | ✅ |
+| 11 |  As tarefas estão condizentes com o projeto? | ✅ |
 
 </center>
 
@@ -65,7 +65,7 @@
 
 ### 3.1 Resultados
 
-&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento não atende 3 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 70% como podemos ver a partir do gráfico abaixo:
+&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento não atende 3 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 72,7% como podemos ver a partir do gráfico abaixo:
 
 <center>
 
@@ -78,7 +78,7 @@
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
-&emsp;&emsp;Dessa forma com o objetivo de melhorarmos a qualidade do artefato, geramos uma [segunda versão](../../analiseRequisitos/AnaliseDeTarefas/analiseTarefa_Goms_V2.md) do mesmo cumprindo com os critérios da checklist.
+&emsp;&emsp;Dessa forma com o objetivo de melhorarmos a qualidade do artefato, geramos uma segunda versão do mesmo cumprindo com os critérios da checklist.
 
 ## 4. Inspeção GOMS Versão 2
 
@@ -94,10 +94,10 @@
 | 4  |  As tarefas são descritas em termos de objetivos, operadores, métodos e regras de seleção? | ✅ |
 | 6  |  Utilizado o modelo KLM? | ✅ |
 | 7  |  Utilizado o modelo CMN? | ✅ |
-| 7  |  Utilizado o modelo CPM? | ✅ |
-| 8  |  Possui as tabelas correspondentes aos resultados das análises de KLM,CMN e CPM? | ✅ |
-| 9  |  Há resultado da análise do site do Brasil Channel? | ✅ |
-| 10 |  Os resultados estão condizentes com o site do Brasil Channel? | ✅ |
+| 8  |  Utilizado o modelo CPM? | ✅ |
+| 9  |  Possui as tabelas correspondentes aos resultados das análises de KLM,CMN e CPM? | ✅ |
+| 10  |  Há resultado da análisel? | ✅ |
+| 11 |  As tarefas estão condizentes com o projeto? | ✅ |
 
 </center>
 
@@ -129,6 +129,7 @@
 | :--------: | :----: | :------------------: | :-------------: |:----:|
 | 1.0 | Criação do documento | Lara | Lucas | 21/08/2022 |
 | 1.1 | Arquivo revisado | Lucas | - | 22/08/2022 |
+| 1.2 | Correção da checklist | Lara | - | 05/09/2022 |
 
 ## Referências
 

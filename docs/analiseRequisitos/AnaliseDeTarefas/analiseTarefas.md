@@ -1,142 +1,157 @@
 # Análise Hierárquica de Tarefas 
 
 ## 1. Introdução
-A análise de tarefas tem como objetivo entender sobre qual é o trabalho dos usuários, como eles o realizam e o porquê. Ela pode ser utilizada em diferentes etapas do desenvolvimento, podendo ser realizada em um produto já existente ou um novo produto, utilizando ou não uma ferramenta computacional. O método utilizado na realização da análise deste projeto será a Análise Hierárquica de Tarefas (AHT).
+&emsp;&emsp;A análise de tarefas é uma ferramenta de análise de dados realizada por especialistas em usabilidade para entender as etapas do processo de interação do usuário com o sistema.
 
-## 2. Análise Hierárquica de Tarefas (AHT)
+&emsp;&emsp;Neste documento, a análise será realizada por estudantes do grupo 5 de IHC do curso de Engenharia de Software, UnB.
 
-### 2.1 Representação textual 
+## 2. Objetivo
+&emsp;&emsp;A análise de tarefas tem como objetivo entender sobre qual é o trabalho dos usuários, como eles o realizam, porquê e quais as consequências caso não façam corretamente. Ela pode ser utilizada em diferentes etapas do desenvolvimento, podendo ser realizada em um produto já existente ou um novo produto, utilizando ou não uma ferramenta computacional. O método utilizado na realização da análise deste projeto será a Análise Hierárquica de Tarefas (AHT).
 
-**0.** Escolher a informação que deseja
-<br>&emsp;&emsp;**1.** Brasil
-<br>&emsp;&emsp;&emsp;**1.1** Bandeiras
-<br>&emsp;&emsp;&emsp;**1.2** Clima
-<br>&emsp;&emsp;&emsp;**1.3** Culinária
-<br>&emsp;&emsp;&emsp;**1.4** Cultura
-<br>&emsp;&emsp;&emsp;**1.5** Curiosidades
-<br>&emsp;&emsp;&emsp;**1.6** Dados Gerais
-<br>&emsp;&emsp;&emsp;**1.7** Data Comemorativas
-<br>&emsp;&emsp;&emsp;**1.8** Divisão Política
-<br>&emsp;&emsp;&emsp;**1.9** Economia
-<br>&emsp;&emsp;&emsp;**1.10** Embaixadas
-<br>&emsp;&emsp;&emsp;**1.11** Fauna
-<br>&emsp;&emsp;&emsp;**1.12** Folclore
-<br>&emsp;&emsp;&emsp;**1.13** Hidrografia
-<br>&emsp;&emsp;&emsp;**1.14** Hino
-<br>&emsp;&emsp;&emsp;**1.15** Historia
-<br>&emsp;&emsp;&emsp;**1.16** Infra-Estrutura
-<br>&emsp;&emsp;&emsp;**1.17** Litoral
-<br>&emsp;&emsp;&emsp;**1.18** Parques
-<br>&emsp;&emsp;&emsp;**1.19** População
-<br>&emsp;&emsp;&emsp;**1.20** Relevo
-<br>&emsp;&emsp;&emsp;**1.21** Reservas
-<br>&emsp;&emsp;&emsp;**1.22** Tipos Populares
-<br>&emsp;&emsp;&emsp;**1.23** Trajes Típicos
-<br>&emsp;&emsp;&emsp;**1.24** Vegetação
-<br>&emsp;&emsp;&emsp;**1.25** Sites Governamentais 
-<br>&emsp;&emsp;**2.** Regiões
-<br>&emsp;&emsp;&emsp;**2.1** Centro Oeste
-<br>&emsp;&emsp;&emsp;**2.2** Norte
-<br>&emsp;&emsp;&emsp;**2.3** Nordeste
-<br>&emsp;&emsp;&emsp;**2.4** Sul
-<br>&emsp;&emsp;&emsp;**2.5** Sudeste
-<br>&emsp;&emsp;**3.** Estados
-<br>&emsp;&emsp;&emsp;**3.1** Acre
-<br>&emsp;&emsp;&emsp;**3.2** Alagoas
-<br>&emsp;&emsp;&emsp;**3.3** Amapá
-<br>&emsp;&emsp;&emsp;**3.4** Amazonas
-<br>&emsp;&emsp;&emsp;**3.5** Bahia
-<br>&emsp;&emsp;&emsp;**3.6** Ceará
-<br>&emsp;&emsp;&emsp;**3.7** Distrito Federal
-<br>&emsp;&emsp;&emsp;**3.8** Espírito Santo
-<br>&emsp;&emsp;&emsp;**3.9** Goiás
-<br>&emsp;&emsp;&emsp;**3.10** Maranhão
-<br>&emsp;&emsp;&emsp;**3.11** Mato Grosso
-<br>&emsp;&emsp;&emsp;**3.12** Mato Grosso do Sul
-<br>&emsp;&emsp;&emsp;**3.13** Minas Gerais
-<br>&emsp;&emsp;&emsp;**3.14** Pará
-<br>&emsp;&emsp;&emsp;**3.15** Paraíba
-<br>&emsp;&emsp;&emsp;**3.16** Paraná
-<br>&emsp;&emsp;&emsp;**3.17** Pernambuco
-<br>&emsp;&emsp;&emsp;**3.18** Piauí
-<br>&emsp;&emsp;&emsp;**3.19** Rio de Janeiro
-<br>&emsp;&emsp;&emsp;**3.20** Rio Grande do Norte
-<br>&emsp;&emsp;&emsp;**3.21** Rio Grande do Sul
-<br>&emsp;&emsp;&emsp;**3.22** Rondônia
-<br>&emsp;&emsp;&emsp;**3.23** Roraima
-<br>&emsp;&emsp;&emsp;**3.24** Santa Catarina
-<br>&emsp;&emsp;&emsp;**3.25** São Paulo
-<br>&emsp;&emsp;&emsp;**3.26** Sergipe
-<br>&emsp;&emsp;&emsp;**3.27** Tacantins
-<br>&emsp;&emsp;**4.** Capitais
-<br>&emsp;&emsp;&emsp;**4.1** Aracaju(SE)
-<br>&emsp;&emsp;&emsp;**4.2** Bélem(PA)
-<br>&emsp;&emsp;&emsp;**4.3** Belo Horizonte(MG)
-<br>&emsp;&emsp;&emsp;**4.4** Boa Vista(RR)
-<br>&emsp;&emsp;&emsp;**4.5** Brasília(DF)
-<br>&emsp;&emsp;&emsp;**4.6** Campo Grande(MS)
-<br>&emsp;&emsp;&emsp;**4.7** Cuiabá(MT)
-<br>&emsp;&emsp;&emsp;**4.8** Curitiba(PR)
-<br>&emsp;&emsp;&emsp;**4.9** Florianópolis(SC)
-<br>&emsp;&emsp;&emsp;**4.10** Fortaleza(CE)
-<br>&emsp;&emsp;&emsp;**4.11** Goiânia(GO)
-<br>&emsp;&emsp;&emsp;**4.12** João Pessoa(PB)
-<br>&emsp;&emsp;&emsp;**4.13** Macapá(AP)
-<br>&emsp;&emsp;&emsp;**4.14** Maceió(AL)
-<br>&emsp;&emsp;&emsp;**4.15** Manaus(AM)
-<br>&emsp;&emsp;&emsp;**4.16** Natal(RN)
-<br>&emsp;&emsp;&emsp;**4.17** Palmas(TO)
-<br>&emsp;&emsp;&emsp;**4.18** Porto Alegre(RS)
-<br>&emsp;&emsp;&emsp;**4.19** Porto Velho(RO)
-<br>&emsp;&emsp;&emsp;**4.20** Recife(PE)
-<br>&emsp;&emsp;&emsp;**4.21** Rio Branco(AC)
-<br>&emsp;&emsp;&emsp;**4.22** Rio de Janeiro(RJ)
-<br>&emsp;&emsp;&emsp;**4.23** Salvador(BA)
-<br>&emsp;&emsp;&emsp;**4.24** São Luis(MA)
-<br>&emsp;&emsp;&emsp;**4.25** São Paulo(SP)
-<br>&emsp;&emsp;&emsp;**4.26** Teresina(PI)
-<br>&emsp;&emsp;&emsp;**4.27** Vitória(ES)
-<br>&emsp;&emsp;**5.** Municípios
-<br>&emsp;&emsp;&emsp;**5.1** Acre
-<br>&emsp;&emsp;&emsp;**5.2** Alagoas
-<br>&emsp;&emsp;&emsp;**5.3** Amapá
-<br>&emsp;&emsp;&emsp;**5.4** Amazonas
-<br>&emsp;&emsp;&emsp;**5.5** Bahia
-<br>&emsp;&emsp;&emsp;**5.6** Ceará
-<br>&emsp;&emsp;&emsp;**5.7** Distrito Federal
-<br>&emsp;&emsp;&emsp;**5.8** Espírito Santo
-<br>&emsp;&emsp;&emsp;**5.9** Goiás
-<br>&emsp;&emsp;&emsp;**5.10** Maranhão
-<br>&emsp;&emsp;&emsp;**5.11** Mato Grosso
-<br>&emsp;&emsp;&emsp;**5.12** Mato Grosso do Sul
-<br>&emsp;&emsp;&emsp;**5.13** Minas Gerais
-<br>&emsp;&emsp;&emsp;**5.14** Pará
-<br>&emsp;&emsp;&emsp;**5.15** Paraíba
-<br>&emsp;&emsp;&emsp;**5.16** Paraná
-<br>&emsp;&emsp;&emsp;**5.17** Pernambuco
-<br>&emsp;&emsp;&emsp;**5.18** Piauí
-<br>&emsp;&emsp;&emsp;**5.19** Rio de Janeiro
-<br>&emsp;&emsp;&emsp;**5.20** Rio Grande do Norte
-<br>&emsp;&emsp;&emsp;**5.21** Rio Grande do Sul
-<br>&emsp;&emsp;&emsp;**5.22** Rondônia
-<br>&emsp;&emsp;&emsp;**5.23** Roraima
-<br>&emsp;&emsp;&emsp;**5.24** Santa Catarina
-<br>&emsp;&emsp;&emsp;**5.25** São Paulo
-<br>&emsp;&emsp;&emsp;**5.26** Sergipe
-<br>&emsp;&emsp;&emsp;**5.27** Tacantins
+## 3. Metodologia
+&emsp;&emsp;Toda tarefa pode ser descrita pelo seu **objetivo**. A partir de um objetivo, precisamos identificar como o usuário realiza, ou seja, mapeamos os **subobjetivos** necessários e criamos um **plano** para definir a ordem em que os subobjetivos devem ser alcançados. Este desdobramento é chamado decomposição de tarefas, e conduz a um conjunto de atividades.
 
-### 2.2 Representação gráfica
+&emsp;&emsp;Além disso, a HTA permite representar diversas relações entre os subobjetivos e os significados dessas relações são:
 
-A seguir na figura(1) será demonstrado a representação por meio de um diagrama, da tarefa de buscar informações desejadas: 
+**Sequencial**: A tarefa 2 só pode ser realizada depois que a tarefa 1 for realizada.
 
-### 2.2.1 Representação por meio do diagrama da tarefa de buscar informações desejadas:
+**Seleção**: Ou realiza a tarefa 1 ou realiza a tarefa 2.
 
-![Diagrama Analise Tarefas](../../assets/analiseTarefas/diagramaTarefas.jpg "Diagrama Analise Tarefas")
+**Paralelo**: Pode ser realizado as duas tarefas ao mesmo tempo.
+
+&emsp;&emsp;Para representar graficamente a HTA, é utilizado os seguintes elementos:
+
+<center>
+
+![elemento](../../assets/analiseTarefas/elementos.png)
+
+</center>
 
 <figcaption align='center'>
-    <b>Figura 4: Diagrama.</b>
+    <b>Figura 1: elementos para representação gráfica </b>
+    <br><small> Fonte: Aula 09 - Capítulo 06 - Organização do Espaço de Problema – Livro IHC: Barbosa e Silva </small>
+</figcaption>
+
+&emsp;&emsp;Para representar a HTA em forma de tabela, é utilizado os seguintes elementos:
+
+<center>
+
+| Objetivos / Operações | Problemas e recomendações |
+| :-------------------: | :------------------------ |
+| X. [objetivo][relação]| Input: [dados de entrada]<br>Feedback: [resultado]<br>Plano: [próximos passos]<br>Problema: [o que pode dá errado]<br>Recomendação: [como corrigir o problema] |
+
+</center>
+
+<figcaption align='center'>
+    <b>Tabela 1: Modelo para HTA</b>
+    <br><small> Fonte: Elaboração Própria</small>
+</figcaption>
+
+&emsp;&emsp;E pode também ser representado de maneira textual, seguindo o seguinte modelo:
+
+**0**. Objetivo<br>
+&emsp;**1**. Subobjetivo 1 para realizar o objetivo<br>
+&emsp;&emsp;**1.1**. Subojetivo 1.1 para realizar o subojetivo 1<br>
+&emsp;&emsp;**1.2**. Subojetivo 1.2 para realizar o subojetivo 1<br>
+&emsp;&emsp;...<br>
+&emsp;**2**. Subojetivo 2 para realizar o objetivo<br>
+&emsp;&emsp;**2.1**. Subojetivo 2.1 para realizar o subojetivo 2<br>
+&emsp;&emsp;&emsp;**2.1.1**. Subobjetivo 2.1.1 para realizar o subobjetivo 2.1<br>
+&emsp;&emsp;&emsp;**2.1.2**. Subobjetivo 2.1.2 para realizar o subobjetivo 2.1<br>
+&emsp;&emsp;**2.2**. Subojetivo 2.2 para realizar o subojetivo 2<br>
+
+Plano 0: faça 1 - 2<br>
+Plano 1: faça 1.1 - 1.2<br>
+Plano 2: faça 2.1 - 2.2<br>
+Plano 2.1: faça 2.1.1 - 2.1.2<br>
+
+&emsp;&emsp;Neste documento, iremos utilizar a representação textual da HTA.
+
+## 4. Análise Hierárquica de Tarefas (AHT)
+
+### 4.1 - Tarefa: Acessar datas comemorativas
+
+#### 4.1.1 - Representação textual 
+
+**0.** Acessar datas comemorativas
+<br>&emsp;&emsp;**1.** Acessar "Brasil"
+<br>&emsp;&emsp;**2.** Acessar "Datas Comemorativas"
+
+Plano 0: faça 1 - 2<br>
+
+#### 4.1.2 - Representação gráfica
+
+![repsGrafica_1](../../assets/analiseTarefas/repsGraf_tarefa1.png)
+
+<figcaption align='center'>
+    <b>Figura 2: Diagrama da tarefa: acessar Datas Comemorativas.</b>
     <br><small>Fonte: Elaboração Própria </small>
 </figcaption>
+
+#### 4.1.3 - Representação com tabela
+
+<center>
+
+| Objetivos / Operações | Problemas e recomendações |
+| :-------------------: | :------------------------ |
+| 0. Acessar datas comemorativas | |
+| 1. Acessar "Brasil" | **Entrada**: página principal do Brasil Channel;<br>**Ação**: clicar em "Brasil";<br>**Feedback**: redirecionado para uma nova página.|
+| 2. Acessar "Datas Comemorativas" | **Entrada**: página "Brasil" com todas as opções de hiperlinks no menu lateral;<br>**Ação**: clicar em "Datas Comemorativas";<br>**Feedback**: redirecionado para uma nova página;<br>**Problema**: muitas opções para o usuário ler uma de cada vez; <br>**Resolução**: dividir em subtópicos. |
+
+</center>
+
+<figcaption align='center'>
+    <b>Tabela 2: Tabela da tarefa: acessar Datas Comemorativas</b>
+    <br><small> Fonte: Elaboração Própria</small>
+</figcaption>
+
+### 4.2 - Tarefa: Acessar site do Ministério da Educação (MEC)
+
+#### 4.2.1 - Representação textual 
+
+**0.** Acessar site do Ministério da Educação (MEC)
+<br>&emsp;&emsp;**1.** Acessar "Brasil"
+<br>&emsp;&emsp;**2.** Acessar "Sites Gorvenamentais"
+<br>&emsp;&emsp;**3.** Acessar "Ministério da Educação"
+<br>&emsp;&emsp;&emsp;**3.1.** Acessar a página 2
+<br>&emsp;&emsp;&emsp;**3.2.** Procurar Ministério da Educação
+
+Plano 0: faça 1 - 2 - 3<br>
+Plano 3: faça 3.1 - 3.2<br>
+
+#### 4.2.2 - Representação gráfica
+
+![repsGrafica_2](../../assets/analiseTarefas/repsGraf_tarefa2.png)
+
+<figcaption align='center'>
+    <b>Figura 3: Diagrama da tarefa: acessar site do Ministério da Educação.</b>
+    <br><small>Fonte: Elaboração Própria </small>
+</figcaption>
+
+#### 4.2.3 - Representação com tabela
+
+<center>
+
+| Objetivos / Operações | Problemas e recomendações |
+| :-------------------: | :------------------------ |
+| 0. Acessar site do Ministério da Educação (MEC) | |
+| 1. Acessar "Brasil" | **Entrada**: página principal do Brasil Channel;<br>**Ação**: clicar em "Brasil";<br>**Feedback**: redirecionado para uma nova página. |
+| 2. Acessar "Sites Gorvenamentais" | **Entrada**: página "Brasil" com todas as opções de hiperlinks no menu lateral;<br>**Ação**: clicar em "Sites Gorvenamentais";<br>**Feedback**: redirecionado para uma nova página;<br>**Problema**: muitas opções para o usuário ler uma de cada vez; <br>**Resolução**: dividir em subtópicos. |
+| 3. Acessar "Ministério da Educação" | |
+| 3.1. Acessar a página 2 | **Entrada**: página 1 dos "Sites Gorvenamentais" com opções de hiperlinks em ordem alfabética;<br>**Ação**: clicar em "<<2>>";<br>**Feedback**: redirecionado para a página 2 dos "Sites Gorvanamentais". |
+| 3.2. Procurar Ministério da Educação | **Entrada**: página 2 dos "Sites Gorvenamentais" com opções de hiperlinks em ordem alfabética;<br>**Ação**: clicar em "Ministério da Educação";<br>**Feedback**: redirecionado para o site do Ministério da Educação. |
+
+</center>
+
+<figcaption align='center'>
+    <b>Tabela 3: Tabela da tarefa: acessar site do Ministério da Educação (MEC)</b>
+    <br><small> Fonte: Elaboração Própria</small>
+</figcaption>
+
+## 5. Resultados
+
+&emsp;&emsp;Após analisar as tarefas e observando os dados das tabelas 2 e 3, concluímos que procurar pela opção correta no site é cansativo e este precisa ser dividido em subtópicos para que o usuário não encontre dificuldades quando for utilizar o sistema.
+
 
 ## Histórico de Versão
 
@@ -145,6 +160,8 @@ A seguir na figura(1) será demonstrado a representação por meio de um diagram
 |   1.0  | Criação do documento |    Pedro Henrique Caldeira   |  Samuel | 19/07/2022 |
 |   1.1  | Analíse de tarefas por meio do diagrama |   Samuel Victor Macedo   | Lucas | 20/07/2022 |
 |   1.2  | Correção de imagem |   Levi Queiroz  | - | 06/08/2022 |
+|   2.0  | Correção no artefato | Lara | - | 22/08/2022 |
+|   2.1  | Adição da análise de tarefas e dos resultados | Lara | - | 05/09/2022 |
 
 ## Referências
 

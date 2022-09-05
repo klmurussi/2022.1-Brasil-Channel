@@ -1,13 +1,25 @@
-## 1 - Árvores de Tarefas Concorrentes (ConcurTaskTrees - CTT)
+# Árvores de Tarefas Concorrentes (ConcurTaskTrees - CTT)
+
+## 1 - Introdução
+
+&emsp;&emsp;A análise de tarefas é uma ferramenta de análise de dados realizada por especialistas em usabilidade para entender as etapas do processo de interação do usuário com o sistema.
+
+&emsp;&emsp;Neste documento, a análise será realizada por estudantes do grupo 5 de IHC do curso de Engenharia de Software, UnB.
+
+## 2 - Objetivo
+
+&emsp;&emsp;A análise de tarefas tem como objetivo entender sobre qual é o trabalho dos usuários, como eles o realizam e o porquê. Ela pode ser utilizada em diferentes etapas do desenvolvimento, podendo ser realizada em um produto já existente ou um novo produto, utilizando ou não uma ferramenta computacional. O método utilizado na realização da análise deste documento será utilizado o modelo ConcurTaskTrees - CTT.
+
+## 3 - Metodologia
 
 &emsp;&emsp; Esse modelo foi criado para ajudar a avaliação do design e a avaliação de IHC (Paterno, 1999). Existem quatro tipos de tarefa para esse modelo, que são elas:  
 
 - Tarefas do usuário: Realizadas fora do sistema
 - Tarefas do sistema: O sistema realiza um processamento sem interagir com o usuário
-- Tarefas interativas: Ocorre os diálogos usuário com o sistema
+- Tarefas interativas: Ocorre os diálogos do usuário com o sistema
 - Tarefas abstratas: Uma representação de uma composição de tarefas que auxilie a decomposição
 
-&emsp;&emsp;Parecido com a análise hierárquica de tarefas, os diferentes níveis hierárquicos devem ser lidos como "para considerar T1 como tendo sido realizada, as tarefas T2 e T3 devem tersidos realizadas". Tanto as tarefas como a frase em aspas estão sendo representadas na figura 1.
+&emsp;&emsp;Parecido com a análise hierárquica de tarefas, os diferentes níveis hierárquicos devem ser lidos como "para considerar T1 como tendo sido realizada, as tarefas T2 e T3 devem estar realizadas". Tanto as tarefas como a frase em aspas estão sendo representadas na figura 1.
 
 <center>
 
@@ -39,21 +51,21 @@ A figura 2 apresenta um exemplo de cada uma das relações:
 
 <small><center>Figura 2 - Exemplos de figuras representando as relações entre as tarefas no modelo CTT obtido do livro da Simone cap. 8</center></small>
 
-Uma das vantagens do CTT é com relação a outros modelos de tarefas, é destacado a possibilidade do registro explícito das relações entre tarefas, entretanto com relação a modelos especificamentes projetados para a interação é a ausência de elementos destinados à representação de mecanismos de prevenção e tratamentos de erros na interação do usuário com o sistema. Na figura 3 está representada um exemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda, obtidos do livro da Simone no cap.8 página 189.
+&emsp;&emsp;AlémUma das vantagens do CTT é com relação a outros modelos de tarefas, é destacado a possibilidade do registro explícito das relações entre tarefas, entretanto com relação a modelos especificamentes projetados para a interação é a ausência de elementos destinados à representação de mecanismos de prevenção e tratamentos de erros na interação do usuário com o sistema. Na figura 3 está representada um exemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda, obtidos do livro da Simone no cap.8 página 189.
 
 <center>
 
-![EExemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda](../../assets/analiseTarefas_goms_ctt/exemplo_ctt_completo.PNG "Exemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda")
+![Exemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda](../../assets/analiseTarefas_goms_ctt/exemplo_ctt_completo.PNG "Exemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda")
 
 </center>
 
 <small><center>Figura 3 - Exemplo de modelo CTT de análise de tarefa para um objetivo de marcar um compromisso em uma agenda obtido do livro da Simone cap. 8</center></small>
 
-## 2 - Análise de desempenho do web site Brasil Channel com o CTT
+## 4 - Análise de desempenho do web site Brasil Channel com o CTT
 
-&emsp;&emsp; Foi aplicado o modelo de análise de tarefas CTT, sendo o objetivo acessar a página Litoral.
+&emsp;&emsp;Foi aplicado o modelo de análise de tarefas CTT, sendo o objetivo acessar a página Litoral.
 
-&emsp;&emsp;Como no site avaliado as únicas funcionalidade que ele apresenta é acessar os links, a análise de tarefas CTT demonstra um pouco de dificuldade para obter informações importantes sobre as tarefas descritas. Pois para aplicações com diversas funcionalidade, o CTT seria melhor aplicado e o resultado satisfatório na hora de recolher os dados.  
+&emsp;&emsp;Como no site avaliado as únicas funcionalidade que ele apresenta é acessar os links, a análise de tarefas CTT demonstra um pouco de dificuldade para obter informações importantes sobre as tarefas descritas, pois para aplicações com diversas funcionalidade, o CTT seria melhor aplicado e o resultado satisfatório na hora de recolher os dados.  
 
 &emsp;&emsp;Na figura 4 está o modelo CTT representando o objetivo de acessar o Litoral:
 
@@ -65,6 +77,7 @@ Uma das vantagens do CTT é com relação a outros modelos de tarefas, é destac
 
 <small><center>Figura 4 - Modelo CTT seguindo o roteiro apresentado para o objetivo de acessar o Litoral</center></small>
 
+
 ## Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
@@ -72,7 +85,8 @@ Uma das vantagens do CTT é com relação a outros modelos de tarefas, é destac
 |   1.0  | Criação do documento |    Levi Queiroz   | - | 20/07/2022 |
 |   1.1  | Adição do CTT |   Levi Queiroz   | Lucas | 20/07/2022 |
 |   1.2  | Correções no artefato |   Levi Queiroz   | - | 20/07/2022 |
-|   1.3  | Correções no artefato |   Levi Queiroz   | - | 31/07/2022 |
+|   1.3  | Correções no artefato |   Levi Queiroz   | Lara | 31/07/2022 |
+|   2.0  | Adição de introdução e objetivo | Lara | - | 05/09/2022 |
 
 ## Referências
 
