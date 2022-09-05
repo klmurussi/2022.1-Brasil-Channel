@@ -175,11 +175,11 @@
   
 * **Atualização**  
 
-&emsp;&emsp;A figura 3.5.2 apresenta as cores que devem ser utilizadas no site, as cores podem ser adicionados ou retiradas conforme a necessidade da produção do site.  
+&emsp;&emsp;A figura 3.5.2 apresenta as cores que devem ser utilizadas no site, as cores podem ser adicionados ou retiradas conforme a necessidade da produção do site. Para gerar esta paleta de cores nos inspiramos na bandeira do brasil, dessa forma, selecionamos as 3 cores da bandeira e delas geramos novos tons de acordo com as necessidades.  
 
 <center>
 
-![Cores do site atualizado](../assets/guiaDeEstilo/paleta_de_cores.png "Cores do site atualizado")
+![Cores do site atualizado](../assets/guiaDeEstilo/paletaCoresV2.png "Cores do site atualizado")
 
 </center>
 
@@ -283,6 +283,7 @@
 |   1.4  | Consertado as figuras quebradas |    Levi Queiroz   |  Kathlyn Lara | 05/08/2022 |
 |   1.5  | Alteração de elementos não tipográficos | Kathlyn Lara | Levi Queiroz | 05/08/2022 |
 |   1.6  | Adição dos tópicos "Atual" com informações, adição de imagens e revisão ortográfica | Levi Queiroz | - | 17/08/2022 |
+|   1.7  | Adição paleta de cores versão 2 | Lucas | - | 5/09/2022 |
 
 ## Referências
 
