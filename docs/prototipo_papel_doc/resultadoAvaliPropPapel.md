@@ -81,7 +81,8 @@
 
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  |  Criação do documento  |    Samuel Macedo    | - | 04/09/2022 |
+|   1.0  |  Criação do documento  |    Samuel Macedo    | Lucas| 04/09/2022 |
+|   1.1  |  Doumento revisado  |   Lucas   | - | 04/09/2022 |
 
 
 ## Referências
