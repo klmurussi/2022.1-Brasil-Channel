@@ -63,6 +63,8 @@
 |   -  |  -  |    -    | - | 
 |   -  |  -  |    -    | - | 
 
+</center>
+
 <figcaption align='center'>
     <b>Tabela 1: Cronograma de entrevistas.</b>
     <br><small>Fonte: Elaboração própria.</small>
