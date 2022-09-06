@@ -1,4 +1,4 @@
-# Planejamento da Avaliação do Storyboard
+# Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
 ## 1. Introdução
 &emsp;&emsp; De acordo com Barbosa (2010), a avaliação é uma atividade fundamental para qualquer processo de desenvolvimento que busque um sistema interativo com alta qualidade de uso. Dessa forma, conhecer os critérios de qualidade e seguir com o desenvolvimento nem sempre é o suficiente para o desenvolvimento de um produto de qualidade, também é necessário avaliar se o produto atende os critérios de qualidade necessários, cecrtificando-se que não ocorreram problemas na coleta e na interpretação das informações.
