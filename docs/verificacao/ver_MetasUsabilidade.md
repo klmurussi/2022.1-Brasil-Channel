@@ -81,11 +81,8 @@
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
-### 3.3. Inspeção do artefato corrigido Metas de Usablidade
+&emsp;&emsp;Dessa forma, há necessidade de construir uma segunda versão do documento de metas de usabilidade.
 
-### 3.4. Resultados da Inspeção
-
-## 4. Conclusão
 
 ## Historico de Versão 
 
