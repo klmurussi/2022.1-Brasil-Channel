@@ -42,6 +42,12 @@ nav:
           - Protótipo de Papel:
             - 'Protótipo de papel': './prototipo_papel_doc/PrototipodePapelV2.md'
             - 'Planejamento da Avaliação do Protótipo': './prototipo_papel_doc/PlanejamentoAvaliPropPapelV2.md'
+            - 'Relato dos Resultados da Avaliação': './prototipo_papel_doc/resultadoAvaliPropPapel.md'
+            - Entrevistas:
+              - 'Teste Piloto': './prototipo_papel_doc/testePiloto.md'
+              - 'Entrevista Lorena': './prototipo_papel_doc/entrevistaLorena.md'
+              - 'Entrevista Lucas': './prototipo_papel_doc/entrevistaLucas.md'
+              - 'Entrevista Pedro': './prototipo_papel_doc/entrevistaPedro.md'
         - Nível 3:
           - Protótipo de alta fidelidade:
             - 'Protótipo de alta fidelidade': './prototipoAltaFidelidade/prototipoAlta.md'
