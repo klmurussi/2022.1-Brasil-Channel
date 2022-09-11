@@ -28,7 +28,7 @@ Assim, seguindo os critérios definidos durante o [Planejamento da Avaliação d
 | Entrevistado |                Entrevistador               | Data |         Hora        |  
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|
 |   Teste Piloto  |  Lucas e Samuel|    07/09    | 12:00 | 
-|   -  |  -  |    -    | - | 
+|   Miguel Avellar  | Lucas |    11/09   | 18:30 | 
  
 
 
@@ -38,6 +38,11 @@ Assim, seguindo os critérios definidos durante o [Planejamento da Avaliação d
     <b>Tabela 1: Cronograma de entrevistas</b>
     <br><small>Fonte: Elaboração própria.</small>
 </figcaption>
+
+## 5. Entrevistas
+&emsp;&emsp; Dessa forma, foram realizadas 5 entrevistas com participantes diferentes, sendo eles:
+
+- [Miguel Avellar](../prototipoAltaFidelidade/entrevistas/entrevistaMiguel.md), jovem de 21 anos estudante de psicologia
   
 ## Histórico de versões
 

@@ -27,6 +27,7 @@ nav:
               - 'Planejamento da Avaliação': './analiseDeTarefas/planejamentoAvaliacao.md'
               - 'Relato dos Resultados da Avaliação': './analiseDeTarefas/resultados.md'
               - Entrevistas:
+                - 'Teste Piloto': './storyboard/testepiloto.md'
                 - 'Entrevista Fernando': './analiseDeTarefas/Entrevistas/entrevistaFernando.md'
                 - 'Entrevista Sabrinna': './analiseDeTarefas/Entrevistas/entrevistaSabrinna.md'
                 - 'Entrevista Sander': './analiseDeTarefas/Entrevistas/entrevistaSander.md'
@@ -35,6 +36,7 @@ nav:
             - 'Planejamento da Avaliação': './storyboard/planejamentoAvaliacao.md'
             - 'Relato dos Resultados da Avaliação': './storyboard/resultados.md'
             - Entrevistas:
+              - 'Teste Piloto': './storyboard/testepiloto.md'
               - 'Entrevista Eduardo': './storyboard/entrevistaEduardo.md'
               - 'Entrevista Giovana': './storyboard/entrevistaGiovana.md'
               - 'Entrevista Pamella': './storyboard/entrevistaPamella.md'
@@ -53,6 +55,9 @@ nav:
             - 'Protótipo de alta fidelidade': './prototipoAltaFidelidade/prototipoAlta.md'
             - 'Planejamento da Avaliação': './prototipoAltaFidelidade/planejamentoAvaliacaoPrototipoAlta.md'
             - 'Relato da Avaliação': './prototipoAltaFidelidade/relatoResultadosAvaliacaoProtoAlta.md'
+            - Entrevistas:
+              - 'Teste Piloto': './prototipoAltaFidelidade/entrevistas/testepiloto.md'
+              - 'Entrevista Miguel': './prototipoAltaFidelidade/entrevistas/entrevistaMiguel.md'
     - Verificação:
         - 'Planejamento da Verificação': './verificacao/planejamento.md'
         - Análise de Tarefas:

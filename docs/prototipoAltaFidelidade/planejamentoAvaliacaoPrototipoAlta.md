@@ -56,8 +56,8 @@
 
 | Entrevistado |                Entrevistador               | Data |         Hora        |  
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|
-|   Teste Piloto  |  Lucas, Samuel  |  7/09    | 10:00 | 
-|   -  |  -  |    -   | - | 
+|   Teste Piloto  |  Lucas, Samuel  |  11/09    | 18:00 | 
+|   Miguel Avellar |  Lucas |    11/09  | 18:30 | 
 |   -  |  -   |    - | - | 
 |   -|   -   |    - | - | 
 |   -  |  -  |    -    | - | 
