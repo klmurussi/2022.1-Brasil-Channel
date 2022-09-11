@@ -68,6 +68,7 @@ nav:
         - 'Storyboard' : './verificacao/storyboard.md'
         - 'Avaliação da análise de Tarefas': './verificacao/ver_AvaliacaoAnaliseTarefas.md'
         - 'Metas de Usabilidade': './verificacao/ver_MetasUsabilidade.md'
+        - 'Avaliação protótipo baixa fidelidade': './verificacao/avaliacaoProtBaixaFidelidade.md'
         
         
 

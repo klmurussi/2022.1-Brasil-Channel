@@ -132,8 +132,9 @@
 
 |    Versão    | Alteração| Responsavel        | Revisor     | Data
 | :--------: | :----: | :------------------: | :-------------: |:----:|
-| 1.0 | Criação do documento | Lara | - | 21/08/2022 |
+| 1.0 | Criação do documento | Lara | Lucas | 21/08/2022 |
 | 1.1 | Correção da checklist | Lara | - | 05/09/2022 |
+| 1.2 | Documento Revisado | Lucas | - | 10/09/2022 |
 
 ## Referências
 
