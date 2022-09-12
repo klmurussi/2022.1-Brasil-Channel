@@ -74,6 +74,9 @@ nav:
         - 'Avaliação da análise de Tarefas': './verificacao/ver_AvaliacaoAnaliseTarefas.md'
         - 'Metas de Usabilidade': './verificacao/ver_MetasUsabilidade.md'
         - 'Avaliação protótipo baixa fidelidade': './verificacao/avaliacaoProtBaixaFidelidade.md'
+        - 'Protótipo de Alta Fidelidade': './verificacao/protoAlta.md'
+        - 'Avaliação do protótipo de alta fidelidade': './verificacao/avaliacaoProtoAlta.md'
+        - 'Relato da avaliação do protótipo de alta fidelidade': './verificacao/relatoProtoAlta.md'
         
         
 
