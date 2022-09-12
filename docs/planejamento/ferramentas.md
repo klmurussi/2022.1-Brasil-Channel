@@ -35,3 +35,4 @@
 |   1.0  |                    -                   |    Lucas   | Levi | 06/07/2022 |
 |   1.1  | Arquivo Revisado |    Lucas   | Levi | 09/07/2022 |
 |   1.2  | Adição do Heatmap e correção da legenda da tabela 1 | Lara | Lucas | 12/07/2022| 
+|   1.3  | Remove Heatmap e adiciona Teams | Lara | Lucas | 12/09/2022| 
