@@ -50,7 +50,10 @@
 
 ## 3.  Site Escolhido
 
-&emsp;&emsp;Através de uma reunião em sala e em reunião virtual pelo Discord no dia 04/07/2022, após análise das avaliações dos sites realizados, foi escolhido o site [Brasil Channel](https://www.brasilchannel.com.br/) para o curso. O objetivo principal do site é mostrar o Brasil, seus climas, regiões etc. Assim como apresentado no documento em referência à avaliação do site Brasil Channel, foram identificados alguns problemas como uma má distribuição de objetos na interface e uma má liberdade de usabilidade do usuário.
+&emsp;&emsp;Através de uma reunião em sala e em reunião virtual pelo Discord no dia 04/07/2022, após análise das avaliações dos sites realizados, foi escolhido o site [Brasil Channel](https://www.brasilchannel.com.br/) para o curso. O objetivo principal do site é mostrar o Brasil, seus climas, regiões etc. Assim como apresentado no documento em referência à avaliação do site Brasil Channel, foram identificados alguns problemas como uma má distribuição de objetos na interface e uma má liberdade de usabilidade do usuário. 
+
+&emsp;&emsp;A escolha do site Brasil Channel entre os outros avaliados pelo grupo se deve pela grande base de informações interessantes contidas nele, desenvolvendo um interesse geral do grupo que enxergou o site como um grande potencial para as pesquisas das pessoas ou até pra quem apenas quer saber um pouco mais sobre o Brasil. 
+
 
 
 ## Histórico de versões
@@ -60,6 +63,7 @@
 |   1.0  |                   Criado pagina e Adicionando os tópicos e arquivos	                  |    Levi Queiroz    | Lucas | 06/07/2022 |
 |   1.1  |   Corrige erros no código                |    Lucas    | Kathlyn Lara | 10/07/2022 |
 |   1.2  |   Adicionar descrição dos sites | Kathlyn Lara | Lucas | 12/07/2022 |
+|   1.3  |   Adicionar a motivação da escolha do site | Samuel Macêdo | Lucas | 10/09/2022 |
 
 
 ## Referências
