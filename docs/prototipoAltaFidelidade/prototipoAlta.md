@@ -3,10 +3,13 @@
 ## 1. Introdução
 &emsp;&emsp; Conforme definido por Preece, Rogers e Sharp (2005), o protótipo de alta fidelidade se parece mais com o produto acabado quando comparado com o protótipo de baixa fidelidade. E também, o protótipo de alta fidelidade tem as vantagens de ser funcional, interativo e conduzido pelo usuário, dessa forma, sendo útil para comunicar ideias e testar questões técnicas.
 
-## 2. Metodologia
+## 2. Objetivo
+&emsp;&emsp;Para o nível 3 da fase de Design, avaliação e desenvolvimento do ciclo de vida de Mayhew (1999), o objetivo da utilização de protótipos de alta-fidelidade é criar modelos para avaliação interativa do design detalhado da interface que serão utilizados como insumo para realizar avaliações e validações do produto.
+
+## 3. Metodologia
 &emsp;&emsp; Para a realização do protótipo de alta fidelidade, utilizamos a ferramenta [Figma](../planejamento/ferramentas.md) e nos baseamos nos padrões definidos pelo [Guia de Estilo](../analiseRequisitos/guiaDeEstilo.md) e nos feedbacks dados pelos usuários durante a avaliação do protótipo de papel. Além disso, focamos em representar os fluxos de tarefas representadas no [Protótipo de Papel](../prototipo_papel_doc/PrototipodePapelV2.md) que são:
 
-### 2.1 - Acessar datas comemorativas  
+### 3.1 - Acessar datas comemorativas  
 
 &emsp;&emsp;Nessa tarefa o usuário seguira o seguinte caminho:  
 
@@ -16,7 +19,7 @@
 - Acessar a aba mês
 - Acessar a opção Setembro
 
-### 2.2 - Encontrar o site do Ministério da Educação  
+### 3.2 - Encontrar o site do Ministério da Educação  
 
 &emsp;&emsp;O usuário precisará seguir os seguintes passos para a execução da tarefa:  
 
@@ -28,7 +31,7 @@
 - Visualizar o hiperlink  
 
 
-### 2.3 - Acessar Litoral  
+### 3.3 - Acessar Litoral  
 
 &emsp;&emsp;O usuário precisará seguir os seguintes passos para a execução da tarefa:  
 
@@ -37,7 +40,7 @@
 - Acessar o hiperlink “Litoral”  
 
 
-## 3. Protótipo
+## 4. Protótipo
 &emsp;&emsp; Abaixo temos o protótipo de alta fidelidade interativo:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FziBmyV1w4xVCdKTEYWU0ac%2FUntitled%3Fnode-id%3D17%253A1293%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D4%253A2" allowfullscreen></iframe>
@@ -51,7 +54,7 @@
 
 |    Versão    | Alteração| Responsavel        | Revisor     | Data
 | :--------: | :----: | :------------------: | :-------------: |:----:|
-| 1.0| Criação do documento | Lucas | Levi  | 04/09/2022 |
+| 1.0 | Criação do documento | Lucas | Levi  | 04/09/2022 |
 
 ## Referências  
 
