@@ -27,6 +27,7 @@ nav:
               - 'Planejamento da Avaliação': './analiseDeTarefas/planejamentoAvaliacao.md'
               - 'Relato dos Resultados da Avaliação': './analiseDeTarefas/resultados.md'
               - Entrevistas:
+                - 'Teste Piloto': './storyboard/testepiloto.md'
                 - 'Entrevista Fernando': './analiseDeTarefas/Entrevistas/entrevistaFernando.md'
                 - 'Entrevista Sabrinna': './analiseDeTarefas/Entrevistas/entrevistaSabrinna.md'
                 - 'Entrevista Sander': './analiseDeTarefas/Entrevistas/entrevistaSander.md'
@@ -35,6 +36,7 @@ nav:
             - 'Planejamento da Avaliação': './storyboard/planejamentoAvaliacao.md'
             - 'Relato dos Resultados da Avaliação': './storyboard/resultados.md'
             - Entrevistas:
+              - 'Teste Piloto': './storyboard/testepiloto.md'
               - 'Entrevista Eduardo': './storyboard/entrevistaEduardo.md'
               - 'Entrevista Giovana': './storyboard/entrevistaGiovana.md'
               - 'Entrevista Pamella': './storyboard/entrevistaPamella.md'
@@ -52,6 +54,10 @@ nav:
           - Protótipo de alta fidelidade:
             - 'Protótipo de alta fidelidade': './prototipoAltaFidelidade/prototipoAlta.md'
             - 'Planejamento da Avaliação': './prototipoAltaFidelidade/planejamentoAvaliacaoPrototipoAlta.md'
+            - 'Relato da Avaliação': './prototipoAltaFidelidade/relatoResultadosAvaliacaoProtoAlta.md'
+            - Entrevistas:
+              - 'Teste Piloto': './prototipoAltaFidelidade/entrevistas/testepiloto.md'
+              - 'Entrevista Miguel': './prototipoAltaFidelidade/entrevistas/entrevistaMiguel.md'
     - Verificação:
         - 'Planejamento da Verificação': './verificacao/planejamento.md'
         - Análise de Tarefas:
@@ -67,6 +73,7 @@ nav:
         - 'Storyboard' : './verificacao/storyboard.md'
         - 'Avaliação da análise de Tarefas': './verificacao/ver_AvaliacaoAnaliseTarefas.md'
         - 'Metas de Usabilidade': './verificacao/ver_MetasUsabilidade.md'
+        - 'Avaliação protótipo baixa fidelidade': './verificacao/avaliacaoProtBaixaFidelidade.md'
         
         
 
@@ -75,6 +82,9 @@ nav:
         - 'Ponto de controle 2': './apresentacoes/apresentacao2.md'
         - 'Ponto de controle 3': './apresentacoes/apresentacao3.md'
         - 'Ponto de controle 4': './apresentacoes/apresentacao4.md'
+        - 'Ponto de controle 5': './apresentacoes/apresentacao5.md'
+        - 'Ponto de controle 6': './apresentacoes/apresentacao6.md'
+        - 'Ponto de controle 7': './apresentacoes/apresentacao7.md'
 
 theme:
   name: material

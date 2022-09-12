@@ -1,7 +1,7 @@
-# Planejamento da Avaliação do Storyboard
+# Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
 ## 1. Introdução
-&emsp;&emsp; De acordo com Barbosa (2010), a avaliação é uma atividade fundamental para qualquer processo de desenvolvimento que busque um sistema interativo com alta qualidade de uso. Dessa forma, conhecer os critérios de qualidade e seguir com o desenvolvimento nem sempre é o suficiente para o desenvolvimento de um produto de qualidade, também é necessário avaliar se o produto atende os critérios de qualidade necessários, cecrtificando-se que não ocorreram problemas na coleta e na interpretação das informações.
+&emsp;&emsp; De acordo com Barbosa (2010), a avaliação é uma atividade fundamental para qualquer processo de desenvolvimento que busque um sistema interativo com alta qualidade de uso. Dessa forma, conhecer os critérios de qualidade e seguir com o desenvolvimento nem sempre é o suficiente para o desenvolvimento de um produto de qualidade, também é necessário avaliar se o produto atende os critérios de qualidade necessários, certificando-se que não ocorreram problemas na coleta e na interpretação das informações.
 
 ## 2. Metodologia
 &emsp;&emsp; Para fazer a avaliação, optamos por usar o Framework DECIDE, proposto por Sharp, Rogers e Preece (2007) e citado por Simone Barbosa (2010), para que possamos planejar, executar e analisar esta avaliação.
@@ -16,7 +16,7 @@
 - **E**: Avaliar (Evaluate), interpretar e apresentar os dados.
 
 ## 3. Objetivo da Avaliação
-&emsp;&emsp; Para esta avaliação, temos como objetivo identificar se a o fluxo de tarefas e a usabilidade do nosso protótipo de alta fidelidade está de acordo com as expectativas de nossos usuários.
+&emsp;&emsp; Para esta avaliação, temos como objetivo identificar se o fluxo de tarefas e a usabilidade do nosso protótipo de alta fidelidade está de acordo com as expectativas de nossos usuários.
 
 ## 4. Método para a Avaliação
 &emsp;&emsp; Para realizar a avaliação utilizaremos uma das técnicas de avaliação através da observação, o teste de usabilidade. Como definido por Barbosa (2010), o teste de usabilidade busca avaliar a usabilidade de um sistema a partir das experiências de uso de seus usuários-alvo.
@@ -35,7 +35,7 @@
 - Quais barreiras o usuário encontra para atingir seus objetivos?
 
 
-&emsp;&emsp; Sendo assim, para que possamos garantir que todas estas perguntas serão respondidas, iremos nos reunir virtualmente com os usuários, enviar para eles o link para o acesso do protótipo e pedir para que eles compartilhem a tela equanto realizam a tarefa no sistema que for solcitada. Dessa maneira, iremos gravar a reunião, para que possamos ter em registro todos os cliques do usuário, assim marcando seus erros e acertos. Além disso, iremos incentivá-los a "pensar alto" equanto usam o sistema, para também registrarmos todas suas dúvidas e frustrações. E também, ao final iremos perguntar sobre sugestões de melhoria ou reclamações que eles possam ter.
+&emsp;&emsp; Sendo assim, para que possamos garantir que todas estas perguntas serão respondidas, iremos nos reunir virtualmente com os usuários, enviar para eles o link para o acesso do protótipo e pedir para que eles compartilhem a tela enquanto realizam a tarefa no sistema que for solicitada. Dessa maneira, iremos gravar a reunião, para que possamos ter em registro todos os cliques do usuário, assim marcando seus erros e acertos. Além disso, iremos incentivá-los a "pensar alto" equanto usam o sistema, para também registrarmos todas suas dúvidas e frustrações. E também, ao final iremos perguntar sobre sugestões de melhoria ou reclamações que eles possam ter.
 
 ## 6. Questões Éticas
 &emsp;&emsp; Para que possamos garantir que os participantes das entrevistas estejam cientes de como as informações fornecidas por eles serão utilizadas e com o objetivo de contemplar os [Aspectos Éticos](../analiseRequisitos/aspectosEticos.md) definidos para o nosso trabalho, criamos um Termo de Consentimento que será enviado ao participante e, no início da entrevista, iremos solicitar que o participante leia-o, declarando que concorda com as informações apresentadas por ele. O termo de consentimento pode ser encontrado na imagem a baixo ou então a partir deste [link](../assets/prototipoAlta/Termo_de_Consentimento_Livre_e_Esclarecido_Prototipo_Alta.pdf).
@@ -56,8 +56,8 @@
 
 | Entrevistado |                Entrevistador               | Data |         Hora        |  
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|
-|   Teste Piloto  |  Lucas, Samuel  |  7/09    | 10:00 | 
-|   -  |  -  |    -   | - | 
+|   Teste Piloto  |  Lucas, Samuel  |  11/09    | 18:00 | 
+|   Miguel Avellar |  Lucas |    11/09  | 18:30 | 
 |   -  |  -   |    - | - | 
 |   -|   -   |    - | - | 
 |   -  |  -  |    -    | - | 
@@ -76,6 +76,7 @@
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |  Criação do documento  |    Lucas    | Lara | 05/09/2022 |
+|   1.1  |  Arquivo revisado  |    Levi    | - | 05/09/2022 |
 
 ## Referências
 

@@ -55,8 +55,8 @@
 
 &emsp;&emsp;A seguir é apresentado o protótipo de papel, elaborado pelo grupo:
 
-<object data="../../assets/prototipo_papel/Prototipo-Papel-V2.pdf" type="application/pdf" width="700" height="700">
-    <embed src="../../assets/prototipo_papel/Prototipo-Papel-V2.pdf">
+<object data="../../assets/prototipo_papel/prototipo_papel_V3.pdf" type="application/pdf" width="700" height="700">
+    <embed src="../../assets/prototipo_papel/prototipo_papel_V3.pdf">
         <p>Arquivo pdf mostrando o protótip de papel que vai ser utilizado para avaliação</a>.</p>
     </embed>
 </object>  
