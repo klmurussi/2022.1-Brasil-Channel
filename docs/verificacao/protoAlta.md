@@ -36,10 +36,8 @@
 ## 3. Inspeção Protótipo de alta
   
 &emsp;&emsp;Neste tópico é apresentado a checklist respondida da inspeção do artefato e a checklist da inspeção do artefato corrigido.   
-
-### 3.1. Inspeção do artefato Metas de Usabilidade
   
-&emsp;&emsp;A checklist após inspeção das metas pode ser encontrada abaixo:
+&emsp;&emsp;A checklist após inspeção do protótipo pode ser encontrada abaixo:
   
 <center>
 
