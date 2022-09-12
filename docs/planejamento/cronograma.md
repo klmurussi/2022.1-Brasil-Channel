@@ -159,6 +159,16 @@
 
 ---
 
+## 3. Heatmap
+
+O heatmap (conferir Figura 1) tem como objetivo mostrar visualmente a disponibilidade dos integrantes do grupo para realização de reuniões presenciais ou nas ferramentas ditas anteriormente.
+
+![heatmap](../assets/cronograma/heatmap.jpg)
+<figcaption align='center'>
+    <b>Figura 1: Heatmap</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
+
 ## Histórico de versões
 
 | Versão |                Alteração               | Autor(es) |         Revisor(es)        |  Data |

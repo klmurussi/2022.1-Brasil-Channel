@@ -14,27 +14,18 @@
 | ![drawing](../assets/ferramentas/Figma.png)    | Figma     | Utilizado para fazer o Rich Picture |
 | ![drawing](../assets/ferramentas/github.png)   | Github    | Repositório do Projeto |
 | ![drawing](../assets/ferramentas/obs.PNG)    | Obs     | Utilizado para a gravação das apresentações do projeto |
-| ![drawing](../assets/ferramentas/kanban.PNG)   | Kanban  | Ferramenta para aplicação da metodologia ágil |
 | ![drawing](../assets/ferramentas/vscode.png)   | VsCode  | Editor de texto para o repositório |
 | ![drawing](../assets/ferramentas/telegram.PNG) | Telegram | Aplicativo de conversas, onde criamos um grupo para o projeto |
 | ![drawing](../assets/ferramentas/forms.PNG) | Google forms | Aplicativo para questionários |
 | ![drawing](../assets/ferramentas/diagram.PNG) | Diagram IO  | Aplicativo para desenvolvimento de diagramas e desenhos |
+| ![drawing](../assets/ferramentas/Teams.png) | Microsoft Teams  | Aplicativo para gravações de reuniões e apresentações |
+
 
 <figcaption align='center'>
     <b>Tabela 1: Ferramentas.</b>
     <br><small>Fonte: Elaboração própria.</small>
 </figcaption>
 
-
-## 2. Heatmap
-
-O heatmap (conferir Figura 1) tem como objetivo mostrar visualmente a disponibilidade dos integrantes do grupo para realização de reuniões presenciais ou nas ferramentas ditas anteriormente.
-
-![heatmap](../assets/cronograma/heatmap.jpg)
-<figcaption align='center'>
-    <b>Figura 1: Heatmap</b>
-    <br><small>Fonte: Elaboração Própria</small>
-</figcaption>
 
 
 ## Histórico de Versão
