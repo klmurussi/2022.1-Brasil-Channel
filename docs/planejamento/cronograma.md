@@ -30,10 +30,10 @@
 
 |           Atividade          |    Data  Prevista  | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:| :-------: | :---------: |
-| Perfil do usuário    |        15/jul    | Lucas | - |
-|        Aspectos Éticos de pesquisa       |   16/jul     | Lara | - |
-|    Personas    |   17/jul  | Lucas | - |
-|     Análise de Tarefa  |    18/jul| Samuel e Pedro | - |
+| Perfil do usuário    |        15/jul    | Lucas | Pedro |
+|        Aspectos Éticos de pesquisa       |   16/jul     | Lara | Lucas |
+|    Personas    |   17/jul  | Lucas | Samuel |
+|     Análise de Tarefa  |    18/jul| Samuel e Pedro | Levi |
 |      Gravar apresentação     |  19/jul| Todos | Todos |
 
 <figcaption align='center'>
@@ -47,11 +47,11 @@
 |:----------------------------:|:----------:| :-------: | :---------: |
 | Princípios gerais do projeto    |        30/jul    | Lucas | Pedro Henrique |
 |        Metas de usabilidade       |   30/jul     | Samuel | Lucas |
-|    Guia de estilo tópicos 1, 2  e  3  |   30/jul  | Levi | - |
-|    Guia de estilo tópicos 4 e 5  |   30/jul  | Pedro Henrique | - |
-|    Guia de estilo tópico 6  |   30/jul  | Kathlyn | - |
-|      Gravar apresentação     |  30/jul| Todos | - |
-|      Editar vídeo     |  31/jul| Pedro Henrique | - |
+|    Guia de estilo tópicos 1, 2  e  3  |   30/jul  | Levi | lucas |
+|    Guia de estilo tópicos 4 e 5  |   30/jul  | Pedro Henrique | Samuel |
+|    Guia de estilo tópico 6  |   30/jul  | Kathlyn | Samuel |
+|      Gravar apresentação     |  30/jul| Todos | Todos |
+|      Editar vídeo     |  31/jul| Pedro Henrique | Todos |
 
 <figcaption align='center'>
     <b>Tabela 3: Planejamento para o terceiro ponto de controle.</b>
@@ -69,8 +69,8 @@
 | Planejamento da Análise de Tarefas    |        07/ago    | Lara | Lucas |
 | StoryBoards    |        07/ago    | Levi | Lucas |
 | Detalhamento Storyboards    |        07/ago    | Samuel, Pedro | Levi |
-|      Gravar apresentação     |  07/ago | Todos | - |
-|      Editar e Postar apresentação     |  07/ago | Lucas | - |
+|      Gravar apresentação     |  07/ago | Todos | Todos |
+|      Editar e Postar apresentação     |  07/ago | Lucas | Pedro |
 
 <figcaption align='center'>
     <b>Tabela 4: Planejamento para o quarto ponto de controle.</b>
@@ -84,11 +84,11 @@
 | Melhorias do planejamento storyboard  |        12/ago    | Lucas | Pedro |
 | Melhorias do planejamento analise de tarefas  |        12/ago    | Lara | Samuel |
 | Finalização da correção do guia de estilo   |        12/ago    | Levi | Lucas |
-| Relato dos resultados do Story Board e da Análise de tarefas    |        16/ago    | Lucas, Lara, Samuel | - |
-|    protótipo em papel    |   16/ago  | Levi | - |
-|    Planejamento da avaliação do protótipo em papel    |   16/ago  | Pedro | - |
-|     planejamento do relato dos resultados da avaliação do Protótipo de Papel  |    16/ago| Pedro | - |
-|      Gravar apresentação     |  16/ago|- | - |
+| Relato dos resultados do Story Board e da Análise de tarefas    |        16/ago    | Lucas, Lara, Samuel | Samuel |
+|    protótipo em papel    |   16/ago  | Levi | Pedro |
+|    Planejamento da avaliação do protótipo em papel    |   16/ago  | Pedro | Lucas |
+|     planejamento do relato dos resultados da avaliação do Protótipo de Papel  |    16/ago| Pedro | Lucas |
+|      Gravar apresentação     |  16/ago|Todos | Todos |
 
 <figcaption align='center'>
     <b>Tabela 5: Planejamento para o quinto ponto de controle.</b>
@@ -127,9 +127,9 @@
 |  Protótipo de alta fidelidade     |        04/set    | Lucas, Pedro | Lara |
 |      Planejamento da Avaliação do protótipo de alta fidelidade       |   04/set     | Lucas | Lara |
 |     Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade   |   04/set  | Levi | Samuel |
-| Terminar analise de tarefas CTT e Hierarquica     |        05/set    |Lara | - |
-| Terminar verifcação avaliação análise de tarefas e metas de usabilidade    |        05/set    |Lara | - |
-|     Gravar apresentação  |    05/set| Todos | - |
+| Terminar analise de tarefas CTT e Hierarquica     |        05/set    |Lara | Pedro |
+| Terminar verifcação avaliação análise de tarefas e metas de usabilidade    |        05/set    |Lara | Samuel |
+|     Gravar apresentação  |    05/set| Todos | Todos |
 
 <figcaption align='center'>
     <b>Tabela 7: Planejamento para o sétimo ponto de controle.</b>
@@ -140,17 +140,17 @@
 
 |           Atividade          |    Data Prevista   | Autor(es) | Revisor(es) |
 |:----------------------------:|:----------:|  :-------: | :---------: |
-| Atualizar ferramentas     |        07/set    | Lucas | - |
-| Adicionar vídeo teste piloto     |        07/set    | Lucas | - |
-| Melhorar justificativa do site escolhido     |        07/set    | Samuel | - |
-| Verificação avaliação do protótipo de baixa fidelidade     |        09/set    | Lucas | - |
-| Verificação avaliação do protótipo de alta fidelidade     |        09/set    | Lara | - |
-| Revisão checklist analise de tarefas e storyboard     |        09/set    | Lucas | - |
-| Revisão checklist da avaliação das análises de tarefas e metas de usabilidade      |        11/set    | Lara | - |
-| Revisão checklist perfil de usuário e personas      |        11/set    | Levi | - |
-| Revisão checklist guia de estilo e pricípios gerais do projeto      |        11/set    | Pedro | - |
-| Revisar histórico de versões e referências    |        11/set    | Samuel | - |
-|      Gravar apresentação     |  12/set| - | - |
+| Atualizar ferramentas     |        07/set    | Lucas | Samuel |
+| Adicionar vídeo teste piloto     |        07/set    | Lucas | Samuel |
+| Melhorar justificativa do site escolhido     |        07/set    | Samuel | Lara |
+| Verificação avaliação do protótipo de baixa fidelidade     |        09/set    | Lucas | Pedro |
+| Verificação avaliação do protótipo de alta fidelidade     |        09/set    | Lara | Levi |
+| Revisão checklist analise de tarefas e storyboard     |        09/set    | Lucas | Levi |
+| Revisão checklist da avaliação das análises de tarefas e metas de usabilidade      |        11/set    | Lara | Lucas|
+| Revisão checklist perfil de usuário e personas      |        11/set    | Levi | Lucas |
+| Revisão checklist guia de estilo e pricípios gerais do projeto      |        11/set    | Pedro | Samuel |
+| Revisar histórico de versões e referências    |        11/set    | Samuel | Pedro |
+|      Gravar apresentação     |  12/set| Todos | Todos |
 
 <figcaption align='center'>
     <b>Tabela 8: Planejamento para as correções para a entrega final.</b>
