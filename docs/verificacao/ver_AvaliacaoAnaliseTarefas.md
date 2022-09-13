@@ -54,7 +54,7 @@
 
 |    Versão    | Alteração| Responsavel        | Revisor     | Data
 | :--------: | :----: | :------------------: | :-------------: |:----:|
-| 1.0| Criação do documento | Levi | - | 22/08/2022 |
+| 1.0| Criação do documento | Levi | Lara | 22/08/2022 |
 
 ## Referências
 

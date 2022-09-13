@@ -115,7 +115,7 @@
 
 |    Versão    | Alteração | Autor | Revisor | Data |
 | :----------: | :-------: | :---: | :-----: | :--: |
-| 1.0 | Criação do documento | Lara | - | 12/09/2022 |
+| 1.0 | Criação do documento | Lara | Pedro | 12/09/2022 |
 
 ## Referências
 
