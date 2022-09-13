@@ -76,7 +76,7 @@
 | 1.2| Adição do Protótipo de Papel e Alterações no artefato | Levi Queiroz | Pedro Caldeira | 17/08/2022 |
 | 1.3| revisão do documento | Samuel Macedo | Pedro Caldeira | 17/08/2022 |
 | 2.0| Correções da versão pessada | Pedro Caldeira | Lucas | 22/08/2022 |
-| 2.1|Adicona protótipo de papel V2| Lucas |- |28/08/2022 | 
+| 2.1|Adicona protótipo de papel V2| Lucas |Samuel |28/08/2022 | 
 
 ## Referências  
 

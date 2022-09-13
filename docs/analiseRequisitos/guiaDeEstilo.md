@@ -282,8 +282,8 @@
 |   1.3  | Adição do tópico 5, 6 e figuras |    Levi Queiroz   |  Kathlyn Lara | 02/08/2022 |
 |   1.4  | Consertado as figuras quebradas |    Levi Queiroz   |  Kathlyn Lara | 05/08/2022 |
 |   1.5  | Alteração de elementos não tipográficos | Kathlyn Lara | Levi Queiroz | 05/08/2022 |
-|   1.6  | Adição dos tópicos "Atual" com informações, adição de imagens e revisão ortográfica | Levi Queiroz | - | 17/08/2022 |
-|   1.7  | Adição paleta de cores versão 2 | Lucas | - | 5/09/2022 |
+|   1.6  | Adição dos tópicos "Atual" com informações, adição de imagens e revisão ortográfica | Levi Queiroz | Lara | 17/08/2022 |
+|   1.7  | Adição paleta de cores versão 2 | Lucas | Lara | 5/09/2022 |
 
 ## Referências
 

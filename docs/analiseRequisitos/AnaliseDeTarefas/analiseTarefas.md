@@ -159,9 +159,9 @@ Plano 3: faça 3.1 - 3.2<br>
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  | Criação do documento |    Pedro Henrique Caldeira   |  Samuel | 19/07/2022 |
 |   1.1  | Analíse de tarefas por meio do diagrama |   Samuel Victor Macedo   | Lucas | 20/07/2022 |
-|   1.2  | Correção de imagem |   Levi Queiroz  | - | 06/08/2022 |
-|   2.0  | Correção no artefato | Lara | - | 22/08/2022 |
-|   2.1  | Adição da análise de tarefas e dos resultados | Lara | - | 05/09/2022 |
+|   1.2  | Correção de imagem |   Levi Queiroz  | Samuel | 06/08/2022 |
+|   2.0  | Correção no artefato | Lara | Samuel | 22/08/2022 |
+|   2.1  | Adição da análise de tarefas e dos resultados | Lara | Samuel | 05/09/2022 |
 
 ## Referências
 

@@ -108,8 +108,8 @@ Dessa forma ele evita a atividade de executar várias pesquisas em seu navegador
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  | Criação do documento |    Lucas   |  | 16/07/2022 |
-|   2.0  | Verificação do documento | Pedro | 21/08/2022 |
+|   1.0  | Criação do documento |    Lucas   | Pedro  | 16/07/2022 |
+|   2.0  | Verificação do documento | Pedro |  Samuel |21/08/2022 |
 
 ## Referências
 - BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. Rio de Janeiro. Elsevier Editora Ltda. 2010

@@ -87,7 +87,7 @@ Este documento tem o intuito de contruir e preparar a avaliação do protótipo 
 | 1.1| Criação dos tópicos e do conteúdo | Pedro Caldeira | Levi Queiroz | 16/08/2022 |
 | 1.2| Adição do Protótipo de Papel e Alterações no artefato | Levi Queiroz | Pedro Caldeira | 17/08/2022 |
 | 1.3| revisão do documento | Samuel Macedo | Pedro Caldeira | 17/08/2022 |
-| 2.0| Correções da versão pessada | Pedro Caldeira | | 22/08/2022
+| 2.0| Correções da versão pessada | Pedro Caldeira | Levi| 22/08/2022
 
 ## Referências  
 

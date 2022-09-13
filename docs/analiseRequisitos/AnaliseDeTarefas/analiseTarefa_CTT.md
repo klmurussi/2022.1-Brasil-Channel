@@ -82,11 +82,11 @@ A figura 2 apresenta um exemplo de cada uma das relações:
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  | Criação do documento |    Levi Queiroz   | - | 20/07/2022 |
+|   1.0  | Criação do documento |    Levi Queiroz   | Lucas | 20/07/2022 |
 |   1.1  | Adição do CTT |   Levi Queiroz   | Lucas | 20/07/2022 |
-|   1.2  | Correções no artefato |   Levi Queiroz   | - | 20/07/2022 |
+|   1.2  | Correções no artefato |   Levi Queiroz   | Lara | 20/07/2022 |
 |   1.3  | Correções no artefato |   Levi Queiroz   | Lara | 31/07/2022 |
-|   2.0  | Adição de introdução e objetivo | Lara | - | 05/09/2022 |
+|   2.0  | Adição de introdução e objetivo | Lara | Samuel | 05/09/2022 |
 
 ## Referências
 

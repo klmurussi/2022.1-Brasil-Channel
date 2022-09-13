@@ -290,12 +290,12 @@ Aplicando o modelo GOMS, temos:
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  | Criação do documento |    Levi Queiroz   |  - | 20/07/2022 |
-|   1.1  | Adição do KLM, CMN e CPM |   Levi Queiroz   | Lucas | 20/07/2022 |
-|   1.2  | Consertando Tarefas CMN |   Levi Queiroz   | - | 20/07/2022 |
-|   1.3  | Consertando Tarefas CPM |   Levi Queiroz   | - | 20/07/2022 |
-|   1.4  | Correções no artefato |   Levi Queiroz   | - | 31/07/2022 |
-|   2.0  | Correção no artefato   |  Lara | - | 22/08/2022 |
+|   1.0  | Criação do documento |    Levi Queiroz   |  Lara | 20/07/2022 |
+|   1.1  | Adição do KLM, CMN e CPM |   Levi Queiroz   | Lara | 20/07/2022 |
+|   1.2  | Consertando Tarefas CMN |   Levi Queiroz   | Lara | 20/07/2022 |
+|   1.3  | Consertando Tarefas CPM |   Levi Queiroz   | Lara | 20/07/2022 |
+|   1.4  | Correções no artefato |   Levi Queiroz   | Lara | 31/07/2022 |
+|   2.0  | Correção no artefato   |  Lara | Samuel | 22/08/2022 |
 
 ## Referências
 

@@ -118,7 +118,7 @@
 | 1.2| Adição do Protótipo de Papel e Alterações no artefato | Levi Queiroz | Pedro Caldeira | 17/08/2022 |
 | 1.3| revisão do documento | Samuel Macedo | Pedro Caldeira | 17/08/2022 |
 | 2.0| Criação do documento Planejamento Avaliação Protótipo de papel |Lucas | Pedro | 20/08/2022 |
-| 2.1| Adiciona fluxo de tarefas |Lucas | - | 28/08/2022 |
+| 2.1| Adiciona fluxo de tarefas |Lucas | Levi | 28/08/2022 |
 
 
 

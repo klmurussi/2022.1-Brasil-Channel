@@ -106,7 +106,7 @@ Dessa forma, as melhorias identificadas pelos usuários e que serão considerada
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |  Criação do documento  |    Samuel Macedo    | Lucas| 04/09/2022 |
 |   1.1  |  Doumento revisado  |   Lucas   | - | 04/09/2022 |
-|   1.2  |  Adiciona lista de melhorias e respostas das perguntas  |   Lucas   | - | 10/09/2022 |
+|   1.2  |  Adiciona lista de melhorias e respostas das perguntas  |   Lucas   | Samuel | 10/09/2022 |
 
 
 ## Referências
