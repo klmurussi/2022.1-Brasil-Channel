@@ -82,14 +82,14 @@
 - No caso do Brasil Channel, temos algumas dificuldades com os mapeamentos e fluxos do site. Como por exemplo, muitas vezes ao entrar em alguma opção do menu é aberto um novo submenu, que por sua vez ocupa o espaço das opções anteriores, dessa forma, não permitindo com que o usuário volte a acessar o menu principal facilmente e obrigue um comportamento não natural por parte do usuário, como podemos ver pelas imagens a baixo:
 
 <center>
-<img src="../../assets/principiosGerais/../../docs/assets/principiosGerais/capitais.png" width="150"></img>
+![Image](../assets/principiosGerais/capitais.png)
 </center>
 <figcaption align='center'>
     <b>Figura 1: Menu de Capitais.</b>
     <br><small>Fonte: <a href="https://www.brasilchannel.com.br/">Brasil Channel</a> </small>
 </figcaption>
 <center>
-<img src="../../assets/principiosGerais/../../docs/assets/principiosGerais/capital.png" width="150"></img>
+![Image](../assets/principiosGerais/capital.png)
 </center>
 <figcaption align='center'>
     <b>Figura 2: Menu da capital escolhida.</b>

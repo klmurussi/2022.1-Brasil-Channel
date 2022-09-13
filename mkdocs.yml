@@ -88,6 +88,7 @@ nav:
         - 'Ponto de controle 5': './apresentacoes/apresentacao5.md'
         - 'Ponto de controle 6': './apresentacoes/apresentacao6.md'
         - 'Ponto de controle 7': './apresentacoes/apresentacao7.md'
+        - 'Ponto de controle 8': './apresentacoes/apresentacao8.md'
 
 theme:
   name: material
