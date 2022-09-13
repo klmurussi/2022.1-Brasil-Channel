@@ -11,7 +11,7 @@
 | :------: | :----------: | :---------------------------------------------------: |
 | ![drawing](../assets/ferramentas/Canva.png)    | Canva     | Utilizado para a elaboração das apresentações |
 | ![drawing](../assets/ferramentas/discord.png)  | Discord   | Reuniões da equipe para a elaboração das atividades |
-| ![drawing](../assets/ferramentas/Figma.png)    | Figma     | Utilizado para fazer o Rich Picture |
+| ![drawing](../assets/ferramentas/Figma.png)    | Figma     | Utilizado para fazer o Protótipo de alta fidelidade e gráficos |
 | ![drawing](../assets/ferramentas/github.png)   | Github    | Repositório do Projeto |
 | ![drawing](../assets/ferramentas/obs.PNG)    | Obs     | Utilizado para a gravação das apresentações do projeto |
 | ![drawing](../assets/ferramentas/vscode.png)   | VsCode  | Editor de texto para o repositório |
