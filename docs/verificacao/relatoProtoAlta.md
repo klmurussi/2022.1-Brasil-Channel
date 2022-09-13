@@ -50,10 +50,10 @@
 | 2 | O documento possui objetivo? | ✅ |
 | 3 | O documento possui metodologia? | ✅ |
 | 4 | O documento utiliza a metodologia DECIDE? | ✅ |
-| 5 | Os participantes estão de acordo com o perfil do usuário? | |
-| 6 | As entrevistas estão no documento? | |
-| 7 | Há um resumo das entrevistas de cada participante? | |
-| 8 | Há uma conclusão sobre a avaliação? | | 
+| 5 | Os participantes estão de acordo com o perfil do usuário? | ✅ |
+| 6 | As entrevistas estão no documento? | ✅ |
+| 7 | Há um resumo das entrevistas de cada participante? | ✅ |
+| 8 | Há uma conclusão sobre a avaliação? | ✅ | 
   
 </center>
   
@@ -64,20 +64,20 @@
 
 ### 3.1 Resultados
 
-&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento não atende 1 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 80% como podemos ver a partir do gráfico abaixo:
+&emsp;&emsp;A partir da inspeção da segunda versão do artefato verificamos que o documento atende com todos os critérios de avaliação definidos na checklist, como pode ser obervado a partir do gráfico abaixo:
 
 <center>
 
-![Grafico](../../assets/graficosVerificacao/grafico1_protoAlta.png)
+![Grafico](../assets/graficosVerificacao/GraficoVerificacaoPlanejProtipV2.png)
 
 </center>
 
 <figcaption align='center'>
-    <b>Figura 1: Gráfico resultado inspeção Relato da Avaliação do protótipo de alta fidelidade/b>
+    <b>Figura 1: Gráfico resultado inspeção Relato da Avaliação do protótipo de alta fidelidade</b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
-&emsp;&emsp; Desta forma, decidimos que no momento não havia a necessidade de ser gerada uma segunda versão do artefato.
+&emsp;&emsp;Desta forma, decidimos que no momento não havia a necessidade de ser gerada uma segunda versão do artefato.
 
 ## Historico de Versão 
 
